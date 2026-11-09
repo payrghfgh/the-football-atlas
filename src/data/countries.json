@@ -1,0 +1,644 @@
+[
+ {
+  "id": "argentina",
+  "name": "Argentina",
+  "code": "AR",
+  "confederation": "CONMEBOL",
+  "fifaRank": null,
+  "wcTitles": 3,
+  "wcTitleYears": [
+   1978,
+   1986,
+   2022
+  ],
+  "wcAppearances": 18,
+  "bestFinish": "Winners (1978, 1986, 2022)",
+  "wcRecord": null,
+  "squadIds": [
+   "diego-maradona",
+   "alfredo-di-stefano",
+   "lionel-messi",
+   "gabriel-batistuta",
+   "sergio-aguero",
+   "javier-zanetti",
+   "juan-roman-riquelme"
+  ],
+  "topScorerIds": [
+   "lionel-messi",
+   "gabriel-batistuta",
+   "sergio-aguero",
+   "diego-maradona",
+   "alfredo-di-stefano"
+  ]
+ },
+ {
+  "id": "belgium",
+  "name": "Belgium",
+  "code": "BE",
+  "confederation": "UEFA",
+  "fifaRank": null,
+  "wcTitles": 0,
+  "wcTitleYears": [],
+  "wcAppearances": 14,
+  "bestFinish": "Third place (2018)",
+  "wcRecord": null,
+  "squadIds": [
+   "kevin-de-bruyne"
+  ],
+  "topScorerIds": [
+   "kevin-de-bruyne"
+  ]
+ },
+ {
+  "id": "brazil",
+  "name": "Brazil",
+  "code": "BR",
+  "confederation": "CONMEBOL",
+  "fifaRank": null,
+  "wcTitles": 5,
+  "wcTitleYears": [
+   1958,
+   1962,
+   1970,
+   1994,
+   2002
+  ],
+  "wcAppearances": 22,
+  "bestFinish": "Winners (1958, 1962, 1970, 1994, 2002)",
+  "wcRecord": null,
+  "squadIds": [
+   "pele",
+   "ronaldo-nazario",
+   "ronaldinho",
+   "garrincha",
+   "kaka",
+   "neymar",
+   "romario",
+   "zico",
+   "cafu",
+   "roberto-carlos",
+   "rivaldo",
+   "alisson-becker",
+   "vinicius-junior",
+   "dani-alves",
+   "marcelo-vieira"
+  ],
+  "topScorerIds": [
+   "neymar",
+   "pele",
+   "ronaldo-nazario",
+   "romario",
+   "zico"
+  ]
+ },
+ {
+  "id": "bulgaria",
+  "name": "Bulgaria",
+  "code": "BG",
+  "confederation": "UEFA",
+  "fifaRank": null,
+  "wcTitles": 0,
+  "wcTitleYears": [],
+  "wcAppearances": 7,
+  "bestFinish": "Fourth place (1994)",
+  "wcRecord": null,
+  "squadIds": [
+   "hristo-stoichkov"
+  ],
+  "topScorerIds": [
+   "hristo-stoichkov"
+  ]
+ },
+ {
+  "id": "cameroon",
+  "name": "Cameroon",
+  "code": "CM",
+  "confederation": "CAF",
+  "fifaRank": null,
+  "wcTitles": 0,
+  "wcTitleYears": [],
+  "wcAppearances": 8,
+  "bestFinish": "Quarter-finals (1990)",
+  "wcRecord": null,
+  "squadIds": [
+   "samuel-etoo"
+  ],
+  "topScorerIds": [
+   "samuel-etoo"
+  ]
+ },
+ {
+  "id": "croatia",
+  "name": "Croatia",
+  "code": "HR",
+  "confederation": "UEFA",
+  "fifaRank": null,
+  "wcTitles": 0,
+  "wcTitleYears": [],
+  "wcAppearances": 6,
+  "bestFinish": "Runners-up (2018)",
+  "wcRecord": null,
+  "squadIds": [
+   "luka-modric"
+  ],
+  "topScorerIds": [
+   "luka-modric"
+  ]
+ },
+ {
+  "id": "denmark",
+  "name": "Denmark",
+  "code": "DK",
+  "confederation": "UEFA",
+  "fifaRank": null,
+  "wcTitles": 0,
+  "wcTitleYears": [],
+  "wcAppearances": 6,
+  "bestFinish": "Quarter-finals (1998)",
+  "wcRecord": null,
+  "squadIds": [
+   "peter-schmeichel"
+  ],
+  "topScorerIds": [
+   "peter-schmeichel"
+  ]
+ },
+ {
+  "id": "egypt",
+  "name": "Egypt",
+  "code": "EG",
+  "confederation": "CAF",
+  "fifaRank": null,
+  "wcTitles": 0,
+  "wcTitleYears": [],
+  "wcAppearances": 3,
+  "bestFinish": "Group stage",
+  "wcRecord": null,
+  "squadIds": [
+   "mohamed-salah"
+  ],
+  "topScorerIds": [
+   "mohamed-salah"
+  ]
+ },
+ {
+  "id": "england",
+  "name": "England",
+  "code": "GB",
+  "confederation": "UEFA",
+  "fifaRank": null,
+  "wcTitles": 1,
+  "wcTitleYears": [
+   1966
+  ],
+  "wcAppearances": 16,
+  "bestFinish": "Winners (1966)",
+  "wcRecord": null,
+  "squadIds": [
+   "gurman-singh-bindra",
+   "bobby-moore",
+   "steven-gerrard",
+   "harry-kane",
+   "gordon-banks",
+   "jude-bellingham",
+   "frank-lampard",
+   "paul-scholes",
+   "ashley-cole"
+  ],
+  "topScorerIds": [
+   "harry-kane",
+   "frank-lampard",
+   "steven-gerrard",
+   "paul-scholes",
+   "jude-bellingham"
+  ]
+ },
+ {
+  "id": "france",
+  "name": "France",
+  "code": "FR",
+  "confederation": "UEFA",
+  "fifaRank": null,
+  "wcTitles": 2,
+  "wcTitleYears": [
+   1998,
+   2018
+  ],
+  "wcAppearances": 16,
+  "bestFinish": "Winners (1998, 2018)",
+  "wcRecord": null,
+  "squadIds": [
+   "zinedine-zidane",
+   "thierry-henry",
+   "michel-platini",
+   "kylian-mbappe",
+   "karim-benzema",
+   "patrick-vieira",
+   "ngolo-kante",
+   "claude-makelele"
+  ],
+  "topScorerIds": [
+   "kylian-mbappe",
+   "thierry-henry",
+   "michel-platini",
+   "karim-benzema",
+   "zinedine-zidane"
+  ]
+ },
+ {
+  "id": "germany",
+  "name": "Germany",
+  "code": "DE",
+  "confederation": "UEFA",
+  "fifaRank": null,
+  "wcTitles": 4,
+  "wcTitleYears": [
+   2014
+  ],
+  "wcAppearances": 20,
+  "bestFinish": "Winners (1954, 1974, 1990, 2014)",
+  "wcRecord": null,
+  "squadIds": [
+   "franz-beckenbauer",
+   "gerd-muller",
+   "lothar-matthaus",
+   "manuel-neuer",
+   "toni-kroos",
+   "philipp-lahm"
+  ],
+  "topScorerIds": [
+   "gerd-muller",
+   "lothar-matthaus",
+   "toni-kroos",
+   "franz-beckenbauer",
+   "philipp-lahm"
+  ]
+ },
+ {
+  "id": "hungary",
+  "name": "Hungary",
+  "code": "HU",
+  "confederation": "UEFA",
+  "fifaRank": null,
+  "wcTitles": 0,
+  "wcTitleYears": [],
+  "wcAppearances": 9,
+  "bestFinish": "Runners-up (1938, 1954)",
+  "wcRecord": null,
+  "squadIds": [
+   "ferenc-puskas"
+  ],
+  "topScorerIds": [
+   "ferenc-puskas"
+  ]
+ },
+ {
+  "id": "india",
+  "name": "India",
+  "code": "IN",
+  "confederation": "AFC",
+  "fifaRank": null,
+  "wcTitles": 0,
+  "wcTitleYears": [],
+  "wcAppearances": 0,
+  "bestFinish": "Never played (qualified 1950, withdrew)",
+  "wcRecord": null,
+  "squadIds": [
+   "sunil-chhetri"
+  ],
+  "topScorerIds": [
+   "sunil-chhetri"
+  ]
+ },
+ {
+  "id": "ireland",
+  "name": "Ireland",
+  "code": "IE",
+  "confederation": "UEFA",
+  "fifaRank": null,
+  "wcTitles": 0,
+  "wcTitleYears": [],
+  "wcAppearances": 3,
+  "bestFinish": "Quarter-finals (1990)",
+  "wcRecord": null,
+  "squadIds": [
+   "roy-keane"
+  ],
+  "topScorerIds": [
+   "roy-keane"
+  ]
+ },
+ {
+  "id": "italy",
+  "name": "Italy",
+  "code": "IT",
+  "confederation": "UEFA",
+  "fifaRank": null,
+  "wcTitles": 4,
+  "wcTitleYears": [
+   1934,
+   1938,
+   1982,
+   2006
+  ],
+  "wcAppearances": 18,
+  "bestFinish": "Winners (1934, 1938, 1982, 2006)",
+  "wcRecord": null,
+  "squadIds": [
+   "paolo-maldini",
+   "franco-baresi",
+   "roberto-baggio",
+   "gianluigi-buffon",
+   "andrea-pirlo",
+   "fabio-cannavaro",
+   "dino-zoff"
+  ],
+  "topScorerIds": [
+   "roberto-baggio",
+   "andrea-pirlo",
+   "paolo-maldini",
+   "fabio-cannavaro",
+   "franco-baresi"
+  ]
+ },
+ {
+  "id": "ivory-coast",
+  "name": "Ivory Coast",
+  "code": "CI",
+  "confederation": "CAF",
+  "fifaRank": null,
+  "wcTitles": 0,
+  "wcTitleYears": [],
+  "wcAppearances": 3,
+  "bestFinish": "Group stage",
+  "wcRecord": null,
+  "squadIds": [
+   "didier-drogba"
+  ],
+  "topScorerIds": [
+   "didier-drogba"
+  ]
+ },
+ {
+  "id": "liberia",
+  "name": "Liberia",
+  "code": "LR",
+  "confederation": "CAF",
+  "fifaRank": null,
+  "wcTitles": 0,
+  "wcTitleYears": [],
+  "wcAppearances": 0,
+  "bestFinish": "Never qualified",
+  "wcRecord": null,
+  "squadIds": [
+   "george-weah"
+  ],
+  "topScorerIds": [
+   "george-weah"
+  ]
+ },
+ {
+  "id": "mexico",
+  "name": "Mexico",
+  "code": "MX",
+  "confederation": "CONCACAF",
+  "fifaRank": null,
+  "wcTitles": 0,
+  "wcTitleYears": [],
+  "wcAppearances": 17,
+  "bestFinish": "Quarter-finals (1970, 1986)",
+  "wcRecord": null,
+  "squadIds": [
+   "hugo-sanchez"
+  ],
+  "topScorerIds": [
+   "hugo-sanchez"
+  ]
+ },
+ {
+  "id": "netherlands",
+  "name": "Netherlands",
+  "code": "NL",
+  "confederation": "UEFA",
+  "fifaRank": null,
+  "wcTitles": 0,
+  "wcTitleYears": [],
+  "wcAppearances": 11,
+  "bestFinish": "Runners-up (1974, 1978, 2010)",
+  "wcRecord": null,
+  "squadIds": [
+   "johan-cruyff",
+   "marco-van-basten",
+   "virgil-van-dijk",
+   "ronald-koeman"
+  ],
+  "topScorerIds": [
+   "johan-cruyff",
+   "marco-van-basten",
+   "ronald-koeman",
+   "virgil-van-dijk"
+  ]
+ },
+ {
+  "id": "northern-ireland",
+  "name": "Northern Ireland",
+  "code": "GB",
+  "confederation": "UEFA",
+  "fifaRank": null,
+  "wcTitles": 0,
+  "wcTitleYears": [],
+  "wcAppearances": 3,
+  "bestFinish": "Quarter-finals (1958)",
+  "wcRecord": null,
+  "squadIds": [
+   "george-best"
+  ],
+  "topScorerIds": [
+   "george-best"
+  ]
+ },
+ {
+  "id": "norway",
+  "name": "Norway",
+  "code": "NO",
+  "confederation": "UEFA",
+  "fifaRank": null,
+  "wcTitles": 0,
+  "wcTitleYears": [],
+  "wcAppearances": 3,
+  "bestFinish": "Round of 16 (1998)",
+  "wcRecord": null,
+  "squadIds": [
+   "erling-haaland"
+  ],
+  "topScorerIds": [
+   "erling-haaland"
+  ]
+ },
+ {
+  "id": "poland",
+  "name": "Poland",
+  "code": "PL",
+  "confederation": "UEFA",
+  "fifaRank": null,
+  "wcTitles": 0,
+  "wcTitleYears": [],
+  "wcAppearances": 9,
+  "bestFinish": "Third place (1974, 1982)",
+  "wcRecord": null,
+  "squadIds": [
+   "robert-lewandowski"
+  ],
+  "topScorerIds": [
+   "robert-lewandowski"
+  ]
+ },
+ {
+  "id": "portugal",
+  "name": "Portugal",
+  "code": "PT",
+  "confederation": "UEFA",
+  "fifaRank": null,
+  "wcTitles": 0,
+  "wcTitleYears": [],
+  "wcAppearances": 8,
+  "bestFinish": "Third place (1966)",
+  "wcRecord": null,
+  "squadIds": [
+   "eusebio",
+   "cristiano-ronaldo",
+   "luis-figo"
+  ],
+  "topScorerIds": [
+   "cristiano-ronaldo",
+   "eusebio",
+   "luis-figo"
+  ]
+ },
+ {
+  "id": "senegal",
+  "name": "Senegal",
+  "code": "SN",
+  "confederation": "CAF",
+  "fifaRank": null,
+  "wcTitles": 0,
+  "wcTitleYears": [],
+  "wcAppearances": 3,
+  "bestFinish": "Quarter-finals (2002)",
+  "wcRecord": null,
+  "squadIds": [
+   "sadio-mane"
+  ],
+  "topScorerIds": [
+   "sadio-mane"
+  ]
+ },
+ {
+  "id": "soviet-union",
+  "name": "Soviet Union",
+  "code": "RU",
+  "confederation": "UEFA",
+  "fifaRank": null,
+  "wcTitles": 0,
+  "wcTitleYears": [],
+  "wcAppearances": 7,
+  "bestFinish": "Fourth place (1966)",
+  "wcRecord": null,
+  "squadIds": [
+   "lev-yashin"
+  ],
+  "topScorerIds": [
+   "lev-yashin"
+  ]
+ },
+ {
+  "id": "spain",
+  "name": "Spain",
+  "code": "ES",
+  "confederation": "UEFA",
+  "fifaRank": null,
+  "wcTitles": 2,
+  "wcTitleYears": [
+   2010,
+   2026
+  ],
+  "wcAppearances": 17,
+  "bestFinish": "Winners (2010, 2026)",
+  "wcRecord": null,
+  "squadIds": [
+   "andres-iniesta",
+   "xavi-hernandez",
+   "iker-casillas",
+   "sergio-ramos",
+   "raul-gonzalez",
+   "rodri-hernandez",
+   "sergio-busquets",
+   "carles-puyol",
+   "david-villa"
+  ],
+  "topScorerIds": [
+   "david-villa",
+   "raul-gonzalez",
+   "sergio-ramos",
+   "andres-iniesta",
+   "xavi-hernandez"
+  ]
+ },
+ {
+  "id": "sweden",
+  "name": "Sweden",
+  "code": "SE",
+  "confederation": "UEFA",
+  "fifaRank": null,
+  "wcTitles": 0,
+  "wcTitleYears": [],
+  "wcAppearances": 12,
+  "bestFinish": "Runners-up (1958)",
+  "wcRecord": null,
+  "squadIds": [
+   "zlatan-ibrahimovic"
+  ],
+  "topScorerIds": [
+   "zlatan-ibrahimovic"
+  ]
+ },
+ {
+  "id": "ukraine",
+  "name": "Ukraine",
+  "code": "UA",
+  "confederation": "UEFA",
+  "fifaRank": null,
+  "wcTitles": 0,
+  "wcTitleYears": [],
+  "wcAppearances": 1,
+  "bestFinish": "Quarter-finals (2006)",
+  "wcRecord": null,
+  "squadIds": [
+   "andriy-shevchenko"
+  ],
+  "topScorerIds": [
+   "andriy-shevchenko"
+  ]
+ },
+ {
+  "id": "uruguay",
+  "name": "Uruguay",
+  "code": "UY",
+  "confederation": "CONMEBOL",
+  "fifaRank": null,
+  "wcTitles": 2,
+  "wcTitleYears": [
+   1930,
+   1950
+  ],
+  "wcAppearances": 14,
+  "bestFinish": "Winners (1930, 1950)",
+  "wcRecord": null,
+  "squadIds": [
+   "luis-suarez"
+  ],
+  "topScorerIds": [
+   "luis-suarez"
+  ]
+ }
+]
