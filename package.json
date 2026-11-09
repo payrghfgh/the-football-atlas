@@ -1,0 +1,35 @@
+{
+  "name": "the-football-atlas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Football Atlas — a searchable encyclopedia of football players, countries, clubs and every FIFA World Cup from 1930 to 2026.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "data": "python3 scripts/build_dataset.py"
+  },
+  "dependencies": {
+    "clsx": "2.1.1",
+    "country-flag-icons": "1.5.13",
+    "framer-motion": "11.15.0",
+    "html-to-image": "1.11.13",
+    "next": "^15.5.29",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "recharts": "2.15.0"
+  },
+  "devDependencies": {
+    "@fontsource-variable/inter": "5.1.1",
+    "@fontsource/bebas-neue": "5.1.1",
+    "@types/node": "22.10.5",
+    "@types/react": "19.0.7",
+    "@types/react-dom": "19.0.3",
+    "autoprefixer": "10.4.20",
+    "postcss": "8.5.1",
+    "tailwindcss": "3.4.17",
+    "typescript": "5.7.3"
+  }
+}
