@@ -1,0 +1,1580 @@
+[
+ {
+  "id": "ac-milan",
+  "name": "AC Milan",
+  "countryCode": "IT",
+  "honours": [
+   "7× European Cup / UEFA Champions League"
+  ],
+  "squadIds": [
+   "ronaldo-nazario",
+   "marco-van-basten",
+   "paolo-maldini",
+   "ronaldinho",
+   "franco-baresi",
+   "roberto-baggio",
+   "kaka",
+   "cafu",
+   "andrea-pirlo",
+   "rivaldo",
+   "andriy-shevchenko",
+   "zlatan-ibrahimovic",
+   "patrick-vieira",
+   "george-weah"
+  ]
+ },
+ {
+  "id": "ajax",
+  "name": "Ajax",
+  "countryCode": "NL",
+  "honours": [
+   "4× European Cup / UEFA Champions League"
+  ],
+  "squadIds": [
+   "johan-cruyff",
+   "marco-van-basten",
+   "luis-suarez",
+   "zlatan-ibrahimovic",
+   "ronald-koeman"
+  ]
+ },
+ {
+  "id": "al-sadd",
+  "name": "Al Sadd",
+  "countryCode": "QA",
+  "honours": [],
+  "squadIds": [
+   "xavi-hernandez",
+   "raul-gonzalez"
+  ]
+ },
+ {
+  "id": "al-hilal",
+  "name": "Al-Hilal",
+  "countryCode": "SA",
+  "honours": [],
+  "squadIds": [
+   "neymar"
+  ]
+ },
+ {
+  "id": "al-ittihad",
+  "name": "Al-Ittihad",
+  "countryCode": "SA",
+  "honours": [],
+  "squadIds": [
+   "karim-benzema",
+   "ngolo-kante"
+  ]
+ },
+ {
+  "id": "al-nassr",
+  "name": "Al-Nassr",
+  "countryCode": "SA",
+  "honours": [],
+  "squadIds": [
+   "cristiano-ronaldo",
+   "hristo-stoichkov",
+   "sadio-mane"
+  ]
+ },
+ {
+  "id": "antalyaspor",
+  "name": "Antalyaspor",
+  "countryCode": "TR",
+  "honours": [],
+  "squadIds": [
+   "samuel-etoo"
+  ]
+ },
+ {
+  "id": "argentinos-juniors",
+  "name": "Argentinos Juniors",
+  "countryCode": "AR",
+  "honours": [],
+  "squadIds": [
+   "diego-maradona",
+   "juan-roman-riquelme"
+  ]
+ },
+ {
+  "id": "arsenal",
+  "name": "Arsenal",
+  "countryCode": "GB",
+  "honours": [],
+  "squadIds": [
+   "thierry-henry",
+   "patrick-vieira",
+   "ashley-cole"
+  ]
+ },
+ {
+  "id": "aston-villa",
+  "name": "Aston Villa",
+  "countryCode": "GB",
+  "honours": [
+   "1× European Cup / UEFA Champions League"
+  ],
+  "squadIds": [
+   "peter-schmeichel"
+  ]
+ },
+ {
+  "id": "atl-tico-madrid",
+  "name": "Atlético Madrid",
+  "countryCode": "ES",
+  "honours": [],
+  "squadIds": [
+   "luis-suarez",
+   "sergio-aguero",
+   "rodri-hernandez",
+   "hugo-sanchez",
+   "david-villa"
+  ]
+ },
+ {
+  "id": "atl-tico-mineiro",
+  "name": "Atlético Mineiro",
+  "countryCode": "BR",
+  "honours": [],
+  "squadIds": [
+   "ronaldinho"
+  ]
+ },
+ {
+  "id": "bahia",
+  "name": "Bahia",
+  "countryCode": "BR",
+  "honours": [],
+  "squadIds": [
+   "dani-alves"
+  ]
+ },
+ {
+  "id": "banfield",
+  "name": "Banfield",
+  "countryCode": "AR",
+  "honours": [],
+  "squadIds": [
+   "javier-zanetti"
+  ]
+ },
+ {
+  "id": "barcelona",
+  "name": "Barcelona",
+  "countryCode": "ES",
+  "honours": [
+   "5× European Cup / UEFA Champions League"
+  ],
+  "squadIds": [
+   "diego-maradona",
+   "ronaldo-nazario",
+   "johan-cruyff",
+   "lionel-messi",
+   "ronaldinho",
+   "thierry-henry",
+   "andres-iniesta",
+   "neymar",
+   "romario",
+   "xavi-hernandez",
+   "samuel-etoo",
+   "luis-figo",
+   "robert-lewandowski",
+   "rivaldo",
+   "luis-suarez",
+   "sergio-aguero",
+   "zlatan-ibrahimovic",
+   "hristo-stoichkov",
+   "sergio-busquets",
+   "carles-puyol",
+   "david-villa",
+   "dani-alves",
+   "ronald-koeman",
+   "juan-roman-riquelme"
+  ]
+ },
+ {
+  "id": "basel",
+  "name": "Basel",
+  "countryCode": "CH",
+  "honours": [],
+  "squadIds": [
+   "mohamed-salah"
+  ]
+ },
+ {
+  "id": "bayer-leverkusen",
+  "name": "Bayer Leverkusen",
+  "countryCode": "DE",
+  "honours": [],
+  "squadIds": [
+   "toni-kroos"
+  ]
+ },
+ {
+  "id": "bayern-munich",
+  "name": "Bayern Munich",
+  "countryCode": "DE",
+  "honours": [
+   "6× European Cup / UEFA Champions League"
+  ],
+  "squadIds": [
+   "franz-beckenbauer",
+   "gerd-muller",
+   "robert-lewandowski",
+   "lothar-matthaus",
+   "manuel-neuer",
+   "harry-kane",
+   "toni-kroos",
+   "philipp-lahm",
+   "sadio-mane"
+  ]
+ },
+ {
+  "id": "benfica",
+  "name": "Benfica",
+  "countryCode": "PT",
+  "honours": [
+   "2× European Cup / UEFA Champions League"
+  ],
+  "squadIds": [
+   "eusebio"
+  ]
+ },
+ {
+  "id": "bengaluru-fc",
+  "name": "Bengaluru FC",
+  "countryCode": "IN",
+  "honours": [],
+  "squadIds": [
+   "sunil-chhetri"
+  ]
+ },
+ {
+  "id": "birmingham-city",
+  "name": "Birmingham City",
+  "countryCode": "GB",
+  "honours": [],
+  "squadIds": [
+   "jude-bellingham"
+  ]
+ },
+ {
+  "id": "boca-juniors",
+  "name": "Boca Juniors",
+  "countryCode": "AR",
+  "honours": [
+   "Six Copa Libertadores titles."
+  ],
+  "squadIds": [
+   "diego-maradona",
+   "gabriel-batistuta",
+   "juan-roman-riquelme"
+  ]
+ },
+ {
+  "id": "bologna",
+  "name": "Bologna",
+  "countryCode": "IT",
+  "honours": [],
+  "squadIds": [
+   "roberto-baggio"
+  ]
+ },
+ {
+  "id": "bordeaux",
+  "name": "Bordeaux",
+  "countryCode": "FR",
+  "honours": [],
+  "squadIds": [
+   "zinedine-zidane"
+  ]
+ },
+ {
+  "id": "borussia-dortmund",
+  "name": "Borussia Dortmund",
+  "countryCode": "DE",
+  "honours": [
+   "1× European Cup / UEFA Champions League"
+  ],
+  "squadIds": [
+   "erling-haaland",
+   "robert-lewandowski",
+   "jude-bellingham"
+  ]
+ },
+ {
+  "id": "borussia-m-nchengladbach",
+  "name": "Borussia Mönchengladbach",
+  "countryCode": "DE",
+  "honours": [],
+  "squadIds": [
+   "lothar-matthaus"
+  ]
+ },
+ {
+  "id": "boston-minutemen",
+  "name": "Boston Minutemen",
+  "countryCode": "US",
+  "honours": [],
+  "squadIds": [
+   "eusebio"
+  ]
+ },
+ {
+  "id": "botafogo",
+  "name": "Botafogo",
+  "countryCode": "BR",
+  "honours": [],
+  "squadIds": [
+   "garrincha"
+  ]
+ },
+ {
+  "id": "boulogne",
+  "name": "Boulogne",
+  "countryCode": "FR",
+  "honours": [],
+  "squadIds": [
+   "ngolo-kante"
+  ]
+ },
+ {
+  "id": "brescia",
+  "name": "Brescia",
+  "countryCode": "IT",
+  "honours": [],
+  "squadIds": [
+   "roberto-baggio",
+   "andrea-pirlo"
+  ]
+ },
+ {
+  "id": "bryne",
+  "name": "Bryne",
+  "countryCode": "NO",
+  "honours": [],
+  "squadIds": [
+   "erling-haaland"
+  ]
+ },
+ {
+  "id": "br-ndby",
+  "name": "Brøndby",
+  "countryCode": "DK",
+  "honours": [],
+  "squadIds": [
+   "peter-schmeichel"
+  ]
+ },
+ {
+  "id": "budapest-honv-d",
+  "name": "Budapest Honvéd",
+  "countryCode": "HU",
+  "honours": [],
+  "squadIds": [
+   "ferenc-puskas"
+  ]
+ },
+ {
+  "id": "cska-sofia",
+  "name": "CSKA Sofia",
+  "countryCode": "BG",
+  "honours": [],
+  "squadIds": [
+   "hristo-stoichkov"
+  ]
+ },
+ {
+  "id": "caen",
+  "name": "Caen",
+  "countryCode": "FR",
+  "honours": [],
+  "squadIds": [
+   "ngolo-kante"
+  ]
+ },
+ {
+  "id": "cannes",
+  "name": "Cannes",
+  "countryCode": "FR",
+  "honours": [],
+  "squadIds": [
+   "zinedine-zidane",
+   "patrick-vieira"
+  ]
+ },
+ {
+  "id": "celta-vigo",
+  "name": "Celta Vigo",
+  "countryCode": "ES",
+  "honours": [],
+  "squadIds": [
+   "claude-makelele"
+  ]
+ },
+ {
+  "id": "celtic",
+  "name": "Celtic",
+  "countryCode": "GB",
+  "honours": [
+   "1× European Cup / UEFA Champions League"
+  ],
+  "squadIds": [
+   "virgil-van-dijk",
+   "roy-keane"
+  ]
+ },
+ {
+  "id": "chelsea",
+  "name": "Chelsea",
+  "countryCode": "GB",
+  "honours": [
+   "2× European Cup / UEFA Champions League"
+  ],
+  "squadIds": [
+   "kevin-de-bruyne",
+   "samuel-etoo",
+   "mohamed-salah",
+   "andriy-shevchenko",
+   "didier-drogba",
+   "george-weah",
+   "ngolo-kante",
+   "frank-lampard",
+   "claude-makelele",
+   "ashley-cole"
+  ]
+ },
+ {
+  "id": "chicago-fire",
+  "name": "Chicago Fire",
+  "countryCode": "US",
+  "honours": [],
+  "squadIds": [
+   "hristo-stoichkov"
+  ]
+ },
+ {
+  "id": "club-am-rica",
+  "name": "Club América",
+  "countryCode": "MX",
+  "honours": [],
+  "squadIds": [
+   "hugo-sanchez"
+  ]
+ },
+ {
+  "id": "cobh-ramblers",
+  "name": "Cobh Ramblers",
+  "countryCode": "IE",
+  "honours": [],
+  "squadIds": [
+   "roy-keane"
+  ]
+ },
+ {
+  "id": "corinthians",
+  "name": "Corinthians",
+  "countryCode": "BR",
+  "honours": [],
+  "squadIds": [
+   "ronaldo-nazario"
+  ]
+ },
+ {
+  "id": "cruzeiro",
+  "name": "Cruzeiro",
+  "countryCode": "BR",
+  "honours": [],
+  "squadIds": [
+   "ronaldo-nazario"
+  ]
+ },
+ {
+  "id": "deportivo-la-coru-a",
+  "name": "Deportivo La Coruña",
+  "countryCode": "ES",
+  "honours": [],
+  "squadIds": [
+   "rivaldo"
+  ]
+ },
+ {
+  "id": "dinamo-zagreb",
+  "name": "Dinamo Zagreb",
+  "countryCode": "HR",
+  "honours": [],
+  "squadIds": [
+   "luka-modric"
+  ]
+ },
+ {
+  "id": "dynamo-kyiv",
+  "name": "Dynamo Kyiv",
+  "countryCode": "UA",
+  "honours": [],
+  "squadIds": [
+   "andriy-shevchenko",
+   "andriy-shevchenko"
+  ]
+ },
+ {
+  "id": "dynamo-moscow",
+  "name": "Dynamo Moscow",
+  "countryCode": "RU",
+  "honours": [],
+  "squadIds": [
+   "lev-yashin"
+  ]
+ },
+ {
+  "id": "el-mokawloon",
+  "name": "El Mokawloon",
+  "countryCode": "EG",
+  "honours": [],
+  "squadIds": [
+   "mohamed-salah"
+  ]
+ },
+ {
+  "id": "emirates-club",
+  "name": "Emirates Club",
+  "countryCode": "AE",
+  "honours": [],
+  "squadIds": [
+   "andres-iniesta"
+  ]
+ },
+ {
+  "id": "espanyol",
+  "name": "Espanyol",
+  "countryCode": "ES",
+  "honours": [],
+  "squadIds": [
+   "alfredo-di-stefano"
+  ]
+ },
+ {
+  "id": "everton",
+  "name": "Everton",
+  "countryCode": "GB",
+  "honours": [],
+  "squadIds": [
+   "samuel-etoo"
+  ]
+ },
+ {
+  "id": "fenerbah-e",
+  "name": "Fenerbahçe",
+  "countryCode": "TR",
+  "honours": [],
+  "squadIds": [
+   "roberto-carlos"
+  ]
+ },
+ {
+  "id": "feyenoord",
+  "name": "Feyenoord",
+  "countryCode": "NL",
+  "honours": [
+   "1× European Cup / UEFA Champions League"
+  ],
+  "squadIds": [
+   "johan-cruyff",
+   "ronald-koeman"
+  ]
+ },
+ {
+  "id": "fiorentina",
+  "name": "Fiorentina",
+  "countryCode": "IT",
+  "honours": [],
+  "squadIds": [
+   "roberto-baggio",
+   "gabriel-batistuta",
+   "mohamed-salah"
+  ]
+ },
+ {
+  "id": "flamengo",
+  "name": "Flamengo",
+  "countryCode": "BR",
+  "honours": [
+   "Three Copa Libertadores titles."
+  ],
+  "squadIds": [
+   "ronaldinho",
+   "romario",
+   "zico",
+   "vinicius-junior"
+  ]
+ },
+ {
+  "id": "fluminense",
+  "name": "Fluminense",
+  "countryCode": "BR",
+  "honours": [],
+  "squadIds": [
+   "romario",
+   "marcelo-vieira"
+  ]
+ },
+ {
+  "id": "fort-lauderdale-strikers",
+  "name": "Fort Lauderdale Strikers",
+  "countryCode": "US",
+  "honours": [],
+  "squadIds": [
+   "gerd-muller"
+  ]
+ },
+ {
+  "id": "fulham",
+  "name": "Fulham",
+  "countryCode": "GB",
+  "honours": [],
+  "squadIds": [
+   "george-best",
+   "bobby-moore"
+  ]
+ },
+ {
+  "id": "galatasaray",
+  "name": "Galatasaray",
+  "countryCode": "TR",
+  "honours": [],
+  "squadIds": [
+   "didier-drogba"
+  ]
+ },
+ {
+  "id": "genk",
+  "name": "Genk",
+  "countryCode": "BE",
+  "honours": [],
+  "squadIds": [
+   "kevin-de-bruyne"
+  ]
+ },
+ {
+  "id": "groningen",
+  "name": "Groningen",
+  "countryCode": "GB",
+  "honours": [],
+  "squadIds": [
+   "luis-suarez",
+   "virgil-van-dijk",
+   "ronald-koeman"
+  ]
+ },
+ {
+  "id": "gr-mio",
+  "name": "Grêmio",
+  "countryCode": "BR",
+  "honours": [],
+  "squadIds": [
+   "ronaldinho",
+   "luis-suarez"
+  ]
+ },
+ {
+  "id": "guingamp",
+  "name": "Guingamp",
+  "countryCode": "FR",
+  "honours": [],
+  "squadIds": [
+   "didier-drogba"
+  ]
+ },
+ {
+  "id": "hamburger-sv",
+  "name": "Hamburger SV",
+  "countryCode": "DE",
+  "honours": [
+   "1× European Cup / UEFA Champions League"
+  ],
+  "squadIds": [
+   "franz-beckenbauer"
+  ]
+ },
+ {
+  "id": "hibernian",
+  "name": "Hibernian",
+  "countryCode": "GB",
+  "honours": [],
+  "squadIds": [
+   "george-best"
+  ]
+ },
+ {
+  "id": "independiente",
+  "name": "Independiente",
+  "countryCode": "AR",
+  "honours": [],
+  "squadIds": [
+   "sergio-aguero"
+  ]
+ },
+ {
+  "id": "inter",
+  "name": "Inter",
+  "countryCode": "IT",
+  "honours": [
+   "3× European Cup / UEFA Champions League"
+  ],
+  "squadIds": [
+   "ronaldo-nazario",
+   "roberto-baggio",
+   "gabriel-batistuta",
+   "roberto-carlos",
+   "samuel-etoo",
+   "luis-figo",
+   "lothar-matthaus",
+   "andrea-pirlo",
+   "fabio-cannavaro",
+   "zlatan-ibrahimovic",
+   "patrick-vieira",
+   "javier-zanetti"
+  ]
+ },
+ {
+  "id": "inter-miami",
+  "name": "Inter Miami",
+  "countryCode": "US",
+  "honours": [],
+  "squadIds": [
+   "lionel-messi",
+   "luis-suarez",
+   "sergio-busquets"
+  ]
+ },
+ {
+  "id": "internacional",
+  "name": "Internacional",
+  "countryCode": "BR",
+  "honours": [],
+  "squadIds": [
+   "alisson-becker"
+  ]
+ },
+ {
+  "id": "jct",
+  "name": "JCT",
+  "countryCode": "IN",
+  "honours": [],
+  "squadIds": [
+   "sunil-chhetri"
+  ]
+ },
+ {
+  "id": "juventus",
+  "name": "Juventus",
+  "countryCode": "IT",
+  "honours": [
+   "2× European Cup / UEFA Champions League"
+  ],
+  "squadIds": [
+   "zinedine-zidane",
+   "thierry-henry",
+   "michel-platini",
+   "cristiano-ronaldo",
+   "roberto-baggio",
+   "gianluigi-buffon",
+   "andrea-pirlo",
+   "fabio-cannavaro",
+   "zlatan-ibrahimovic",
+   "patrick-vieira",
+   "dino-zoff",
+   "dani-alves"
+  ]
+ },
+ {
+  "id": "kansas-city-wizards",
+  "name": "Kansas City Wizards",
+  "countryCode": "US",
+  "honours": [],
+  "squadIds": [
+   "sunil-chhetri"
+  ]
+ },
+ {
+  "id": "kashima-antlers",
+  "name": "Kashima Antlers",
+  "countryCode": "JP",
+  "honours": [],
+  "squadIds": [
+   "zico"
+  ]
+ },
+ {
+  "id": "kashiwa-reysol",
+  "name": "Kashiwa Reysol",
+  "countryCode": "JP",
+  "honours": [],
+  "squadIds": [
+   "hristo-stoichkov"
+  ]
+ },
+ {
+  "id": "la-galaxy",
+  "name": "LA Galaxy",
+  "countryCode": "US",
+  "honours": [],
+  "squadIds": [
+   "steven-gerrard",
+   "zlatan-ibrahimovic",
+   "ashley-cole"
+  ]
+ },
+ {
+  "id": "le-mans",
+  "name": "Le Mans",
+  "countryCode": "FR",
+  "honours": [],
+  "squadIds": [
+   "didier-drogba"
+  ]
+ },
+ {
+  "id": "lech-pozna",
+  "name": "Lech Poznań",
+  "countryCode": "PL",
+  "honours": [],
+  "squadIds": [
+   "robert-lewandowski"
+  ]
+ },
+ {
+  "id": "leicester-city",
+  "name": "Leicester City",
+  "countryCode": "GB",
+  "honours": [],
+  "squadIds": [
+   "gordon-banks",
+   "ngolo-kante"
+  ]
+ },
+ {
+  "id": "leyton-orient",
+  "name": "Leyton Orient",
+  "countryCode": "GB",
+  "honours": [],
+  "squadIds": [
+   "harry-kane"
+  ]
+ },
+ {
+  "id": "liverpool",
+  "name": "Liverpool",
+  "countryCode": "GB",
+  "honours": [
+   "6× European Cup / UEFA Champions League"
+  ],
+  "squadIds": [
+   "mohamed-salah",
+   "luis-suarez",
+   "virgil-van-dijk",
+   "steven-gerrard",
+   "alisson-becker",
+   "sadio-mane"
+  ]
+ },
+ {
+  "id": "los-angeles-aztecs",
+  "name": "Los Angeles Aztecs",
+  "countryCode": "US",
+  "honours": [],
+  "squadIds": [
+   "johan-cruyff"
+  ]
+ },
+ {
+  "id": "lyon",
+  "name": "Lyon",
+  "countryCode": "FR",
+  "honours": [],
+  "squadIds": [
+   "karim-benzema"
+  ]
+ },
+ {
+  "id": "mallorca",
+  "name": "Mallorca",
+  "countryCode": "GB",
+  "honours": [],
+  "squadIds": [
+   "samuel-etoo"
+  ]
+ },
+ {
+  "id": "malm-ff",
+  "name": "Malmö FF",
+  "countryCode": "SE",
+  "honours": [],
+  "squadIds": [
+   "zlatan-ibrahimovic"
+  ]
+ },
+ {
+  "id": "manchester-city",
+  "name": "Manchester City",
+  "countryCode": "GB",
+  "honours": [
+   "1× European Cup / UEFA Champions League"
+  ],
+  "squadIds": [
+   "kevin-de-bruyne",
+   "erling-haaland",
+   "peter-schmeichel",
+   "sergio-aguero",
+   "rodri-hernandez",
+   "patrick-vieira",
+   "george-weah",
+   "frank-lampard"
+  ]
+ },
+ {
+  "id": "manchester-united",
+  "name": "Manchester United",
+  "countryCode": "GB",
+  "honours": [
+   "3× European Cup / UEFA Champions League"
+  ],
+  "squadIds": [
+   "gurman-singh-bindra",
+   "george-best",
+   "cristiano-ronaldo",
+   "peter-schmeichel",
+   "zlatan-ibrahimovic",
+   "paul-scholes",
+   "roy-keane"
+  ]
+ },
+ {
+  "id": "marseille",
+  "name": "Marseille",
+  "countryCode": "FR",
+  "honours": [
+   "1× European Cup / UEFA Champions League"
+  ],
+  "squadIds": [
+   "didier-drogba",
+   "george-weah",
+   "claude-makelele"
+  ]
+ },
+ {
+  "id": "metz",
+  "name": "Metz",
+  "countryCode": "FR",
+  "honours": [],
+  "squadIds": [
+   "sadio-mane"
+  ]
+ },
+ {
+  "id": "mighty-barrolle",
+  "name": "Mighty Barrolle",
+  "countryCode": "LR",
+  "honours": [],
+  "squadIds": [
+   "george-weah"
+  ]
+ },
+ {
+  "id": "millonarios",
+  "name": "Millonarios",
+  "countryCode": "GB",
+  "honours": [],
+  "squadIds": [
+   "alfredo-di-stefano"
+  ]
+ },
+ {
+  "id": "millwall",
+  "name": "Millwall",
+  "countryCode": "GB",
+  "honours": [],
+  "squadIds": [
+   "harry-kane"
+  ]
+ },
+ {
+  "id": "mohun-bagan",
+  "name": "Mohun Bagan",
+  "countryCode": "IN",
+  "honours": [],
+  "squadIds": [
+   "sunil-chhetri"
+  ]
+ },
+ {
+  "id": "molde",
+  "name": "Molde",
+  "countryCode": "NO",
+  "honours": [],
+  "squadIds": [
+   "erling-haaland"
+  ]
+ },
+ {
+  "id": "monaco",
+  "name": "Monaco",
+  "countryCode": "FR",
+  "honours": [],
+  "squadIds": [
+   "thierry-henry",
+   "kylian-mbappe",
+   "george-weah"
+  ]
+ },
+ {
+  "id": "monterrey",
+  "name": "Monterrey",
+  "countryCode": "MX",
+  "honours": [],
+  "squadIds": [
+   "sergio-ramos"
+  ]
+ },
+ {
+  "id": "montreal-impact",
+  "name": "Montreal Impact",
+  "countryCode": "CA",
+  "honours": [],
+  "squadIds": [
+   "didier-drogba"
+  ]
+ },
+ {
+  "id": "mumbai-city",
+  "name": "Mumbai City",
+  "countryCode": "IN",
+  "honours": [],
+  "squadIds": [
+   "sunil-chhetri"
+  ]
+ },
+ {
+  "id": "nacional",
+  "name": "Nacional",
+  "countryCode": "UY",
+  "honours": [],
+  "squadIds": [
+   "luis-suarez"
+  ]
+ },
+ {
+  "id": "nancy",
+  "name": "Nancy",
+  "countryCode": "FR",
+  "honours": [],
+  "squadIds": [
+   "michel-platini"
+  ]
+ },
+ {
+  "id": "nantes",
+  "name": "Nantes",
+  "countryCode": "FR",
+  "honours": [],
+  "squadIds": [
+   "claude-makelele"
+  ]
+ },
+ {
+  "id": "napoli",
+  "name": "Napoli",
+  "countryCode": "IT",
+  "honours": [],
+  "squadIds": [
+   "diego-maradona",
+   "kevin-de-bruyne",
+   "fabio-cannavaro",
+   "dino-zoff"
+  ]
+ },
+ {
+  "id": "new-york-city-fc",
+  "name": "New York City FC",
+  "countryCode": "GB",
+  "honours": [],
+  "squadIds": [
+   "andrea-pirlo",
+   "frank-lampard",
+   "david-villa"
+  ]
+ },
+ {
+  "id": "new-york-cosmos",
+  "name": "New York Cosmos",
+  "countryCode": "US",
+  "honours": [],
+  "squadIds": [
+   "pele",
+   "franz-beckenbauer",
+   "raul-gonzalez"
+  ]
+ },
+ {
+  "id": "new-york-metrostars",
+  "name": "New York MetroStars",
+  "countryCode": "US",
+  "honours": [],
+  "squadIds": [
+   "lothar-matthaus"
+  ]
+ },
+ {
+  "id": "new-york-red-bulls",
+  "name": "New York Red Bulls",
+  "countryCode": "US",
+  "honours": [],
+  "squadIds": [
+   "thierry-henry"
+  ]
+ },
+ {
+  "id": "newells-old-boys",
+  "name": "Newell's Old Boys",
+  "countryCode": "AR",
+  "honours": [],
+  "squadIds": [
+   "diego-maradona",
+   "gabriel-batistuta"
+  ]
+ },
+ {
+  "id": "nottingham-forest",
+  "name": "Nottingham Forest",
+  "countryCode": "GB",
+  "honours": [
+   "2× European Cup / UEFA Champions League"
+  ],
+  "squadIds": [
+   "roy-keane"
+  ]
+ },
+ {
+  "id": "olympiacos",
+  "name": "Olympiacos",
+  "countryCode": "GR",
+  "honours": [],
+  "squadIds": [
+   "rivaldo",
+   "marcelo-vieira"
+  ]
+ },
+ {
+  "id": "orlando-city",
+  "name": "Orlando City",
+  "countryCode": "US",
+  "honours": [],
+  "squadIds": [
+   "kaka"
+  ]
+ },
+ {
+  "id": "psv",
+  "name": "PSV",
+  "countryCode": "NL",
+  "honours": [
+   "1× European Cup / UEFA Champions League"
+  ],
+  "squadIds": [
+   "ronaldo-nazario",
+   "romario",
+   "ronald-koeman"
+  ]
+ },
+ {
+  "id": "palmeiras",
+  "name": "Palmeiras",
+  "countryCode": "BR",
+  "honours": [],
+  "squadIds": [
+   "roberto-carlos",
+   "rivaldo"
+  ]
+ },
+ {
+  "id": "paris-saint-germain",
+  "name": "Paris Saint-Germain",
+  "countryCode": "FR",
+  "honours": [],
+  "squadIds": [
+   "lionel-messi",
+   "ronaldinho",
+   "gianluigi-buffon",
+   "kylian-mbappe",
+   "neymar",
+   "zlatan-ibrahimovic",
+   "sergio-ramos",
+   "george-weah",
+   "dani-alves",
+   "claude-makelele"
+  ]
+ },
+ {
+  "id": "parma",
+  "name": "Parma",
+  "countryCode": "IT",
+  "honours": [],
+  "squadIds": [
+   "gianluigi-buffon",
+   "fabio-cannavaro",
+   "hristo-stoichkov"
+  ]
+ },
+ {
+  "id": "phoenix-rising",
+  "name": "Phoenix Rising",
+  "countryCode": "US",
+  "honours": [],
+  "squadIds": [
+   "didier-drogba"
+  ]
+ },
+ {
+  "id": "porto",
+  "name": "Porto",
+  "countryCode": "PT",
+  "honours": [
+   "2× European Cup / UEFA Champions League"
+  ],
+  "squadIds": [
+   "iker-casillas"
+  ]
+ },
+ {
+  "id": "rayo-vallecano",
+  "name": "Rayo Vallecano",
+  "countryCode": "ES",
+  "honours": [],
+  "squadIds": [
+   "hugo-sanchez"
+  ]
+ },
+ {
+  "id": "real-madrid",
+  "name": "Real Madrid",
+  "countryCode": "ES",
+  "honours": [
+   "15× European Cup / UEFA Champions League",
+   "Record winners of the European Cup."
+  ],
+  "squadIds": [
+   "ronaldo-nazario",
+   "zinedine-zidane",
+   "alfredo-di-stefano",
+   "ferenc-puskas",
+   "cristiano-ronaldo",
+   "kaka",
+   "kylian-mbappe",
+   "karim-benzema",
+   "roberto-carlos",
+   "samuel-etoo",
+   "luis-figo",
+   "fabio-cannavaro",
+   "iker-casillas",
+   "toni-kroos",
+   "luka-modric",
+   "sergio-ramos",
+   "raul-gonzalez",
+   "hugo-sanchez",
+   "jude-bellingham",
+   "vinicius-junior",
+   "claude-makelele",
+   "marcelo-vieira"
+  ]
+ },
+ {
+  "id": "real-zaragoza",
+  "name": "Real Zaragoza",
+  "countryCode": "ES",
+  "honours": [],
+  "squadIds": [
+   "david-villa"
+  ]
+ },
+ {
+  "id": "red-bull-salzburg",
+  "name": "Red Bull Salzburg",
+  "countryCode": "AT",
+  "honours": [],
+  "squadIds": [
+   "erling-haaland",
+   "sadio-mane"
+  ]
+ },
+ {
+  "id": "river-plate",
+  "name": "River Plate",
+  "countryCode": "AR",
+  "honours": [
+   "Four Copa Libertadores titles."
+  ],
+  "squadIds": [
+   "alfredo-di-stefano",
+   "gabriel-batistuta"
+  ]
+ },
+ {
+  "id": "roma",
+  "name": "Roma",
+  "countryCode": "IT",
+  "honours": [],
+  "squadIds": [
+   "gabriel-batistuta",
+   "cafu",
+   "mohamed-salah",
+   "alisson-becker",
+   "ashley-cole"
+  ]
+ },
+ {
+  "id": "saint-tienne",
+  "name": "Saint-Étienne",
+  "countryCode": "FR",
+  "honours": [],
+  "squadIds": [
+   "michel-platini"
+  ]
+ },
+ {
+  "id": "sampdoria",
+  "name": "Sampdoria",
+  "countryCode": "IT",
+  "honours": [],
+  "squadIds": [
+   "samuel-etoo"
+  ]
+ },
+ {
+  "id": "santa-cruz",
+  "name": "Santa Cruz",
+  "countryCode": "GB",
+  "honours": [],
+  "squadIds": [
+   "rivaldo"
+  ]
+ },
+ {
+  "id": "santos",
+  "name": "Santos",
+  "countryCode": "BR",
+  "honours": [
+   "Three Copa Libertadores titles."
+  ],
+  "squadIds": [
+   "pele",
+   "neymar",
+   "neymar"
+  ]
+ },
+ {
+  "id": "schalke-04",
+  "name": "Schalke 04",
+  "countryCode": "DE",
+  "honours": [],
+  "squadIds": [
+   "manuel-neuer",
+   "raul-gonzalez"
+  ]
+ },
+ {
+  "id": "sevilla",
+  "name": "Sevilla",
+  "countryCode": "ES",
+  "honours": [
+   "Record winners of the UEFA Cup / Europa League."
+  ],
+  "squadIds": [
+   "diego-maradona",
+   "sergio-ramos",
+   "dani-alves"
+  ]
+ },
+ {
+  "id": "southampton",
+  "name": "Southampton",
+  "countryCode": "GB",
+  "honours": [],
+  "squadIds": [
+   "virgil-van-dijk",
+   "sadio-mane"
+  ]
+ },
+ {
+  "id": "sporting-cp",
+  "name": "Sporting CP",
+  "countryCode": "PT",
+  "honours": [],
+  "squadIds": [
+   "cristiano-ronaldo",
+   "luis-figo",
+   "peter-schmeichel"
+  ]
+ },
+ {
+  "id": "sporting-cp-b",
+  "name": "Sporting CP B",
+  "countryCode": "PT",
+  "honours": [],
+  "squadIds": [
+   "sunil-chhetri"
+  ]
+ },
+ {
+  "id": "sporting-gij-n",
+  "name": "Sporting Gijón",
+  "countryCode": "ES",
+  "honours": [],
+  "squadIds": [
+   "david-villa"
+  ]
+ },
+ {
+  "id": "sporting-louren-o-marques",
+  "name": "Sporting Lourenço Marques",
+  "countryCode": "MZ",
+  "honours": [],
+  "squadIds": [
+   "eusebio"
+  ]
+ },
+ {
+  "id": "stoke-city",
+  "name": "Stoke City",
+  "countryCode": "GB",
+  "honours": [],
+  "squadIds": [
+   "gordon-banks"
+  ]
+ },
+ {
+  "id": "s-o-paulo",
+  "name": "São Paulo",
+  "countryCode": "BR",
+  "honours": [
+   "Three Copa Libertadores titles."
+  ],
+  "squadIds": [
+   "kaka",
+   "cafu",
+   "dani-alves"
+  ]
+ },
+ {
+  "id": "talleres",
+  "name": "Talleres",
+  "countryCode": "AR",
+  "honours": [],
+  "squadIds": [
+   "javier-zanetti"
+  ]
+ },
+ {
+  "id": "tottenham-hotspur",
+  "name": "Tottenham Hotspur",
+  "countryCode": "GB",
+  "honours": [],
+  "squadIds": [
+   "harry-kane",
+   "luka-modric"
+  ]
+ },
+ {
+  "id": "unam",
+  "name": "UNAM",
+  "countryCode": "MX",
+  "honours": [],
+  "squadIds": [
+   "hugo-sanchez"
+  ]
+ },
+ {
+  "id": "udinese",
+  "name": "Udinese",
+  "countryCode": "IT",
+  "honours": [],
+  "squadIds": [
+   "zico"
+  ]
+ },
+ {
+  "id": "valencia",
+  "name": "Valencia",
+  "countryCode": "ES",
+  "honours": [],
+  "squadIds": [
+   "david-villa"
+  ]
+ },
+ {
+  "id": "vasco-da-gama",
+  "name": "Vasco da Gama",
+  "countryCode": "BR",
+  "honours": [],
+  "squadIds": [
+   "romario"
+  ]
+ },
+ {
+  "id": "vfb-stuttgart",
+  "name": "VfB Stuttgart",
+  "countryCode": "DE",
+  "honours": [],
+  "squadIds": [
+   "philipp-lahm"
+  ]
+ },
+ {
+  "id": "villarreal",
+  "name": "Villarreal",
+  "countryCode": "ES",
+  "honours": [],
+  "squadIds": [
+   "rodri-hernandez",
+   "juan-roman-riquelme"
+  ]
+ },
+ {
+  "id": "vissel-kobe",
+  "name": "Vissel Kobe",
+  "countryCode": "JP",
+  "honours": [],
+  "squadIds": [
+   "andres-iniesta",
+   "david-villa"
+  ]
+ },
+ {
+  "id": "west-ham-united",
+  "name": "West Ham United",
+  "countryCode": "GB",
+  "honours": [],
+  "squadIds": [
+   "bobby-moore",
+   "frank-lampard"
+  ]
+ },
+ {
+  "id": "wolfsburg",
+  "name": "Wolfsburg",
+  "countryCode": "DE",
+  "honours": [],
+  "squadIds": [
+   "kevin-de-bruyne"
+  ]
+ },
+ {
+  "id": "znicz-pruszk-w",
+  "name": "Znicz Pruszków",
+  "countryCode": "PL",
+  "honours": [],
+  "squadIds": [
+   "robert-lewandowski"
+  ]
+ }
+]
