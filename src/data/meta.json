@@ -1,0 +1,70 @@
+{
+ "snapshotDate": "2026-11-05",
+ "builtOn": "2026-11-05",
+ "ratingEdition": "Atlas model v1",
+ "counts": {
+  "players": 88,
+  "countries": 29,
+  "clubs": 147,
+  "tournaments": 25,
+  "playedTournaments": 23,
+  "cancelledTournaments": 2,
+  "worldCupGoals": 240,
+  "fictionalPlayers": 1
+ },
+ "scope": {
+  "definition": "Every player who appeared in a FIFA World Cup squad from 1930 to 2022, plus a 2026 qualified/anticipated pool and current top-flight internationals.",
+  "shipped": 88,
+  "target": 4812,
+  "fictionalNote": "One record — Gurman Singh Bindra — is a fictional entry supplied by the site's owner. It is flagged as fictional everywhere it appears and is not part of the defined scope.",
+  "statement": "This build ships a curated editorial subset of the defined scope. No player has been removed silently: the count shown on the Players page is the count in this file, and the gap to the full scope is stated in the UI and on the About page."
+ },
+ "positions": [
+  "CAM",
+  "CB",
+  "CF",
+  "CM",
+  "DM",
+  "GK",
+  "LB",
+  "LW",
+  "RB",
+  "RW",
+  "SS",
+  "ST"
+ ],
+ "eras": [
+  "1950s-60s",
+  "1950s-70s",
+  "1960s",
+  "1960s-70s",
+  "1970s",
+  "1970s-80s",
+  "1980s",
+  "1980s-90s",
+  "1990s",
+  "1990s-2000s",
+  "2000s",
+  "2000s-2010s",
+  "2000s-2020s",
+  "2010s",
+  "2010s-2020s",
+  "2020s"
+ ],
+ "confederations": [
+  "AFC",
+  "CAF",
+  "CONCACAF",
+  "CONMEBOL",
+  "UEFA"
+ ],
+ "dataGaps": [
+  "FIFA world ranking — no ranking feed in this snapshot",
+  "Country World Cup played/won/drawn/lost and goals for/against",
+  "Season-by-season club statistics",
+  "Total attendance for pre-1950 and several later editions",
+  "Player photographs — photoUrl is null, so the UI renders a monogram avatar",
+  "Individual 2026 World Cup tallies — the tournament record is complete, but player career totals were recorded before the 2026 edition and are not folded in",
+  "Country appearance counts are through 2022; the full 2026 field is not in this snapshot"
+ ]
+}
