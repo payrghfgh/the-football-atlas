@@ -1,0 +1,5779 @@
+[
+ {
+  "id": "sergio-aguero",
+  "name": "Sergio Agüero",
+  "fullName": "Sergio Leonel Agüero del Castillo",
+  "photoUrl": null,
+  "nationality": "Argentina",
+  "countryCode": "AR",
+  "confederation": "CONMEBOL",
+  "position": "ST",
+  "secondaryPositions": [
+   "SS"
+  ],
+  "dateOfBirth": "1988-06-02",
+  "heightCm": 173,
+  "preferredFoot": "Right",
+  "shirtNumber": 10,
+  "clubs": [
+   "Independiente",
+   "Atlético Madrid",
+   "Manchester City",
+   "Barcelona"
+  ],
+  "careerGoals": 426,
+  "careerAssists": null,
+  "internationalCaps": 101,
+  "internationalGoals": 41,
+  "worldCupGoals": 2,
+  "worldCupAppearances": 8,
+  "honours": [
+   "5× Premier League",
+   "Copa América 2021",
+   "Europa League 2010",
+   "Olympic gold 2008"
+  ],
+  "attributes": {
+   "pace": 88,
+   "shooting": 93,
+   "passing": 76,
+   "dribbling": 88,
+   "defending": 30,
+   "physical": 70
+  },
+  "overall": 90,
+  "potential": 90,
+  "skillMoves": 4,
+  "weakFoot": 4,
+  "workRate": "Medium/Low",
+  "playStyles": [
+   "Poacher",
+   "Technical Dribbler"
+  ],
+  "era": "2010s",
+  "bio": "Agüero scored the goal that won Manchester City their first league title in 44 years, in the 94th minute of the final day in 2012, and went on to become the club's record scorer. Compact and quick over five yards, he won five Premier League titles and the 2021 Copa América with Argentina. Across his career he turned out for clubs including Independiente and Barcelona, finishing with 101 caps and 41 goals for Argentina.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 261,
+   "header": 91,
+   "penalty": 41,
+   "freeKick": 33,
+   "leftFoot": 111,
+   "rightFoot": 315
+  }
+ },
+ {
+  "id": "dani-alves",
+  "name": "Dani Alves",
+  "fullName": "Daniel Alves da Silva",
+  "photoUrl": null,
+  "nationality": "Brazil",
+  "countryCode": "BR",
+  "confederation": "CONMEBOL",
+  "position": "RB",
+  "secondaryPositions": [
+   "RM"
+  ],
+  "dateOfBirth": "1983-05-06",
+  "heightCm": 172,
+  "preferredFoot": "Right",
+  "shirtNumber": 22,
+  "clubs": [
+   "Bahia",
+   "Sevilla",
+   "Barcelona",
+   "Juventus",
+   "Paris Saint-Germain",
+   "São Paulo"
+  ],
+  "careerGoals": 48,
+  "careerAssists": null,
+  "internationalCaps": 126,
+  "internationalGoals": 8,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 14,
+  "honours": [
+   "3× UEFA Champions League",
+   "2× Copa América",
+   "6× La Liga",
+   "2× Olympic medal"
+  ],
+  "attributes": {
+   "pace": 86,
+   "shooting": 68,
+   "passing": 84,
+   "dribbling": 86,
+   "defending": 74,
+   "physical": 78
+  },
+  "overall": 88,
+  "potential": 88,
+  "skillMoves": 4,
+  "weakFoot": 3,
+  "workRate": "High/Medium",
+  "playStyles": [
+   "Overlap",
+   "Technical Dribbler"
+  ],
+  "era": "2000s-2010s",
+  "bio": "Alves is the most decorated footballer in the sport's history by trophy count, with the bulk of it collected at Barcelona between 2008 and 2016. He played right-back as a winger would, overlapping to the byline and combining with Messi, and won Copa América twice with Brazil. In total he played for 6 clubs, won 4 senior honours and scored 48 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 31,
+   "header": 10,
+   "penalty": 4,
+   "freeKick": 3,
+   "leftFoot": 12,
+   "rightFoot": 36
+  }
+ },
+ {
+  "id": "roberto-baggio",
+  "name": "Roberto Baggio",
+  "fullName": "Roberto Baggio",
+  "photoUrl": null,
+  "nationality": "Italy",
+  "countryCode": "IT",
+  "confederation": "UEFA",
+  "position": "SS",
+  "secondaryPositions": [
+   "CAM",
+   "ST"
+  ],
+  "dateOfBirth": "1967-02-18",
+  "heightCm": 174,
+  "preferredFoot": "Right",
+  "shirtNumber": 10,
+  "clubs": [
+   "Fiorentina",
+   "Juventus",
+   "AC Milan",
+   "Bologna",
+   "Inter",
+   "Brescia"
+  ],
+  "careerGoals": 318,
+  "careerAssists": null,
+  "internationalCaps": 56,
+  "internationalGoals": 27,
+  "worldCupGoals": 9,
+  "worldCupAppearances": 16,
+  "honours": [
+   "UEFA Cup 1993",
+   "2× Serie A",
+   "Ballon d'Or 1993"
+  ],
+  "attributes": {
+   "pace": 78,
+   "shooting": 90,
+   "passing": 88,
+   "dribbling": 92,
+   "defending": 30,
+   "physical": 62
+  },
+  "overall": 92,
+  "potential": 92,
+  "skillMoves": 4,
+  "weakFoot": 3,
+  "workRate": "Medium/Low",
+  "playStyles": [
+   "Technical Dribbler",
+   "Power Free-Kick"
+  ],
+  "era": "1990s",
+  "bio": "Baggio carried Italy to the 1994 World Cup final and missed the decisive penalty in the shootout, an image that outlived everything else. A Buddhist with a ponytail and a ruined knee, he won the 1993 Ballon d'Or, scored nine World Cup goals, and played for six of Italy's biggest clubs. He ended with 27 international goals in 56 appearances for Italy, having played at 16 World Cup matches.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 205,
+   "header": 54,
+   "penalty": 32,
+   "freeKick": 27,
+   "leftFoot": 83,
+   "rightFoot": 235
+  }
+ },
+ {
+  "id": "gordon-banks",
+  "name": "Gordon Banks",
+  "fullName": "Gordon Banks",
+  "photoUrl": null,
+  "nationality": "England",
+  "countryCode": "GB",
+  "confederation": "UEFA",
+  "position": "GK",
+  "secondaryPositions": [],
+  "dateOfBirth": "1937-12-30",
+  "heightCm": 185,
+  "preferredFoot": "Right",
+  "shirtNumber": 1,
+  "clubs": [
+   "Leicester City",
+   "Stoke City"
+  ],
+  "careerGoals": 0,
+  "careerAssists": null,
+  "internationalCaps": 73,
+  "internationalGoals": 0,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 9,
+  "honours": [
+   "FIFA World Cup 1966",
+   "League Cup 1972"
+  ],
+  "attributes": {
+   "pace": 60,
+   "shooting": 20,
+   "passing": 50,
+   "dribbling": 40,
+   "defending": 25,
+   "physical": 80
+  },
+  "overall": 89,
+  "potential": 89,
+  "skillMoves": 1,
+  "weakFoot": 3,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Acrobatic Saves",
+   "Cross Claimer"
+  ],
+  "era": "1960s-70s",
+  "bio": "Banks was England's goalkeeper through the 1966 triumph and is remembered for the save he made from Pelé in Guadalajara in 1970, twisting a downward header around the post. Six times named FIFA's goalkeeper of the year, he won the World Cup with England and two League Cups with Stoke City. His record stands at 0 career goals, 73 caps for England and 9 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": null
+ },
+ {
+  "id": "franco-baresi",
+  "name": "Franco Baresi",
+  "fullName": "Franchino Baresi",
+  "photoUrl": null,
+  "nationality": "Italy",
+  "countryCode": "IT",
+  "confederation": "UEFA",
+  "position": "CB",
+  "secondaryPositions": [],
+  "dateOfBirth": "1960-05-08",
+  "heightCm": 176,
+  "preferredFoot": "Right",
+  "shirtNumber": 6,
+  "clubs": [
+   "AC Milan"
+  ],
+  "careerGoals": 31,
+  "careerAssists": null,
+  "internationalCaps": 81,
+  "internationalGoals": 1,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 13,
+  "honours": [
+   "3× European Cup",
+   "FIFA World Cup 1982",
+   "6× Serie A"
+  ],
+  "attributes": {
+   "pace": 68,
+   "shooting": 52,
+   "passing": 80,
+   "dribbling": 72,
+   "defending": 93,
+   "physical": 82
+  },
+  "overall": 93,
+  "potential": 93,
+  "skillMoves": 2,
+  "weakFoot": 3,
+  "workRate": "Low/High",
+  "playStyles": [
+   "Anticipate",
+   "Block"
+  ],
+  "era": "1980s-90s",
+  "bio": "The sweeper at the heart of Arrigo Sacchi's Milan, Baresi organised a back four that defended on the halfway line and made offside a weapon. He won three European Cups and six Serie A titles, and returned from knee surgery to play the 1994 World Cup final at almost full intensity. In total he played for 1 clubs, won 3 senior honours and scored 31 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 21,
+   "header": 7,
+   "penalty": 2,
+   "freeKick": 1,
+   "leftFoot": 8,
+   "rightFoot": 23
+  }
+ },
+ {
+  "id": "marco-van-basten",
+  "name": "Marco van Basten",
+  "fullName": "Marcel van Basten",
+  "photoUrl": null,
+  "nationality": "Netherlands",
+  "countryCode": "NL",
+  "confederation": "UEFA",
+  "position": "ST",
+  "secondaryPositions": [],
+  "dateOfBirth": "1964-10-31",
+  "heightCm": 188,
+  "preferredFoot": "Right",
+  "shirtNumber": 9,
+  "clubs": [
+   "Ajax",
+   "AC Milan"
+  ],
+  "careerGoals": 277,
+  "careerAssists": null,
+  "internationalCaps": 58,
+  "internationalGoals": 24,
+  "worldCupGoals": 5,
+  "worldCupAppearances": 9,
+  "honours": [
+   "European Championship 1988",
+   "2× European Cup",
+   "3× Serie A",
+   "3× Ballon d'Or"
+  ],
+  "attributes": {
+   "pace": 82,
+   "shooting": 95,
+   "passing": 76,
+   "dribbling": 86,
+   "defending": 32,
+   "physical": 84
+  },
+  "overall": 94,
+  "potential": 94,
+  "skillMoves": 4,
+  "weakFoot": 4,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Acrobatic Finisher",
+   "Power Header"
+  ],
+  "era": "1980s-90s",
+  "bio": "Van Basten volleyed the Netherlands to the 1988 European Championship and won three Ballons d'Or before an ankle injury ended his career at 28. He scored 90 goals in 147 games for Milan and won two European Cups, and his technical range as a tall centre-forward has rarely been matched. His record stands at 277 career goals, 58 caps for Netherlands and 9 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 174,
+   "header": 61,
+   "penalty": 21,
+   "freeKick": 21,
+   "leftFoot": 72,
+   "rightFoot": 205
+  }
+ },
+ {
+  "id": "gabriel-batistuta",
+  "name": "Gabriel Batistuta",
+  "fullName": "Gabriel Omar Batistuta",
+  "photoUrl": null,
+  "nationality": "Argentina",
+  "countryCode": "AR",
+  "confederation": "CONMEBOL",
+  "position": "ST",
+  "secondaryPositions": [],
+  "dateOfBirth": "1969-02-01",
+  "heightCm": 185,
+  "preferredFoot": "Right",
+  "shirtNumber": 9,
+  "clubs": [
+   "Newell's Old Boys",
+   "River Plate",
+   "Boca Juniors",
+   "Fiorentina",
+   "Roma",
+   "Inter"
+  ],
+  "careerGoals": 300,
+  "careerAssists": null,
+  "internationalCaps": 78,
+  "internationalGoals": 56,
+  "worldCupGoals": 10,
+  "worldCupAppearances": 12,
+  "honours": [
+   "Serie A 2001",
+   "Copa América 1991",
+   "2× Copa América top scorer"
+  ],
+  "attributes": {
+   "pace": 80,
+   "shooting": 94,
+   "passing": 66,
+   "dribbling": 74,
+   "defending": 30,
+   "physical": 86
+  },
+  "overall": 91,
+  "potential": 91,
+  "skillMoves": 2,
+  "weakFoot": 4,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Power Shot",
+   "Aerial Threat"
+  ],
+  "era": "1990s-2000s",
+  "bio": "Batistuta scored 168 goals in nine seasons at Fiorentina, staying with the club through relegation, and scored a hat-trick in his first World Cup match in 1994. He finally won Serie A after moving to Roma in 2001, and his shooting power made him one of the most feared strikers of the decade. Across his career he turned out for clubs including Newell's Old Boys and Inter, finishing with 78 caps and 56 goals for Argentina.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 178,
+   "header": 63,
+   "penalty": 33,
+   "freeKick": 26,
+   "leftFoot": 78,
+   "rightFoot": 222
+  }
+ },
+ {
+  "id": "franz-beckenbauer",
+  "name": "Franz Beckenbauer",
+  "fullName": "Franz Anton Beckenbauer",
+  "photoUrl": null,
+  "nationality": "Germany",
+  "countryCode": "DE",
+  "confederation": "UEFA",
+  "position": "CB",
+  "secondaryPositions": [
+   "DM"
+  ],
+  "dateOfBirth": "1945-09-11",
+  "heightCm": 181,
+  "preferredFoot": "Right",
+  "shirtNumber": 5,
+  "clubs": [
+   "Bayern Munich",
+   "New York Cosmos",
+   "Hamburger SV"
+  ],
+  "careerGoals": 109,
+  "careerAssists": null,
+  "internationalCaps": 103,
+  "internationalGoals": 14,
+  "worldCupGoals": 5,
+  "worldCupAppearances": 18,
+  "honours": [
+   "FIFA World Cup 1974",
+   "European Championship 1972",
+   "3× European Cup",
+   "4× Bundesliga"
+  ],
+  "attributes": {
+   "pace": 72,
+   "shooting": 72,
+   "passing": 84,
+   "dribbling": 78,
+   "defending": 86,
+   "physical": 82
+  },
+  "overall": 94,
+  "potential": 94,
+  "skillMoves": 3,
+  "weakFoot": 4,
+  "workRate": "Medium/High",
+  "playStyles": [
+   "Ball-Playing Defender",
+   "Long Ball Passer"
+  ],
+  "era": "1960s-70s",
+  "bio": "Beckenbauer invented the attacking libero, stepping out of defence with the ball and dictating play from deep. He captained West Germany to the 1974 World Cup, won three European Cups with Bayern Munich, and later managed the reunified side to the 1990 title — the only person to win the trophy as captain and coach in that order. In total he played for 3 clubs, won 4 senior honours and scored 109 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 73,
+   "header": 22,
+   "penalty": 8,
+   "freeKick": 6,
+   "leftFoot": 28,
+   "rightFoot": 81
+  }
+ },
+ {
+  "id": "alisson-becker",
+  "name": "Alisson Becker",
+  "fullName": "Alisson Ramsés Becker",
+  "photoUrl": null,
+  "nationality": "Brazil",
+  "countryCode": "BR",
+  "confederation": "CONMEBOL",
+  "position": "GK",
+  "secondaryPositions": [],
+  "dateOfBirth": "1992-10-02",
+  "heightCm": 193,
+  "preferredFoot": "Right",
+  "shirtNumber": 1,
+  "clubs": [
+   "Internacional",
+   "Roma",
+   "Liverpool"
+  ],
+  "careerGoals": 1,
+  "careerAssists": null,
+  "internationalCaps": 75,
+  "internationalGoals": 0,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 8,
+  "honours": [
+   "Copa América 2019",
+   "UEFA Champions League 2019",
+   "Premier League 2020"
+  ],
+  "attributes": {
+   "pace": 62,
+   "shooting": 22,
+   "passing": 70,
+   "dribbling": 48,
+   "defending": 30,
+   "physical": 82
+  },
+  "overall": 89,
+  "potential": 89,
+  "skillMoves": 1,
+  "weakFoot": 3,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Sweeper Keeper",
+   "Cross Claimer"
+  ],
+  "era": "2010s-2020s",
+  "bio": "Alisson arrived at Liverpool in 2018 and immediately settled the club's goalkeeping problem, winning the Champions League in his first season and the Premier League the next. A Copa América winner with Brazil, he is equally known for his composure in possession and for a stoppage-time headed goal for Liverpool in 2021. Across his career he turned out for clubs including Internacional and Liverpool, finishing with 75 caps and 0 goals for Brazil.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 1,
+   "header": 0,
+   "penalty": 0,
+   "freeKick": 0,
+   "leftFoot": 0,
+   "rightFoot": 1
+  }
+ },
+ {
+  "id": "jude-bellingham",
+  "name": "Jude Bellingham",
+  "fullName": "Jude Victor William Bellingham",
+  "photoUrl": null,
+  "nationality": "England",
+  "countryCode": "GB",
+  "confederation": "UEFA",
+  "position": "CM",
+  "secondaryPositions": [
+   "CAM",
+   "ST"
+  ],
+  "dateOfBirth": "2003-06-29",
+  "heightCm": 186,
+  "preferredFoot": "Right",
+  "shirtNumber": 5,
+  "clubs": [
+   "Birmingham City",
+   "Borussia Dortmund",
+   "Real Madrid"
+  ],
+  "careerGoals": 60,
+  "careerAssists": null,
+  "internationalCaps": 45,
+  "internationalGoals": 7,
+  "worldCupGoals": 1,
+  "worldCupAppearances": 5,
+  "honours": [
+   "La Liga 2024",
+   "UEFA Champions League 2024",
+   "DFB-Pokal 2021"
+  ],
+  "attributes": {
+   "pace": 80,
+   "shooting": 82,
+   "passing": 84,
+   "dribbling": 84,
+   "defending": 76,
+   "physical": 86
+  },
+  "overall": 89,
+  "potential": 94,
+  "skillMoves": 4,
+  "weakFoot": 4,
+  "workRate": "High/High",
+  "playStyles": [
+   "Box Crasher",
+   "Power Header"
+  ],
+  "era": "2020s",
+  "bio": "Bellingham left Birmingham City at seventeen, captained Borussia Dortmund within a year and won La Liga and the Champions League in his first season at Real Madrid. He plays as a box-to-box eight who arrives in the penalty area, and scored an overhead kick for England at Euro 2024 in the last minute of normal time. Across his career he turned out for clubs including Birmingham City and Real Madrid, finishing with 45 caps and 7 goals for England.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 34,
+   "header": 14,
+   "penalty": 7,
+   "freeKick": 5,
+   "leftFoot": 16,
+   "rightFoot": 44
+  }
+ },
+ {
+  "id": "karim-benzema",
+  "name": "Karim Benzema",
+  "fullName": "Karim Mostafa Benzema",
+  "photoUrl": null,
+  "nationality": "France",
+  "countryCode": "FR",
+  "confederation": "UEFA",
+  "position": "ST",
+  "secondaryPositions": [
+   "SS"
+  ],
+  "dateOfBirth": "1987-12-19",
+  "heightCm": 185,
+  "preferredFoot": "Right",
+  "shirtNumber": 9,
+  "clubs": [
+   "Lyon",
+   "Real Madrid",
+   "Al-Ittihad"
+  ],
+  "careerGoals": 430,
+  "careerAssists": null,
+  "internationalCaps": 97,
+  "internationalGoals": 37,
+  "worldCupGoals": 3,
+  "worldCupAppearances": 9,
+  "honours": [
+   "5× UEFA Champions League",
+   "4× La Liga",
+   "UEFA Nations League 2021",
+   "Ballon d'Or 2022"
+  ],
+  "attributes": {
+   "pace": 78,
+   "shooting": 92,
+   "passing": 88,
+   "dribbling": 88,
+   "defending": 38,
+   "physical": 80
+  },
+  "overall": 91,
+  "potential": 91,
+  "skillMoves": 4,
+  "weakFoot": 3,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Complete Forward",
+   "Incisive Pass"
+  ],
+  "era": "2010s-2020s",
+  "bio": "Benzema spent nine seasons as the supporting act to Cristiano Ronaldo at Real Madrid, then became the main event, scoring 15 goals in the 2022 Champions League run and winning the Ballon d'Or that year. He is Lyon's academy graduate turned five-time European champion and a Nations League winner with France. His record stands at 430 career goals, 97 caps for France and 9 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 267,
+   "header": 87,
+   "penalty": 43,
+   "freeKick": 33,
+   "leftFoot": 112,
+   "rightFoot": 318
+  }
+ },
+ {
+  "id": "george-best",
+  "name": "George Best",
+  "fullName": "George Best",
+  "photoUrl": null,
+  "nationality": "Northern Ireland",
+  "countryCode": "GB",
+  "confederation": "UEFA",
+  "position": "RW",
+  "secondaryPositions": [
+   "CAM"
+  ],
+  "dateOfBirth": "1946-05-22",
+  "heightCm": 175,
+  "preferredFoot": "Right",
+  "shirtNumber": 7,
+  "clubs": [
+   "Manchester United",
+   "Fulham",
+   "Hibernian"
+  ],
+  "careerGoals": 181,
+  "careerAssists": null,
+  "internationalCaps": 37,
+  "internationalGoals": 9,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 0,
+  "honours": [
+   "European Cup 1968",
+   "2× English league",
+   "Ballon d'Or 1968"
+  ],
+  "attributes": {
+   "pace": 88,
+   "shooting": 86,
+   "passing": 84,
+   "dribbling": 96,
+   "defending": 34,
+   "physical": 64
+  },
+  "overall": 93,
+  "potential": 93,
+  "skillMoves": 5,
+  "weakFoot": 3,
+  "workRate": "Medium/Low",
+  "playStyles": [
+   "Technical Dribbler",
+   "Speed Dribbler"
+  ],
+  "era": "1960s-70s",
+  "bio": "Best won the 1968 European Cup with Manchester United and the Ballon d'Or the same year, the first Northern Irish player to do either. He dribbled at speed with both feet, could beat three defenders in a telephone box, and left the top level at 27 — the great unfinished career of the English game. He ended with 9 international goals in 37 appearances for Northern Ireland, having played at 0 World Cup matches.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 116,
+   "header": 31,
+   "penalty": 19,
+   "freeKick": 15,
+   "leftFoot": 47,
+   "rightFoot": 134
+  }
+ },
+ {
+  "id": "gurman-singh-bindra",
+  "name": "Gurman Singh Bindra",
+  "fullName": "Gurman Singh Bindra",
+  "photoUrl": null,
+  "nationality": "England",
+  "countryCode": "GB",
+  "confederation": "UEFA",
+  "position": "RW",
+  "secondaryPositions": [
+   "CAM",
+   "ST"
+  ],
+  "dateOfBirth": "2004-04-18",
+  "heightCm": 180,
+  "preferredFoot": "Right",
+  "shirtNumber": 7,
+  "clubs": [
+   "Manchester United"
+  ],
+  "careerGoals": 108,
+  "careerAssists": null,
+  "internationalCaps": null,
+  "internationalGoals": null,
+  "worldCupGoals": null,
+  "worldCupAppearances": null,
+  "honours": [],
+  "attributes": {
+   "pace": 97,
+   "shooting": 96,
+   "passing": 95,
+   "dribbling": 99,
+   "defending": 45,
+   "physical": 82
+  },
+  "overall": 99,
+  "potential": 99,
+  "skillMoves": 5,
+  "weakFoot": 5,
+  "workRate": "High/Medium",
+  "playStyles": [
+   "Technical Dribbler",
+   "Speed Dribbler",
+   "Incisive Pass"
+  ],
+  "era": "2020s",
+  "bio": "Gurman Singh Bindra is a fictional footballer, written into the atlas for its owner rather than drawn from any record. He plays for Manchester United and England, and the entry exists to show how one record flows through every page: the index, the filters, the radar, the comparison tool and the rating card. The 99 overall, the 108 career goals and the ten elasticos are owner-supplied figures for this fictional profile. Nothing on this page is a claim about a real player.",
+  "isFictional": true,
+  "signatureSkill": {
+   "name": "Elastico",
+   "count": 10
+  },
+  "ratingSource": "Owner-supplied (fictional)",
+  "ratingEdition": "Owner-supplied · fictional",
+  "dataNote": "Fictional entry: every figure here was supplied by the atlas owner and describes no real player.",
+  "goalsBreakdown": {
+   "openPlay": 67,
+   "header": 23,
+   "penalty": 9,
+   "freeKick": 9,
+   "leftFoot": 28,
+   "rightFoot": 80
+  }
+ },
+ {
+  "id": "kevin-de-bruyne",
+  "name": "Kevin De Bruyne",
+  "fullName": "Kevin De Bruyne",
+  "photoUrl": null,
+  "nationality": "Belgium",
+  "countryCode": "BE",
+  "confederation": "UEFA",
+  "position": "CAM",
+  "secondaryPositions": [
+   "CM",
+   "RW"
+  ],
+  "dateOfBirth": "1991-06-28",
+  "heightCm": 181,
+  "preferredFoot": "Right",
+  "shirtNumber": 17,
+  "clubs": [
+   "Genk",
+   "Chelsea",
+   "Wolfsburg",
+   "Manchester City",
+   "Napoli"
+  ],
+  "careerGoals": 150,
+  "careerAssists": null,
+  "internationalCaps": 110,
+  "internationalGoals": 30,
+  "worldCupGoals": 2,
+  "worldCupAppearances": 14,
+  "honours": [
+   "UEFA Champions League 2023",
+   "6× Premier League",
+   "2× PFA Player of the Year"
+  ],
+  "attributes": {
+   "pace": 74,
+   "shooting": 88,
+   "passing": 95,
+   "dribbling": 86,
+   "defending": 60,
+   "physical": 74
+  },
+  "overall": 92,
+  "potential": 92,
+  "skillMoves": 4,
+  "weakFoot": 4,
+  "workRate": "High/Medium",
+  "playStyles": [
+   "Incisive Pass",
+   "Long Shot"
+  ],
+  "era": "2010s-2020s",
+  "bio": "De Bruyne's crossing and through-balls powered Manchester City to six league titles and the 2023 treble. He hits passes other midfielders cannot see, strikes the ball cleanly from distance, and twice won the PFA Player of the Year award while leading the Premier League in assists. His record stands at 150 career goals, 110 caps for Belgium and 14 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 93,
+   "header": 33,
+   "penalty": 12,
+   "freeKick": 12,
+   "leftFoot": 39,
+   "rightFoot": 111
+  }
+ },
+ {
+  "id": "gianluigi-buffon",
+  "name": "Gianluigi Buffon",
+  "fullName": "Gianluigi Buffon",
+  "photoUrl": null,
+  "nationality": "Italy",
+  "countryCode": "IT",
+  "confederation": "UEFA",
+  "position": "GK",
+  "secondaryPositions": [],
+  "dateOfBirth": "1978-01-28",
+  "heightCm": 193,
+  "preferredFoot": "Right",
+  "shirtNumber": 1,
+  "clubs": [
+   "Parma",
+   "Juventus",
+   "Paris Saint-Germain"
+  ],
+  "careerGoals": 0,
+  "careerAssists": null,
+  "internationalCaps": 176,
+  "internationalGoals": 0,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 23,
+  "honours": [
+   "FIFA World Cup 2006",
+   "10× Serie A",
+   "UEFA Cup 1999"
+  ],
+  "attributes": {
+   "pace": 60,
+   "shooting": 20,
+   "passing": 62,
+   "dribbling": 45,
+   "defending": 30,
+   "physical": 84
+  },
+  "overall": 92,
+  "potential": 92,
+  "skillMoves": 1,
+  "weakFoot": 3,
+  "workRate": "Low/Medium",
+  "playStyles": [
+   "Commanding Presence",
+   "Sweeper Keeper"
+  ],
+  "era": "2000s-2010s",
+  "bio": "Italy's most capped player and a World Cup winner in 2006, Buffon spent the best years of his career at Juventus, where he won ten league titles across two spells. He kept 176 caps' worth of international clean sheets and saves, and remained a first-choice goalkeeper into his forties at Parma. Across his career he turned out for clubs including Parma and Paris Saint-Germain, finishing with 176 caps and 0 goals for Italy.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": null
+ },
+ {
+  "id": "sergio-busquets",
+  "name": "Sergio Busquets",
+  "fullName": "Sergio Busquets Burgos",
+  "photoUrl": null,
+  "nationality": "Spain",
+  "countryCode": "ES",
+  "confederation": "UEFA",
+  "position": "DM",
+  "secondaryPositions": [
+   "CM"
+  ],
+  "dateOfBirth": "1988-07-16",
+  "heightCm": 189,
+  "preferredFoot": "Right",
+  "shirtNumber": 5,
+  "clubs": [
+   "Barcelona",
+   "Inter Miami"
+  ],
+  "careerGoals": 20,
+  "careerAssists": null,
+  "internationalCaps": 143,
+  "internationalGoals": 2,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 17,
+  "honours": [
+   "FIFA World Cup 2010",
+   "European Championship 2012",
+   "3× UEFA Champions League",
+   "9× La Liga"
+  ],
+  "attributes": {
+   "pace": 58,
+   "shooting": 62,
+   "passing": 88,
+   "dribbling": 78,
+   "defending": 80,
+   "physical": 76
+  },
+  "overall": 89,
+  "potential": 89,
+  "skillMoves": 2,
+  "weakFoot": 3,
+  "workRate": "Low/Medium",
+  "playStyles": [
+   "Intercept",
+   "Tiki-Taka"
+  ],
+  "era": "2000s-2010s",
+  "bio": "Busquets played the single pivot for Barcelona and Spain for fifteen years, always a step ahead of the ball. He won the 2010 World Cup, three Champions Leagues and nine league titles, and his positional sense allowed Xavi and Iniesta to play as high as they did. Across his career he turned out for clubs including Barcelona and Inter Miami, finishing with 143 caps and 2 goals for Spain.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 13,
+   "header": 4,
+   "penalty": 2,
+   "freeKick": 1,
+   "leftFoot": 5,
+   "rightFoot": 15
+  }
+ },
+ {
+  "id": "cafu",
+  "name": "Cafu",
+  "fullName": "Marcos Evangelista de Moraes",
+  "photoUrl": null,
+  "nationality": "Brazil",
+  "countryCode": "BR",
+  "confederation": "CONMEBOL",
+  "position": "RB",
+  "secondaryPositions": [
+   "RM"
+  ],
+  "dateOfBirth": "1970-06-07",
+  "heightCm": 176,
+  "preferredFoot": "Right",
+  "shirtNumber": 2,
+  "clubs": [
+   "São Paulo",
+   "Roma",
+   "AC Milan"
+  ],
+  "careerGoals": 22,
+  "careerAssists": null,
+  "internationalCaps": 142,
+  "internationalGoals": 5,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 20,
+  "honours": [
+   "2× FIFA World Cup",
+   "2× Copa América",
+   "UEFA Champions League 2007"
+  ],
+  "attributes": {
+   "pace": 88,
+   "shooting": 62,
+   "passing": 80,
+   "dribbling": 82,
+   "defending": 78,
+   "physical": 84
+  },
+  "overall": 91,
+  "potential": 91,
+  "skillMoves": 3,
+  "weakFoot": 3,
+  "workRate": "High/Medium",
+  "playStyles": [
+   "Overlap",
+   "Cross Claimer"
+  ],
+  "era": "1990s-2000s",
+  "bio": "Cafu played in three consecutive World Cup finals, winning in 1994 and captaining Brazil to the 2002 title. He ran the right flank for São Paulo, Roma and Milan, and is the only player to appear in three World Cup finals — a measure of both his durability and the relentless overlapping that defined his game. His record stands at 22 career goals, 142 caps for Brazil and 20 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 14,
+   "header": 5,
+   "penalty": 2,
+   "freeKick": 1,
+   "leftFoot": 6,
+   "rightFoot": 16
+  }
+ },
+ {
+  "id": "fabio-cannavaro",
+  "name": "Fabio Cannavaro",
+  "fullName": "Fabio Cannavaro",
+  "photoUrl": null,
+  "nationality": "Italy",
+  "countryCode": "IT",
+  "confederation": "UEFA",
+  "position": "CB",
+  "secondaryPositions": [],
+  "dateOfBirth": "1973-09-13",
+  "heightCm": 176,
+  "preferredFoot": "Right",
+  "shirtNumber": 5,
+  "clubs": [
+   "Napoli",
+   "Parma",
+   "Inter",
+   "Juventus",
+   "Real Madrid"
+  ],
+  "careerGoals": 14,
+  "careerAssists": null,
+  "internationalCaps": 136,
+  "internationalGoals": 2,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 18,
+  "honours": [
+   "FIFA World Cup 2006",
+   "2× La Liga",
+   "Ballon d'Or 2006"
+  ],
+  "attributes": {
+   "pace": 76,
+   "shooting": 48,
+   "passing": 68,
+   "dribbling": 62,
+   "defending": 90,
+   "physical": 84
+  },
+  "overall": 90,
+  "potential": 90,
+  "skillMoves": 2,
+  "weakFoot": 3,
+  "workRate": "Low/High",
+  "playStyles": [
+   "Block",
+   "Aerial Threat"
+  ],
+  "era": "2000s",
+  "bio": "Cannavaro captained Italy to the 2006 World Cup and won the Ballon d'Or for it, the last defender to take that prize. Undersized for a centre-half, he defended with spring, anticipation and a willingness to step in front of attackers, and won league titles in Italy and Spain. In total he played for 5 clubs, won 3 senior honours and scored 14 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 9,
+   "header": 3,
+   "penalty": 1,
+   "freeKick": 1,
+   "leftFoot": 4,
+   "rightFoot": 10
+  }
+ },
+ {
+  "id": "roberto-carlos",
+  "name": "Roberto Carlos",
+  "fullName": "Roberto Carlos da Silva Rocha",
+  "photoUrl": null,
+  "nationality": "Brazil",
+  "countryCode": "BR",
+  "confederation": "CONMEBOL",
+  "position": "LB",
+  "secondaryPositions": [
+   "LM"
+  ],
+  "dateOfBirth": "1973-04-10",
+  "heightCm": 168,
+  "preferredFoot": "Left",
+  "shirtNumber": 6,
+  "clubs": [
+   "Palmeiras",
+   "Inter",
+   "Real Madrid",
+   "Fenerbahçe"
+  ],
+  "careerGoals": 68,
+  "careerAssists": null,
+  "internationalCaps": 125,
+  "internationalGoals": 11,
+  "worldCupGoals": 1,
+  "worldCupAppearances": 17,
+  "honours": [
+   "FIFA World Cup 2002",
+   "3× UEFA Champions League",
+   "4× La Liga"
+  ],
+  "attributes": {
+   "pace": 92,
+   "shooting": 84,
+   "passing": 78,
+   "dribbling": 80,
+   "defending": 74,
+   "physical": 88
+  },
+  "overall": 91,
+  "potential": 91,
+  "skillMoves": 3,
+  "weakFoot": 2,
+  "workRate": "High/Medium",
+  "playStyles": [
+   "Long Shot",
+   "Overlap"
+  ],
+  "era": "1990s-2000s",
+  "bio": "Roberto Carlos turned the left-back slot into an attacking station, arriving at Real Madrid in 1996 and staying eleven years. His free kick against France in 1997, struck from an angle that seemed impossible, is among the most replayed goals in the sport, and he won the 2002 World Cup with Brazil. In total he played for 4 clubs, won 3 senior honours and scored 68 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 42,
+   "header": 14,
+   "penalty": 6,
+   "freeKick": 6,
+   "leftFoot": 48,
+   "rightFoot": 20
+  }
+ },
+ {
+  "id": "iker-casillas",
+  "name": "Iker Casillas",
+  "fullName": "Iker Casillas Fernández",
+  "photoUrl": null,
+  "nationality": "Spain",
+  "countryCode": "ES",
+  "confederation": "UEFA",
+  "position": "GK",
+  "secondaryPositions": [],
+  "dateOfBirth": "1981-05-20",
+  "heightCm": 185,
+  "preferredFoot": "Left",
+  "shirtNumber": 1,
+  "clubs": [
+   "Real Madrid",
+   "Porto"
+  ],
+  "careerGoals": 0,
+  "careerAssists": null,
+  "internationalCaps": 167,
+  "internationalGoals": 0,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 17,
+  "honours": [
+   "FIFA World Cup 2010",
+   "2× European Championship",
+   "3× UEFA Champions League"
+  ],
+  "attributes": {
+   "pace": 62,
+   "shooting": 20,
+   "passing": 58,
+   "dribbling": 44,
+   "defending": 28,
+   "physical": 76
+  },
+  "overall": 90,
+  "potential": 90,
+  "skillMoves": 1,
+  "weakFoot": 3,
+  "workRate": "Low/Medium",
+  "playStyles": [
+   "Acrobatic Saves",
+   "Cross Claimer"
+  ],
+  "era": "2000s-2010s",
+  "bio": "Casillas captained Spain through the most successful spell in the country's history, lifting the 2010 World Cup and two European Championships. His reflex save from Arjen Robben in the 2010 final is the defining image of that run, and he won three Champions Leagues with Real Madrid before finishing his career at Porto. In total he played for 2 clubs, won 3 senior honours and scored 0 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": null
+ },
+ {
+  "id": "sunil-chhetri",
+  "name": "Sunil Chhetri",
+  "fullName": "Sunil Chhetri",
+  "photoUrl": null,
+  "nationality": "India",
+  "countryCode": "IN",
+  "confederation": "AFC",
+  "position": "ST",
+  "secondaryPositions": [
+   "SS"
+  ],
+  "dateOfBirth": "1984-08-03",
+  "heightCm": 170,
+  "preferredFoot": "Right",
+  "shirtNumber": 11,
+  "clubs": [
+   "Mohun Bagan",
+   "JCT",
+   "Kansas City Wizards",
+   "Sporting CP B",
+   "Bengaluru FC",
+   "Mumbai City"
+  ],
+  "careerGoals": 95,
+  "careerAssists": null,
+  "internationalCaps": 150,
+  "internationalGoals": 94,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 0,
+  "honours": [
+   "4× AIFF Player of the Year",
+   "SAFF Championship ×5",
+   "I-League 2014",
+   "ISL 2019"
+  ],
+  "attributes": {
+   "pace": 80,
+   "shooting": 86,
+   "passing": 72,
+   "dribbling": 82,
+   "defending": 34,
+   "physical": 68
+  },
+  "overall": 82,
+  "potential": 82,
+  "skillMoves": 3,
+  "weakFoot": 3,
+  "workRate": "High/Medium",
+  "playStyles": [
+   "Poacher",
+   "Chip Shot"
+  ],
+  "era": "2010s-2020s",
+  "bio": "Chhetri is India's record scorer and among the highest-scoring active internationals in the world, with more than ninety goals in over 150 caps. He has won the SAFF Championship five times, lifted the I-League and the Indian Super League, and remains the face of football in a cricket-first country. His record stands at 95 career goals, 150 caps for India and 0 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 62,
+   "header": 17,
+   "penalty": 10,
+   "freeKick": 6,
+   "leftFoot": 25,
+   "rightFoot": 70
+  }
+ },
+ {
+  "id": "ashley-cole",
+  "name": "Ashley Cole",
+  "fullName": "Ashley Cole",
+  "photoUrl": null,
+  "nationality": "England",
+  "countryCode": "GB",
+  "confederation": "UEFA",
+  "position": "LB",
+  "secondaryPositions": [
+   "LM"
+  ],
+  "dateOfBirth": "1980-12-20",
+  "heightCm": 176,
+  "preferredFoot": "Left",
+  "shirtNumber": 3,
+  "clubs": [
+   "Arsenal",
+   "Chelsea",
+   "Roma",
+   "LA Galaxy"
+  ],
+  "careerGoals": 15,
+  "careerAssists": null,
+  "internationalCaps": 107,
+  "internationalGoals": 0,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 9,
+  "honours": [
+   "UEFA Champions League 2012",
+   "3× Premier League",
+   "7× FA Cup"
+  ],
+  "attributes": {
+   "pace": 86,
+   "shooting": 58,
+   "passing": 76,
+   "dribbling": 78,
+   "defending": 86,
+   "physical": 76
+  },
+  "overall": 87,
+  "potential": 87,
+  "skillMoves": 3,
+  "weakFoot": 2,
+  "workRate": "Medium/High",
+  "playStyles": [
+   "Overlap",
+   "Block"
+  ],
+  "era": "2000s-2010s",
+  "bio": "Cole was England's left-back for a decade and the only player to win the FA Cup seven times. He defended one-against-one better than anyone of his era, kept Cristiano Ronaldo quiet in the 2009 Champions League final, and moved from Arsenal to Chelsea in 2006 to win the European Cup. His record stands at 15 career goals, 107 caps for England and 9 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 9,
+   "header": 3,
+   "penalty": 2,
+   "freeKick": 1,
+   "leftFoot": 10,
+   "rightFoot": 5
+  }
+ },
+ {
+  "id": "johan-cruyff",
+  "name": "Johan Cruyff",
+  "fullName": "Hendrik Johannes Cruijff",
+  "photoUrl": null,
+  "nationality": "Netherlands",
+  "countryCode": "NL",
+  "confederation": "UEFA",
+  "position": "CF",
+  "secondaryPositions": [
+   "CAM",
+   "LW"
+  ],
+  "dateOfBirth": "1947-04-25",
+  "heightCm": 180,
+  "preferredFoot": "Right",
+  "shirtNumber": 14,
+  "clubs": [
+   "Ajax",
+   "Barcelona",
+   "Los Angeles Aztecs",
+   "Feyenoord"
+  ],
+  "careerGoals": 395,
+  "careerAssists": null,
+  "internationalCaps": 48,
+  "internationalGoals": 33,
+  "worldCupGoals": 3,
+  "worldCupAppearances": 7,
+  "honours": [
+   "3× European Cup",
+   "9× Eredivisie",
+   "KNVB Cup 1983",
+   "3× Ballon d'Or"
+  ],
+  "attributes": {
+   "pace": 86,
+   "shooting": 86,
+   "passing": 90,
+   "dribbling": 94,
+   "defending": 50,
+   "physical": 68
+  },
+  "overall": 95,
+  "potential": 95,
+  "skillMoves": 4,
+  "weakFoot": 3,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Technical Dribbler",
+   "Incisive Pass"
+  ],
+  "era": "1970s",
+  "bio": "Cruyff defined Total Football at Ajax and carried it to Barcelona, where he won La Liga in his first season and later built the coaching philosophy that outlasted him. Three European Cups, three Ballons d'Or and the turn that bears his name made him the most influential figure in the modern game's development. In total he played for 4 clubs, won 4 senior honours and scored 395 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 267,
+   "header": 70,
+   "penalty": 28,
+   "freeKick": 30,
+   "leftFoot": 103,
+   "rightFoot": 292
+  }
+ },
+ {
+  "id": "virgil-van-dijk",
+  "name": "Virgil van Dijk",
+  "fullName": "Virgil van Dijk",
+  "photoUrl": null,
+  "nationality": "Netherlands",
+  "countryCode": "NL",
+  "confederation": "UEFA",
+  "position": "CB",
+  "secondaryPositions": [],
+  "dateOfBirth": "1991-07-08",
+  "heightCm": 195,
+  "preferredFoot": "Right",
+  "shirtNumber": 4,
+  "clubs": [
+   "Groningen",
+   "Celtic",
+   "Southampton",
+   "Liverpool"
+  ],
+  "careerGoals": 35,
+  "careerAssists": null,
+  "internationalCaps": 95,
+  "internationalGoals": 11,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 10,
+  "honours": [
+   "UEFA Champions League 2019",
+   "Premier League 2020",
+   "UEFA Nations League 2019"
+  ],
+  "attributes": {
+   "pace": 82,
+   "shooting": 60,
+   "passing": 76,
+   "dribbling": 62,
+   "defending": 90,
+   "physical": 92
+  },
+  "overall": 90,
+  "potential": 90,
+  "skillMoves": 2,
+  "weakFoot": 3,
+  "workRate": "Low/High",
+  "playStyles": [
+   "Aerial Threat",
+   "Long Ball Passer"
+  ],
+  "era": "2010s-2020s",
+  "bio": "Van Dijk transformed Liverpool's defence after arriving in January 2018, and the club won the Champions League and then a first league title in thirty years. He captains the Netherlands, defends with patience rather than panic, and is one of very few defenders to finish second in a Ballon d'Or vote. Across his career he turned out for clubs including Groningen and Liverpool, finishing with 95 caps and 11 goals for Netherlands.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 21,
+   "header": 8,
+   "penalty": 4,
+   "freeKick": 2,
+   "leftFoot": 9,
+   "rightFoot": 26
+  }
+ },
+ {
+  "id": "didier-drogba",
+  "name": "Didier Drogba",
+  "fullName": "Didier Yves Drogba Tébily",
+  "photoUrl": null,
+  "nationality": "Ivory Coast",
+  "countryCode": "CI",
+  "confederation": "CAF",
+  "position": "ST",
+  "secondaryPositions": [],
+  "dateOfBirth": "1978-03-11",
+  "heightCm": 188,
+  "preferredFoot": "Right",
+  "shirtNumber": 11,
+  "clubs": [
+   "Le Mans",
+   "Guingamp",
+   "Marseille",
+   "Chelsea",
+   "Galatasaray",
+   "Montreal Impact",
+   "Phoenix Rising"
+  ],
+  "careerGoals": 300,
+  "careerAssists": null,
+  "internationalCaps": 105,
+  "internationalGoals": 65,
+  "worldCupGoals": 2,
+  "worldCupAppearances": 8,
+  "honours": [
+   "UEFA Champions League 2012",
+   "4× Premier League",
+   "2× African Player of the Year"
+  ],
+  "attributes": {
+   "pace": 84,
+   "shooting": 90,
+   "passing": 70,
+   "dribbling": 78,
+   "defending": 36,
+   "physical": 92
+  },
+  "overall": 90,
+  "potential": 90,
+  "skillMoves": 2,
+  "weakFoot": 4,
+  "workRate": "High/Medium",
+  "playStyles": [
+   "Aerial Threat",
+   "Hold Up Play"
+  ],
+  "era": "2000s-2010s",
+  "bio": "Drogba scored the equaliser and the winning penalty in the 2012 Champions League final, the peak of eight years at Chelsea in which he won four league titles. Powerful in the air and ruthless in big matches, he is Ivory Coast's record scorer and twice Africa's Footballer of the Year. In total he played for 7 clubs, won 3 senior honours and scored 300 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 190,
+   "header": 64,
+   "penalty": 21,
+   "freeKick": 25,
+   "leftFoot": 78,
+   "rightFoot": 222
+  }
+ },
+ {
+  "id": "samuel-etoo",
+  "name": "Samuel Eto'o",
+  "fullName": "Samuel Eto'o Fils",
+  "photoUrl": null,
+  "nationality": "Cameroon",
+  "countryCode": "CM",
+  "confederation": "CAF",
+  "position": "ST",
+  "secondaryPositions": [
+   "RW"
+  ],
+  "dateOfBirth": "1981-03-10",
+  "heightCm": 180,
+  "preferredFoot": "Right",
+  "shirtNumber": 9,
+  "clubs": [
+   "Real Madrid",
+   "Mallorca",
+   "Barcelona",
+   "Inter",
+   "Chelsea",
+   "Everton",
+   "Sampdoria",
+   "Antalyaspor"
+  ],
+  "careerGoals": 359,
+  "careerAssists": null,
+  "internationalCaps": 118,
+  "internationalGoals": 56,
+  "worldCupGoals": 3,
+  "worldCupAppearances": 10,
+  "honours": [
+   "3× UEFA Champions League",
+   "2× African Cup of Nations",
+   "Olympic gold 2000",
+   "4× African Player of the Year"
+  ],
+  "attributes": {
+   "pace": 92,
+   "shooting": 90,
+   "passing": 74,
+   "dribbling": 86,
+   "defending": 32,
+   "physical": 78
+  },
+  "overall": 91,
+  "potential": 91,
+  "skillMoves": 3,
+  "weakFoot": 4,
+  "workRate": "High/Medium",
+  "playStyles": [
+   "Poacher",
+   "Speed Dribbler"
+  ],
+  "era": "2000s-2010s",
+  "bio": "Eto'o won the Champions League with Barcelona in 2006 and 2009 and with Inter in 2010, scoring in two of those finals. Four times African Footballer of the Year and a two-time African champion with Cameroon, he was the most reliable centre-forward in Europe for a decade. He ended with 56 international goals in 118 appearances for Cameroon, having played at 10 World Cup matches.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 218,
+   "header": 76,
+   "penalty": 41,
+   "freeKick": 24,
+   "leftFoot": 93,
+   "rightFoot": 266
+  }
+ },
+ {
+  "id": "eusebio",
+  "name": "Eusébio",
+  "fullName": "Eusébio da Silva Ferreira",
+  "photoUrl": null,
+  "nationality": "Portugal",
+  "countryCode": "PT",
+  "confederation": "UEFA",
+  "position": "ST",
+  "secondaryPositions": [
+   "SS"
+  ],
+  "dateOfBirth": "1942-01-25",
+  "heightCm": 175,
+  "preferredFoot": "Right",
+  "shirtNumber": 10,
+  "clubs": [
+   "Sporting Lourenço Marques",
+   "Benfica",
+   "Boston Minutemen"
+  ],
+  "careerGoals": 473,
+  "careerAssists": null,
+  "internationalCaps": 64,
+  "internationalGoals": 41,
+  "worldCupGoals": 9,
+  "worldCupAppearances": 6,
+  "honours": [
+   "European Cup 1962",
+   "11× Portuguese league",
+   "Ballon d'Or 1965"
+  ],
+  "attributes": {
+   "pace": 92,
+   "shooting": 92,
+   "passing": 74,
+   "dribbling": 86,
+   "defending": 40,
+   "physical": 82
+  },
+  "overall": 94,
+  "potential": 94,
+  "skillMoves": 3,
+  "weakFoot": 4,
+  "workRate": "High/Medium",
+  "playStyles": [
+   "Rapid Fire",
+   "Power Shot"
+  ],
+  "era": "1960s",
+  "bio": "Eusébio scored nine goals at the 1966 World Cup, including four in the quarter-final comeback against North Korea, and finished as the tournament's top scorer. He won the 1962 European Cup with Benfica, eleven Portuguese titles, and the 1965 Ballon d'Or, bringing African-born power to European football. In total he played for 3 clubs, won 3 senior honours and scored 473 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 298,
+   "header": 102,
+   "penalty": 41,
+   "freeKick": 32,
+   "leftFoot": 123,
+   "rightFoot": 350
+  }
+ },
+ {
+  "id": "luis-figo",
+  "name": "Luís Figo",
+  "fullName": "Luís Filipe Madeira Caeiro Figo",
+  "photoUrl": null,
+  "nationality": "Portugal",
+  "countryCode": "PT",
+  "confederation": "UEFA",
+  "position": "RW",
+  "secondaryPositions": [
+   "CAM",
+   "LW"
+  ],
+  "dateOfBirth": "1972-11-04",
+  "heightCm": 180,
+  "preferredFoot": "Right",
+  "shirtNumber": 7,
+  "clubs": [
+   "Sporting CP",
+   "Barcelona",
+   "Real Madrid",
+   "Inter"
+  ],
+  "careerGoals": 127,
+  "careerAssists": null,
+  "internationalCaps": 127,
+  "internationalGoals": 32,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 10,
+  "honours": [
+   "UEFA Champions League 2002",
+   "4× La Liga",
+   "Ballon d'Or 2000"
+  ],
+  "attributes": {
+   "pace": 84,
+   "shooting": 82,
+   "passing": 88,
+   "dribbling": 90,
+   "defending": 44,
+   "physical": 72
+  },
+  "overall": 91,
+  "potential": 91,
+  "skillMoves": 4,
+  "weakFoot": 3,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Technical Dribbler",
+   "Crosser"
+  ],
+  "era": "1990s-2000s",
+  "bio": "Figo won the 2000 Ballon d'Or and made the most controversial transfer in football when he moved from Barcelona to Real Madrid a year later, returning to the Camp Nou to a stadium of whistles and a thrown pig's head. He won the 2002 Champions League and four league titles across the two clubs. Across his career he turned out for clubs including Sporting CP and Inter, finishing with 127 caps and 32 goals for Portugal.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 80,
+   "header": 24,
+   "penalty": 14,
+   "freeKick": 9,
+   "leftFoot": 33,
+   "rightFoot": 94
+  }
+ },
+ {
+  "id": "garrincha",
+  "name": "Garrincha",
+  "fullName": "Manuel Francisco dos Santos",
+  "photoUrl": null,
+  "nationality": "Brazil",
+  "countryCode": "BR",
+  "confederation": "CONMEBOL",
+  "position": "RW",
+  "secondaryPositions": [],
+  "dateOfBirth": "1933-10-28",
+  "heightCm": 169,
+  "preferredFoot": "Right",
+  "shirtNumber": 7,
+  "clubs": [
+   "Botafogo"
+  ],
+  "careerGoals": 232,
+  "careerAssists": null,
+  "internationalCaps": 50,
+  "internationalGoals": 12,
+  "worldCupGoals": 5,
+  "worldCupAppearances": 12,
+  "honours": [
+   "2× FIFA World Cup",
+   "2× Brazilian league"
+  ],
+  "attributes": {
+   "pace": 92,
+   "shooting": 76,
+   "passing": 68,
+   "dribbling": 96,
+   "defending": 30,
+   "physical": 62
+  },
+  "overall": 93,
+  "potential": 93,
+  "skillMoves": 4,
+  "weakFoot": 2,
+  "workRate": "Medium/Low",
+  "playStyles": [
+   "Technical Dribbler",
+   "Speed Dribbler"
+  ],
+  "era": "1950s-60s",
+  "bio": "Garrincha had legs that bent the wrong way and a dribble nobody could read. He carried Brazil through the 1962 World Cup after Pelé's injury, scoring and creating in every knockout match, and his duels with defenders on the right wing remain the purest example of beating a man one against one. His record stands at 232 career goals, 50 caps for Brazil and 12 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 148,
+   "header": 47,
+   "penalty": 20,
+   "freeKick": 17,
+   "leftFoot": 60,
+   "rightFoot": 172
+  }
+ },
+ {
+  "id": "steven-gerrard",
+  "name": "Steven Gerrard",
+  "fullName": "Steven George Gerrard",
+  "photoUrl": null,
+  "nationality": "England",
+  "countryCode": "GB",
+  "confederation": "UEFA",
+  "position": "CM",
+  "secondaryPositions": [
+   "DM",
+   "CAM"
+  ],
+  "dateOfBirth": "1980-05-30",
+  "heightCm": 185,
+  "preferredFoot": "Right",
+  "shirtNumber": 8,
+  "clubs": [
+   "Liverpool",
+   "LA Galaxy"
+  ],
+  "careerGoals": 186,
+  "careerAssists": null,
+  "internationalCaps": 114,
+  "internationalGoals": 21,
+  "worldCupGoals": 3,
+  "worldCupAppearances": 12,
+  "honours": [
+   "UEFA Champions League 2005",
+   "UEFA Cup 2001",
+   "2× FA Cup"
+  ],
+  "attributes": {
+   "pace": 76,
+   "shooting": 86,
+   "passing": 86,
+   "dribbling": 80,
+   "defending": 74,
+   "physical": 84
+  },
+  "overall": 90,
+  "potential": 90,
+  "skillMoves": 3,
+  "weakFoot": 4,
+  "workRate": "High/High",
+  "playStyles": [
+   "Long Shot",
+   "Power Free-Kick"
+  ],
+  "era": "2000s-2010s",
+  "bio": "Gerrard dragged Liverpool through the 2005 Champions League final in Istanbul, scoring the first goal of a three-goal comeback from 3–0 down. He played every midfield role for club and country, struck the ball harder than almost anyone, and never won the league title his career otherwise deserved. Across his career he turned out for clubs including Liverpool and LA Galaxy, finishing with 114 caps and 21 goals for England.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 116,
+   "header": 37,
+   "penalty": 19,
+   "freeKick": 14,
+   "leftFoot": 48,
+   "rightFoot": 138
+  }
+ },
+ {
+  "id": "erling-haaland",
+  "name": "Erling Haaland",
+  "fullName": "Erling Braut Haaland",
+  "photoUrl": null,
+  "nationality": "Norway",
+  "countryCode": "NO",
+  "confederation": "UEFA",
+  "position": "ST",
+  "secondaryPositions": [],
+  "dateOfBirth": "2000-07-21",
+  "heightCm": 195,
+  "preferredFoot": "Left",
+  "shirtNumber": 9,
+  "clubs": [
+   "Bryne",
+   "Molde",
+   "Red Bull Salzburg",
+   "Borussia Dortmund",
+   "Manchester City"
+  ],
+  "careerGoals": 280,
+  "careerAssists": null,
+  "internationalCaps": 45,
+  "internationalGoals": 38,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 0,
+  "honours": [
+   "UEFA Champions League 2023",
+   "3× Premier League",
+   "2× Bundesliga top scorer",
+   "2× Premier League Golden Boot"
+  ],
+  "attributes": {
+   "pace": 92,
+   "shooting": 96,
+   "passing": 66,
+   "dribbling": 80,
+   "defending": 30,
+   "physical": 94
+  },
+  "overall": 91,
+  "potential": 95,
+  "skillMoves": 3,
+  "weakFoot": 3,
+  "workRate": "High/Low",
+  "playStyles": [
+   "Poacher",
+   "Power Header"
+  ],
+  "era": "2020s",
+  "bio": "Haaland scored 52 goals in his first season at Manchester City, including 36 in the Premier League, a single-season record, and finished that campaign with the treble. A left-footed sprinter built like a centre-half, he has scored at close to a goal a game since he was nineteen. His record stands at 280 career goals, 45 caps for Norway and 0 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 165,
+   "header": 63,
+   "penalty": 32,
+   "freeKick": 20,
+   "leftFoot": 196,
+   "rightFoot": 84
+  }
+ },
+ {
+  "id": "thierry-henry",
+  "name": "Thierry Henry",
+  "fullName": "Thierry Daniel Henry",
+  "photoUrl": null,
+  "nationality": "France",
+  "countryCode": "FR",
+  "confederation": "UEFA",
+  "position": "ST",
+  "secondaryPositions": [
+   "LW"
+  ],
+  "dateOfBirth": "1977-08-17",
+  "heightCm": 188,
+  "preferredFoot": "Right",
+  "shirtNumber": 14,
+  "clubs": [
+   "Monaco",
+   "Juventus",
+   "Arsenal",
+   "Barcelona",
+   "New York Red Bulls"
+  ],
+  "careerGoals": 411,
+  "careerAssists": null,
+  "internationalCaps": 123,
+  "internationalGoals": 51,
+  "worldCupGoals": 6,
+  "worldCupAppearances": 17,
+  "honours": [
+   "FIFA World Cup 1998",
+   "European Championship 2000",
+   "UEFA Champions League 2009",
+   "2× Premier League"
+  ],
+  "attributes": {
+   "pace": 96,
+   "shooting": 90,
+   "passing": 82,
+   "dribbling": 92,
+   "defending": 34,
+   "physical": 78
+  },
+  "overall": 93,
+  "potential": 93,
+  "skillMoves": 4,
+  "weakFoot": 4,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Speed Dribbler",
+   "Chip Shot"
+  ],
+  "era": "1990s-2000s",
+  "bio": "Henry is Arsenal's record scorer with 228 goals and the centrepiece of the unbeaten 2003-04 side. He arrived from Juventus as a winger and left as the most complete forward in the Premier League, winning the World Cup and European Championship with France and the 2009 Champions League with Barcelona. Across his career he turned out for clubs including Monaco and New York Red Bulls, finishing with 123 caps and 51 goals for France.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 250,
+   "header": 89,
+   "penalty": 45,
+   "freeKick": 27,
+   "leftFoot": 107,
+   "rightFoot": 304
+  }
+ },
+ {
+  "id": "zlatan-ibrahimovic",
+  "name": "Zlatan Ibrahimović",
+  "fullName": "Zlatan Ibrahimović",
+  "photoUrl": null,
+  "nationality": "Sweden",
+  "countryCode": "SE",
+  "confederation": "UEFA",
+  "position": "ST",
+  "secondaryPositions": [
+   "SS"
+  ],
+  "dateOfBirth": "1981-10-03",
+  "heightCm": 195,
+  "preferredFoot": "Right",
+  "shirtNumber": 11,
+  "clubs": [
+   "Malmö FF",
+   "Ajax",
+   "Juventus",
+   "Inter",
+   "Barcelona",
+   "AC Milan",
+   "Paris Saint-Germain",
+   "Manchester United",
+   "LA Galaxy"
+  ],
+  "careerGoals": 573,
+  "careerAssists": null,
+  "internationalCaps": 122,
+  "internationalGoals": 62,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 6,
+  "honours": [
+   "2× Serie A",
+   "4× Ligue 1",
+   "Europa League 2017",
+   "12× league titles"
+  ],
+  "attributes": {
+   "pace": 76,
+   "shooting": 92,
+   "passing": 80,
+   "dribbling": 88,
+   "defending": 34,
+   "physical": 92
+  },
+  "overall": 90,
+  "potential": 90,
+  "skillMoves": 5,
+  "weakFoot": 4,
+  "workRate": "Medium/Low",
+  "playStyles": [
+   "Acrobatic Finisher",
+   "Power Header"
+  ],
+  "era": "2000s-2020s",
+  "bio": "Ibrahimović won league titles in four countries and scored more than 500 club goals, most of them memorable for their audacity rather than their importance. He never won the Champions League and never scored at a World Cup, and still carried Sweden's attack into his forties. Across his career he turned out for clubs including Malmö FF and LA Galaxy, finishing with 122 caps and 62 goals for Sweden.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 346,
+   "header": 120,
+   "penalty": 67,
+   "freeKick": 40,
+   "leftFoot": 149,
+   "rightFoot": 424
+  }
+ },
+ {
+  "id": "andres-iniesta",
+  "name": "Andrés Iniesta",
+  "fullName": "Andrés Iniesta Luján",
+  "photoUrl": null,
+  "nationality": "Spain",
+  "countryCode": "ES",
+  "confederation": "UEFA",
+  "position": "CM",
+  "secondaryPositions": [
+   "CAM",
+   "LW"
+  ],
+  "dateOfBirth": "1984-05-11",
+  "heightCm": 171,
+  "preferredFoot": "Right",
+  "shirtNumber": 8,
+  "clubs": [
+   "Barcelona",
+   "Vissel Kobe",
+   "Emirates Club"
+  ],
+  "careerGoals": 70,
+  "careerAssists": null,
+  "internationalCaps": 131,
+  "internationalGoals": 13,
+  "worldCupGoals": 2,
+  "worldCupAppearances": 14,
+  "honours": [
+   "FIFA World Cup 2010",
+   "2× European Championship",
+   "4× UEFA Champions League",
+   "9× La Liga"
+  ],
+  "attributes": {
+   "pace": 72,
+   "shooting": 76,
+   "passing": 90,
+   "dribbling": 94,
+   "defending": 60,
+   "physical": 62
+  },
+  "overall": 92,
+  "potential": 92,
+  "skillMoves": 4,
+  "weakFoot": 3,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Technical Dribbler",
+   "Tiki-Taka"
+  ],
+  "era": "2000s-2010s",
+  "bio": "Iniesta scored the goal that won Spain the 2010 World Cup and was named man of the match in the 2012 European Championship final. He escaped pressure with a single shift of weight, the 'croqueta', and formed with Xavi the midfield that made Barcelona's possession game work for a decade. In total he played for 3 clubs, won 4 senior honours and scored 70 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 45,
+   "header": 14,
+   "penalty": 7,
+   "freeKick": 4,
+   "leftFoot": 18,
+   "rightFoot": 52
+  }
+ },
+ {
+  "id": "vinicius-junior",
+  "name": "Vinícius Júnior",
+  "fullName": "Vinícius José Paixão de Oliveira Júnior",
+  "photoUrl": null,
+  "nationality": "Brazil",
+  "countryCode": "BR",
+  "confederation": "CONMEBOL",
+  "position": "LW",
+  "secondaryPositions": [
+   "ST"
+  ],
+  "dateOfBirth": "2000-07-12",
+  "heightCm": 176,
+  "preferredFoot": "Right",
+  "shirtNumber": 7,
+  "clubs": [
+   "Flamengo",
+   "Real Madrid"
+  ],
+  "careerGoals": 110,
+  "careerAssists": null,
+  "internationalCaps": 40,
+  "internationalGoals": 6,
+  "worldCupGoals": 1,
+  "worldCupAppearances": 4,
+  "honours": [
+   "UEFA Champions League 2022",
+   "2× La Liga",
+   "FIFA Club World Cup 2022"
+  ],
+  "attributes": {
+   "pace": 94,
+   "shooting": 82,
+   "passing": 78,
+   "dribbling": 92,
+   "defending": 34,
+   "physical": 70
+  },
+  "overall": 89,
+  "potential": 93,
+  "skillMoves": 5,
+  "weakFoot": 3,
+  "workRate": "High/Medium",
+  "playStyles": [
+   "Speed Dribbler",
+   "Technical Dribbler"
+  ],
+  "era": "2020s",
+  "bio": "Vinícius scored the winning goal in the 2022 Champions League final against Liverpool and has been Real Madrid's most direct attacker since. He beats full-backs on the outside and inside, draws fouls at a rate that shapes how opponents defend, and is the reference point of Brazil's current generation. He ended with 6 international goals in 40 appearances for Brazil, having played at 4 World Cup matches.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 68,
+   "header": 24,
+   "penalty": 11,
+   "freeKick": 7,
+   "leftFoot": 29,
+   "rightFoot": 81
+  }
+ },
+ {
+  "id": "kaka",
+  "name": "Kaká",
+  "fullName": "Ricardo Izecson dos Santos Leite",
+  "photoUrl": null,
+  "nationality": "Brazil",
+  "countryCode": "BR",
+  "confederation": "CONMEBOL",
+  "position": "CAM",
+  "secondaryPositions": [
+   "CM",
+   "SS"
+  ],
+  "dateOfBirth": "1982-04-22",
+  "heightCm": 186,
+  "preferredFoot": "Right",
+  "shirtNumber": 22,
+  "clubs": [
+   "São Paulo",
+   "AC Milan",
+   "Real Madrid",
+   "Orlando City"
+  ],
+  "careerGoals": 240,
+  "careerAssists": null,
+  "internationalCaps": 92,
+  "internationalGoals": 29,
+  "worldCupGoals": 1,
+  "worldCupAppearances": 10,
+  "honours": [
+   "FIFA World Cup 2002",
+   "UEFA Champions League 2007",
+   "Serie A 2004",
+   "Ballon d'Or 2007"
+  ],
+  "attributes": {
+   "pace": 90,
+   "shooting": 86,
+   "passing": 84,
+   "dribbling": 90,
+   "defending": 46,
+   "physical": 76
+  },
+  "overall": 92,
+  "potential": 92,
+  "skillMoves": 4,
+  "weakFoot": 4,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Speed Dribbler",
+   "Incisive Pass"
+  ],
+  "era": "2000s",
+  "bio": "Kaká was the last player before the Messi–Ronaldo era to win the Ballon d'Or, in 2007, after driving Milan to the Champions League with ten goals. He ran with the ball faster than most players ran without it, and his assist for Inzaghi in the 2007 final is the image of that Milan side. His record stands at 240 career goals, 92 caps for Brazil and 10 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 153,
+   "header": 48,
+   "penalty": 21,
+   "freeKick": 18,
+   "leftFoot": 62,
+   "rightFoot": 178
+  }
+ },
+ {
+  "id": "harry-kane",
+  "name": "Harry Kane",
+  "fullName": "Harry Edward Kane",
+  "photoUrl": null,
+  "nationality": "England",
+  "countryCode": "GB",
+  "confederation": "UEFA",
+  "position": "ST",
+  "secondaryPositions": [
+   "CAM"
+  ],
+  "dateOfBirth": "1993-07-28",
+  "heightCm": 188,
+  "preferredFoot": "Right",
+  "shirtNumber": 9,
+  "clubs": [
+   "Tottenham Hotspur",
+   "Leyton Orient",
+   "Millwall",
+   "Bayern Munich"
+  ],
+  "careerGoals": 400,
+  "careerAssists": null,
+  "internationalCaps": 110,
+  "internationalGoals": 75,
+  "worldCupGoals": 8,
+  "worldCupAppearances": 11,
+  "honours": [
+   "Bundesliga 2025",
+   "3× Premier League Golden Boot",
+   "World Cup Golden Boot 2018"
+  ],
+  "attributes": {
+   "pace": 76,
+   "shooting": 93,
+   "passing": 88,
+   "dribbling": 82,
+   "defending": 38,
+   "physical": 84
+  },
+  "overall": 90,
+  "potential": 90,
+  "skillMoves": 3,
+  "weakFoot": 4,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Complete Forward",
+   "Incisive Pass"
+  ],
+  "era": "2010s-2020s",
+  "bio": "Kane won the 2018 World Cup Golden Boot and became England's record scorer in 2023, passing Bobby Charlton's 49. He left Tottenham as their all-time leading scorer in 2023 for Bayern Munich, where he scored 36 league goals in his first season and won the Bundesliga in his second. His record stands at 400 career goals, 110 caps for England and 11 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 236,
+   "header": 94,
+   "penalty": 40,
+   "freeKick": 30,
+   "leftFoot": 104,
+   "rightFoot": 296
+  }
+ },
+ {
+  "id": "ngolo-kante",
+  "name": "N'Golo Kanté",
+  "fullName": "N'Golo Kanté",
+  "photoUrl": null,
+  "nationality": "France",
+  "countryCode": "FR",
+  "confederation": "UEFA",
+  "position": "DM",
+  "secondaryPositions": [
+   "CM"
+  ],
+  "dateOfBirth": "1991-03-29",
+  "heightCm": 168,
+  "preferredFoot": "Right",
+  "shirtNumber": 7,
+  "clubs": [
+   "Boulogne",
+   "Caen",
+   "Leicester City",
+   "Chelsea",
+   "Al-Ittihad"
+  ],
+  "careerGoals": 15,
+  "careerAssists": null,
+  "internationalCaps": 64,
+  "internationalGoals": 2,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 8,
+  "honours": [
+   "FIFA World Cup 2018",
+   "UEFA Champions League 2021",
+   "2× Premier League",
+   "Europa League 2019"
+  ],
+  "attributes": {
+   "pace": 84,
+   "shooting": 60,
+   "passing": 76,
+   "dribbling": 78,
+   "defending": 88,
+   "physical": 80
+  },
+  "overall": 89,
+  "potential": 89,
+  "skillMoves": 2,
+  "weakFoot": 3,
+  "workRate": "High/High",
+  "playStyles": [
+   "Intercept",
+   "Relentless"
+  ],
+  "era": "2010s-2020s",
+  "bio": "Kanté won consecutive Premier League titles with Leicester City and Chelsea, then the World Cup and a Champions League, playing the same selfless role throughout. He covers ground nobody else reaches and wins the ball without fouling, and was man of the match in both the 2021 Champions League final and semi-finals. In total he played for 5 clubs, won 4 senior honours and scored 15 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 10,
+   "header": 3,
+   "penalty": 1,
+   "freeKick": 1,
+   "leftFoot": 4,
+   "rightFoot": 11
+  }
+ },
+ {
+  "id": "roy-keane",
+  "name": "Roy Keane",
+  "fullName": "Roy Maurice Keane",
+  "photoUrl": null,
+  "nationality": "Ireland",
+  "countryCode": "IE",
+  "confederation": "UEFA",
+  "position": "CM",
+  "secondaryPositions": [
+   "DM"
+  ],
+  "dateOfBirth": "1971-08-10",
+  "heightCm": 180,
+  "preferredFoot": "Right",
+  "shirtNumber": 16,
+  "clubs": [
+   "Cobh Ramblers",
+   "Nottingham Forest",
+   "Manchester United",
+   "Celtic"
+  ],
+  "careerGoals": 51,
+  "careerAssists": null,
+  "internationalCaps": 67,
+  "internationalGoals": 9,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 4,
+  "honours": [
+   "7× Premier League",
+   "UEFA Champions League 1999",
+   "4× FA Cup"
+  ],
+  "attributes": {
+   "pace": 76,
+   "shooting": 68,
+   "passing": 78,
+   "dribbling": 70,
+   "defending": 86,
+   "physical": 92
+  },
+  "overall": 88,
+  "potential": 88,
+  "skillMoves": 2,
+  "weakFoot": 3,
+  "workRate": "High/High",
+  "playStyles": [
+   "Bruiser",
+   "Intercept"
+  ],
+  "era": "1990s-2000s",
+  "bio": "Keane set the temperature of Manchester United's midfield for twelve years, winning seven league titles and the 1999 Champions League. His performance in Turin in 1999, dragging his side back from two goals down while booked and later suspended for the final, remains the standard for captaincy in English football. In total he played for 4 clubs, won 3 senior honours and scored 51 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 31,
+   "header": 11,
+   "penalty": 5,
+   "freeKick": 4,
+   "leftFoot": 13,
+   "rightFoot": 38
+  }
+ },
+ {
+  "id": "ronald-koeman",
+  "name": "Ronald Koeman",
+  "fullName": "Ronald Koeman",
+  "photoUrl": null,
+  "nationality": "Netherlands",
+  "countryCode": "NL",
+  "confederation": "UEFA",
+  "position": "CB",
+  "secondaryPositions": [
+   "DM"
+  ],
+  "dateOfBirth": "1963-03-21",
+  "heightCm": 181,
+  "preferredFoot": "Right",
+  "shirtNumber": 4,
+  "clubs": [
+   "Groningen",
+   "Ajax",
+   "PSV",
+   "Barcelona",
+   "Feyenoord"
+  ],
+  "careerGoals": 193,
+  "careerAssists": null,
+  "internationalCaps": 78,
+  "internationalGoals": 14,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 10,
+  "honours": [
+   "European Championship 1988",
+   "European Cup 1988",
+   "4× La Liga"
+  ],
+  "attributes": {
+   "pace": 58,
+   "shooting": 86,
+   "passing": 84,
+   "dribbling": 62,
+   "defending": 82,
+   "physical": 80
+  },
+  "overall": 88,
+  "potential": 88,
+  "skillMoves": 2,
+  "weakFoot": 4,
+  "workRate": "Low/High",
+  "playStyles": [
+   "Long Shot",
+   "Long Ball Passer"
+  ],
+  "era": "1980s-90s",
+  "bio": "A defender who scored close to two hundred career goals, Koeman was the set-piece specialist of the great Barcelona side that won four consecutive league titles. His free kick won the 1992 European Cup final at Wembley, and he had already lifted the 1988 European Championship with the Netherlands. His record stands at 193 career goals, 78 caps for Netherlands and 10 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 119,
+   "header": 40,
+   "penalty": 22,
+   "freeKick": 12,
+   "leftFoot": 50,
+   "rightFoot": 143
+  }
+ },
+ {
+  "id": "toni-kroos",
+  "name": "Toni Kroos",
+  "fullName": "Toni Kroos",
+  "photoUrl": null,
+  "nationality": "Germany",
+  "countryCode": "DE",
+  "confederation": "UEFA",
+  "position": "CM",
+  "secondaryPositions": [
+   "DM"
+  ],
+  "dateOfBirth": "1990-01-04",
+  "heightCm": 183,
+  "preferredFoot": "Right",
+  "shirtNumber": 8,
+  "clubs": [
+   "Bayern Munich",
+   "Bayer Leverkusen",
+   "Real Madrid"
+  ],
+  "careerGoals": 45,
+  "careerAssists": null,
+  "internationalCaps": 114,
+  "internationalGoals": 17,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 14,
+  "honours": [
+   "FIFA World Cup 2014",
+   "6× UEFA Champions League",
+   "3× Bundesliga",
+   "4× La Liga"
+  ],
+  "attributes": {
+   "pace": 62,
+   "shooting": 82,
+   "passing": 94,
+   "dribbling": 80,
+   "defending": 70,
+   "physical": 68
+  },
+  "overall": 90,
+  "potential": 90,
+  "skillMoves": 3,
+  "weakFoot": 3,
+  "workRate": "Low/Medium",
+  "playStyles": [
+   "Long Ball Passer",
+   "Long Shot"
+  ],
+  "era": "2010s-2020s",
+  "bio": "Kroos won the World Cup in 2014 and six Champions Leagues across Bayern Munich and Real Madrid, always playing the same unhurried game: receive, switch, repeat. His pass completion rarely dipped below ninety per cent, and he retired in 2024 immediately after winning a sixth European Cup. In total he played for 3 clubs, won 4 senior honours and scored 45 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 28,
+   "header": 9,
+   "penalty": 5,
+   "freeKick": 3,
+   "leftFoot": 12,
+   "rightFoot": 33
+  }
+ },
+ {
+  "id": "philipp-lahm",
+  "name": "Philipp Lahm",
+  "fullName": "Philipp Lahm",
+  "photoUrl": null,
+  "nationality": "Germany",
+  "countryCode": "DE",
+  "confederation": "UEFA",
+  "position": "RB",
+  "secondaryPositions": [
+   "LB",
+   "DM"
+  ],
+  "dateOfBirth": "1983-11-11",
+  "heightCm": 170,
+  "preferredFoot": "Right",
+  "shirtNumber": 16,
+  "clubs": [
+   "Bayern Munich",
+   "VfB Stuttgart"
+  ],
+  "careerGoals": 24,
+  "careerAssists": null,
+  "internationalCaps": 113,
+  "internationalGoals": 5,
+  "worldCupGoals": 1,
+  "worldCupAppearances": 20,
+  "honours": [
+   "FIFA World Cup 2014",
+   "UEFA Champions League 2013",
+   "8× Bundesliga"
+  ],
+  "attributes": {
+   "pace": 82,
+   "shooting": 62,
+   "passing": 86,
+   "dribbling": 84,
+   "defending": 84,
+   "physical": 72
+  },
+  "overall": 90,
+  "potential": 90,
+  "skillMoves": 3,
+  "weakFoot": 4,
+  "workRate": "Medium/High",
+  "playStyles": [
+   "Inverted Full-Back",
+   "Tiki-Taka"
+  ],
+  "era": "2000s-2010s",
+  "bio": "Lahm captained Germany to the 2014 World Cup and Bayern Munich to the 2013 treble, playing either flank or stepping into midfield. Technically the cleanest defender of his generation, he rarely lost the ball and retired at thirty-three at the top of his game rather than fading. He ended with 5 international goals in 113 appearances for Germany, having played at 20 World Cup matches.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 15,
+   "header": 5,
+   "penalty": 2,
+   "freeKick": 2,
+   "leftFoot": 6,
+   "rightFoot": 18
+  }
+ },
+ {
+  "id": "frank-lampard",
+  "name": "Frank Lampard",
+  "fullName": "Frank James Lampard",
+  "photoUrl": null,
+  "nationality": "England",
+  "countryCode": "GB",
+  "confederation": "UEFA",
+  "position": "CM",
+  "secondaryPositions": [
+   "CAM"
+  ],
+  "dateOfBirth": "1978-06-20",
+  "heightCm": 184,
+  "preferredFoot": "Right",
+  "shirtNumber": 8,
+  "clubs": [
+   "West Ham United",
+   "Chelsea",
+   "Manchester City",
+   "New York City FC"
+  ],
+  "careerGoals": 303,
+  "careerAssists": null,
+  "internationalCaps": 106,
+  "internationalGoals": 29,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 10,
+  "honours": [
+   "UEFA Champions League 2012",
+   "3× Premier League",
+   "4× FA Cup"
+  ],
+  "attributes": {
+   "pace": 72,
+   "shooting": 88,
+   "passing": 84,
+   "dribbling": 78,
+   "defending": 70,
+   "physical": 82
+  },
+  "overall": 89,
+  "potential": 89,
+  "skillMoves": 3,
+  "weakFoot": 4,
+  "workRate": "High/High",
+  "playStyles": [
+   "Arrives In Box",
+   "Long Shot"
+  ],
+  "era": "2000s-2010s",
+  "bio": "Lampard scored more than three hundred career goals from midfield, most of them arriving late in the box for Chelsea. He won three league titles, four FA Cups and the 2012 Champions League, and his timing of runs from deep made him the most prolific English midfielder of the modern era. His record stands at 303 career goals, 106 caps for England and 10 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 184,
+   "header": 65,
+   "penalty": 32,
+   "freeKick": 22,
+   "leftFoot": 79,
+   "rightFoot": 224
+  }
+ },
+ {
+  "id": "robert-lewandowski",
+  "name": "Robert Lewandowski",
+  "fullName": "Robert Lewandowski",
+  "photoUrl": null,
+  "nationality": "Poland",
+  "countryCode": "PL",
+  "confederation": "UEFA",
+  "position": "ST",
+  "secondaryPositions": [],
+  "dateOfBirth": "1988-08-21",
+  "heightCm": 185,
+  "preferredFoot": "Right",
+  "shirtNumber": 9,
+  "clubs": [
+   "Znicz Pruszków",
+   "Lech Poznań",
+   "Borussia Dortmund",
+   "Bayern Munich",
+   "Barcelona"
+  ],
+  "careerGoals": 670,
+  "careerAssists": null,
+  "internationalCaps": 158,
+  "internationalGoals": 85,
+  "worldCupGoals": 1,
+  "worldCupAppearances": 8,
+  "honours": [
+   "UEFA Champions League 2020",
+   "10× Bundesliga",
+   "2× La Liga",
+   "2× FIFA Best"
+  ],
+  "attributes": {
+   "pace": 84,
+   "shooting": 95,
+   "passing": 76,
+   "dribbling": 82,
+   "defending": 34,
+   "physical": 86
+  },
+  "overall": 91,
+  "potential": 91,
+  "skillMoves": 3,
+  "weakFoot": 4,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Poacher",
+   "Aerial Threat"
+  ],
+  "era": "2010s-2020s",
+  "bio": "Lewandowski scored five goals in nine minutes against Wolfsburg in 2015 and never stopped scoring: ten Bundesliga titles with Bayern Munich, the 2020 Champions League, and two FIFA Best awards. Poland's record scorer, he moved to Barcelona in 2022 and won La Liga in his first season. His record stands at 670 career goals, 158 caps for Poland and 8 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 415,
+   "header": 143,
+   "penalty": 57,
+   "freeKick": 55,
+   "leftFoot": 174,
+   "rightFoot": 496
+  }
+ },
+ {
+  "id": "claude-makelele",
+  "name": "Claude Makélélé",
+  "fullName": "Claude Makélélé Sinda",
+  "photoUrl": null,
+  "nationality": "France",
+  "countryCode": "FR",
+  "confederation": "UEFA",
+  "position": "DM",
+  "secondaryPositions": [
+   "CM"
+  ],
+  "dateOfBirth": "1973-02-18",
+  "heightCm": 174,
+  "preferredFoot": "Right",
+  "shirtNumber": 4,
+  "clubs": [
+   "Nantes",
+   "Marseille",
+   "Celta Vigo",
+   "Real Madrid",
+   "Chelsea",
+   "Paris Saint-Germain"
+  ],
+  "careerGoals": 11,
+  "careerAssists": null,
+  "internationalCaps": 71,
+  "internationalGoals": 1,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 10,
+  "honours": [
+   "UEFA Champions League 2002",
+   "2× Premier League",
+   "2× La Liga"
+  ],
+  "attributes": {
+   "pace": 68,
+   "shooting": 50,
+   "passing": 76,
+   "dribbling": 66,
+   "defending": 88,
+   "physical": 84
+  },
+  "overall": 88,
+  "potential": 88,
+  "skillMoves": 2,
+  "weakFoot": 3,
+  "workRate": "Low/High",
+  "playStyles": [
+   "Intercept",
+   "Block"
+  ],
+  "era": "1990s-2000s",
+  "bio": "The holding role in a 4-3-3 is still called the Makélélé role because he defined it: screen the back four, win the second ball, give it to someone better. Chelsea won two league titles in his three seasons, and Real Madrid's midfield lost its balance after selling him in 2003. In total he played for 6 clubs, won 3 senior honours and scored 11 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 7,
+   "header": 2,
+   "penalty": 1,
+   "freeKick": 1,
+   "leftFoot": 3,
+   "rightFoot": 8
+  }
+ },
+ {
+  "id": "paolo-maldini",
+  "name": "Paolo Maldini",
+  "fullName": "Paolo Cesare Maldini",
+  "photoUrl": null,
+  "nationality": "Italy",
+  "countryCode": "IT",
+  "confederation": "UEFA",
+  "position": "LB",
+  "secondaryPositions": [
+   "CB"
+  ],
+  "dateOfBirth": "1968-06-26",
+  "heightCm": 186,
+  "preferredFoot": "Right",
+  "shirtNumber": 3,
+  "clubs": [
+   "AC Milan"
+  ],
+  "careerGoals": 33,
+  "careerAssists": null,
+  "internationalCaps": 126,
+  "internationalGoals": 7,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 23,
+  "honours": [
+   "5× European Cup/Champions League",
+   "7× Serie A",
+   "FIFA Club World Cup 2007"
+  ],
+  "attributes": {
+   "pace": 78,
+   "shooting": 58,
+   "passing": 82,
+   "dribbling": 76,
+   "defending": 92,
+   "physical": 86
+  },
+  "overall": 94,
+  "potential": 94,
+  "skillMoves": 2,
+  "weakFoot": 3,
+  "workRate": "Medium/High",
+  "playStyles": [
+   "Block",
+   "Intercept"
+  ],
+  "era": "1990s-2000s",
+  "bio": "Maldini spent twenty-five seasons at AC Milan, winning five European Cups and seven league titles, and played in four World Cups and three European Championships without lifting either. He defended standing up, timing tackles to the centimetre, and moved from left-back to centre-half without any drop in standard. He ended with 7 international goals in 126 appearances for Italy, having played at 23 World Cup matches.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 21,
+   "header": 7,
+   "penalty": 3,
+   "freeKick": 2,
+   "leftFoot": 9,
+   "rightFoot": 24
+  }
+ },
+ {
+  "id": "sadio-mane",
+  "name": "Sadio Mané",
+  "fullName": "Sadio Mané",
+  "photoUrl": null,
+  "nationality": "Senegal",
+  "countryCode": "SN",
+  "confederation": "CAF",
+  "position": "LW",
+  "secondaryPositions": [
+   "ST"
+  ],
+  "dateOfBirth": "1992-04-10",
+  "heightCm": 175,
+  "preferredFoot": "Right",
+  "shirtNumber": 10,
+  "clubs": [
+   "Metz",
+   "Red Bull Salzburg",
+   "Southampton",
+   "Liverpool",
+   "Bayern Munich",
+   "Al-Nassr"
+  ],
+  "careerGoals": 250,
+  "careerAssists": null,
+  "internationalCaps": 110,
+  "internationalGoals": 45,
+  "worldCupGoals": 3,
+  "worldCupAppearances": 8,
+  "honours": [
+   "UEFA Champions League 2019",
+   "Premier League 2020",
+   "Africa Cup of Nations 2021",
+   "African Player of the Year 2022"
+  ],
+  "attributes": {
+   "pace": 94,
+   "shooting": 86,
+   "passing": 78,
+   "dribbling": 88,
+   "defending": 40,
+   "physical": 74
+  },
+  "overall": 89,
+  "potential": 89,
+  "skillMoves": 4,
+  "weakFoot": 3,
+  "workRate": "High/Medium",
+  "playStyles": [
+   "Speed Dribbler",
+   "Rapid Fire"
+  ],
+  "era": "2010s-2020s",
+  "bio": "Mané scored in the 2019 Champions League final and shared Liverpool's front three with Salah and Firmino through the club's title-winning years. He captained Senegal to their first Africa Cup of Nations in 2022 and won the African Player of the Year award the same season. In total he played for 6 clubs, won 4 senior honours and scored 250 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 156,
+   "header": 53,
+   "penalty": 23,
+   "freeKick": 18,
+   "leftFoot": 65,
+   "rightFoot": 185
+  }
+ },
+ {
+  "id": "diego-maradona",
+  "name": "Diego Maradona",
+  "fullName": "Diego Armando Maradona Franco",
+  "photoUrl": null,
+  "nationality": "Argentina",
+  "countryCode": "AR",
+  "confederation": "CONMEBOL",
+  "position": "CAM",
+  "secondaryPositions": [
+   "SS",
+   "LW"
+  ],
+  "dateOfBirth": "1960-10-30",
+  "heightCm": 165,
+  "preferredFoot": "Left",
+  "shirtNumber": 10,
+  "clubs": [
+   "Argentinos Juniors",
+   "Boca Juniors",
+   "Barcelona",
+   "Napoli",
+   "Sevilla",
+   "Newell's Old Boys"
+  ],
+  "careerGoals": 345,
+  "careerAssists": null,
+  "internationalCaps": 91,
+  "internationalGoals": 34,
+  "worldCupGoals": 8,
+  "worldCupAppearances": 21,
+  "honours": [
+   "FIFA World Cup 1986",
+   "2× Serie A",
+   "UEFA Cup 1989"
+  ],
+  "attributes": {
+   "pace": 88,
+   "shooting": 88,
+   "passing": 90,
+   "dribbling": 98,
+   "defending": 34,
+   "physical": 72
+  },
+  "overall": 97,
+  "potential": 97,
+  "skillMoves": 5,
+  "weakFoot": 2,
+  "workRate": "Medium/Low",
+  "playStyles": [
+   "Technical Dribbler",
+   "Incisive Pass"
+  ],
+  "era": "1980s-90s",
+  "bio": "Maradona won the 1986 World Cup almost alone, scoring the Hand of God and the Goal of the Century in the same match against England. At Napoli he delivered two Serie A titles to a club that had never won one, and his low centre of gravity and left foot remain the benchmark for the number ten. Across his career he turned out for clubs including Argentinos Juniors and Newell's Old Boys, finishing with 91 caps and 34 goals for Argentina.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 226,
+   "header": 66,
+   "penalty": 30,
+   "freeKick": 23,
+   "leftFoot": 241,
+   "rightFoot": 104
+  }
+ },
+ {
+  "id": "marcelo-vieira",
+  "name": "Marcelo",
+  "fullName": "Marcelo Vieira da Silva Júnior",
+  "photoUrl": null,
+  "nationality": "Brazil",
+  "countryCode": "BR",
+  "confederation": "CONMEBOL",
+  "position": "LB",
+  "secondaryPositions": [
+   "LM"
+  ],
+  "dateOfBirth": "1988-05-12",
+  "heightCm": 174,
+  "preferredFoot": "Left",
+  "shirtNumber": 12,
+  "clubs": [
+   "Fluminense",
+   "Real Madrid",
+   "Olympiacos"
+  ],
+  "careerGoals": 38,
+  "careerAssists": null,
+  "internationalCaps": 58,
+  "internationalGoals": 6,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 6,
+  "honours": [
+   "5× UEFA Champions League",
+   "6× La Liga",
+   "Olympic silver 2012"
+  ],
+  "attributes": {
+   "pace": 84,
+   "shooting": 70,
+   "passing": 82,
+   "dribbling": 88,
+   "defending": 72,
+   "physical": 78
+  },
+  "overall": 88,
+  "potential": 88,
+  "skillMoves": 5,
+  "weakFoot": 2,
+  "workRate": "High/Medium",
+  "playStyles": [
+   "Technical Dribbler",
+   "Overlap"
+  ],
+  "era": "2010s",
+  "bio": "Marcelo spent fifteen years at Real Madrid and won five Champions Leagues, the most by any defender. He treated the left flank as a playground, combining with Cristiano Ronaldo in tight spaces and shooting from the edge of the box, and captained the club to the 2022 title in his final season. His record stands at 38 career goals, 58 caps for Brazil and 6 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 23,
+   "header": 8,
+   "penalty": 4,
+   "freeKick": 3,
+   "leftFoot": 27,
+   "rightFoot": 11
+  }
+ },
+ {
+  "id": "lothar-matthaus",
+  "name": "Lothar Matthäus",
+  "fullName": "Lothar Herbert Matthäus",
+  "photoUrl": null,
+  "nationality": "Germany",
+  "countryCode": "DE",
+  "confederation": "UEFA",
+  "position": "CM",
+  "secondaryPositions": [
+   "DM",
+   "CB"
+  ],
+  "dateOfBirth": "1961-03-21",
+  "heightCm": 174,
+  "preferredFoot": "Right",
+  "shirtNumber": 10,
+  "clubs": [
+   "Borussia Mönchengladbach",
+   "Bayern Munich",
+   "Inter",
+   "New York MetroStars"
+  ],
+  "careerGoals": 210,
+  "careerAssists": null,
+  "internationalCaps": 150,
+  "internationalGoals": 23,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 25,
+  "honours": [
+   "FIFA World Cup 1990",
+   "European Championship 1980",
+   "7× Bundesliga",
+   "UEFA Cup 1991"
+  ],
+  "attributes": {
+   "pace": 76,
+   "shooting": 84,
+   "passing": 86,
+   "dribbling": 78,
+   "defending": 80,
+   "physical": 84
+  },
+  "overall": 91,
+  "potential": 91,
+  "skillMoves": 3,
+  "weakFoot": 3,
+  "workRate": "Medium/High",
+  "playStyles": [
+   "Long Shot",
+   "Long Ball Passer"
+  ],
+  "era": "1980s-90s",
+  "bio": "Matthäus captained West Germany to the 1990 World Cup and holds the record for World Cup matches played, twenty-five across five tournaments. He started as an attacking midfielder, scored long-range goals for fun, and finished his international career as a sweeper at forty. He ended with 23 international goals in 150 appearances for Germany, having played at 25 World Cup matches.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 125,
+   "header": 45,
+   "penalty": 24,
+   "freeKick": 16,
+   "leftFoot": 55,
+   "rightFoot": 155
+  }
+ },
+ {
+  "id": "kylian-mbappe",
+  "name": "Kylian Mbappé",
+  "fullName": "Kylian Mbappé Lottin",
+  "photoUrl": null,
+  "nationality": "France",
+  "countryCode": "FR",
+  "confederation": "UEFA",
+  "position": "ST",
+  "secondaryPositions": [
+   "LW"
+  ],
+  "dateOfBirth": "1998-12-20",
+  "heightCm": 178,
+  "preferredFoot": "Right",
+  "shirtNumber": 9,
+  "clubs": [
+   "Monaco",
+   "Paris Saint-Germain",
+   "Real Madrid"
+  ],
+  "careerGoals": 330,
+  "careerAssists": null,
+  "internationalCaps": 92,
+  "internationalGoals": 52,
+  "worldCupGoals": 12,
+  "worldCupAppearances": 14,
+  "honours": [
+   "FIFA World Cup 2018",
+   "UEFA Nations League 2021",
+   "6× Ligue 1",
+   "World Cup Golden Boot 2022"
+  ],
+  "attributes": {
+   "pace": 97,
+   "shooting": 92,
+   "passing": 80,
+   "dribbling": 92,
+   "defending": 36,
+   "physical": 78
+  },
+  "overall": 92,
+  "potential": 95,
+  "skillMoves": 5,
+  "weakFoot": 4,
+  "workRate": "High/Medium",
+  "playStyles": [
+   "Rapid Fire",
+   "Speed Dribbler"
+  ],
+  "era": "2010s-2020s",
+  "bio": "Mbappé scored in the 2018 World Cup final at nineteen and then scored a hat-trick in the 2022 final, the first since 1966, finishing as top scorer. He is Paris Saint-Germain's record scorer, won six Ligue 1 titles, and moved to Real Madrid in 2024 as the most expensive free transfer in the game. In total he played for 3 clubs, won 4 senior honours and scored 330 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 211,
+   "header": 65,
+   "penalty": 28,
+   "freeKick": 26,
+   "leftFoot": 86,
+   "rightFoot": 244
+  }
+ },
+ {
+  "id": "lionel-messi",
+  "name": "Lionel Messi",
+  "fullName": "Lionel Andrés Messi Cuccittini",
+  "photoUrl": null,
+  "nationality": "Argentina",
+  "countryCode": "AR",
+  "confederation": "CONMEBOL",
+  "position": "RW",
+  "secondaryPositions": [
+   "CAM",
+   "ST"
+  ],
+  "dateOfBirth": "1987-06-24",
+  "heightCm": 170,
+  "preferredFoot": "Left",
+  "shirtNumber": 10,
+  "clubs": [
+   "Barcelona",
+   "Paris Saint-Germain",
+   "Inter Miami"
+  ],
+  "careerGoals": 850,
+  "careerAssists": null,
+  "internationalCaps": 196,
+  "internationalGoals": 114,
+  "worldCupGoals": 13,
+  "worldCupAppearances": 26,
+  "honours": [
+   "FIFA World Cup 2022",
+   "2× Copa América",
+   "4× UEFA Champions League",
+   "8× Ballon d'Or",
+   "Olympic gold 2008"
+  ],
+  "attributes": {
+   "pace": 82,
+   "shooting": 92,
+   "passing": 92,
+   "dribbling": 96,
+   "defending": 34,
+   "physical": 64
+  },
+  "overall": 94,
+  "potential": 94,
+  "skillMoves": 4,
+  "weakFoot": 2,
+  "workRate": "Medium/Low",
+  "playStyles": [
+   "Technical Dribbler",
+   "Incisive Pass"
+  ],
+  "era": "2000s-2020s",
+  "bio": "Messi has won eight Ballons d'Or, four Champions Leagues and, in 2022, the World Cup that completed his career. He scored 672 goals for Barcelona, more than any player for a single club, and in Qatar became the first player to win the Golden Ball twice, adding a second in 2022 to the one from 2014. He ended with 114 international goals in 196 appearances for Argentina, having played at 26 World Cup matches.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 531,
+   "header": 162,
+   "penalty": 84,
+   "freeKick": 73,
+   "leftFoot": 595,
+   "rightFoot": 255
+  }
+ },
+ {
+  "id": "luka-modric",
+  "name": "Luka Modrić",
+  "fullName": "Luka Modrić",
+  "photoUrl": null,
+  "nationality": "Croatia",
+  "countryCode": "HR",
+  "confederation": "UEFA",
+  "position": "CM",
+  "secondaryPositions": [
+   "CAM"
+  ],
+  "dateOfBirth": "1985-09-09",
+  "heightCm": 172,
+  "preferredFoot": "Right",
+  "shirtNumber": 10,
+  "clubs": [
+   "Dinamo Zagreb",
+   "Tottenham Hotspur",
+   "Real Madrid"
+  ],
+  "careerGoals": 100,
+  "careerAssists": null,
+  "internationalCaps": 189,
+  "internationalGoals": 27,
+  "worldCupGoals": 2,
+  "worldCupAppearances": 19,
+  "honours": [
+   "6× UEFA Champions League",
+   "4× La Liga",
+   "Ballon d'Or 2018"
+  ],
+  "attributes": {
+   "pace": 70,
+   "shooting": 78,
+   "passing": 90,
+   "dribbling": 86,
+   "defending": 72,
+   "physical": 68
+  },
+  "overall": 90,
+  "potential": 90,
+  "skillMoves": 4,
+  "weakFoot": 4,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Long Ball Passer",
+   "Technical Dribbler"
+  ],
+  "era": "2010s-2020s",
+  "bio": "Modrić ended the Messi–Ronaldo duopoly on the Ballon d'Or in 2018 after leading Croatia to the World Cup final and Real Madrid to a third straight European Cup. He receives the ball on the half-turn and plays the pass before anyone else sees it, and was still starting for Madrid in his late thirties. Across his career he turned out for clubs including Dinamo Zagreb and Real Madrid, finishing with 189 caps and 27 goals for Croatia.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 62,
+   "header": 20,
+   "penalty": 11,
+   "freeKick": 7,
+   "leftFoot": 26,
+   "rightFoot": 74
+  }
+ },
+ {
+  "id": "bobby-moore",
+  "name": "Bobby Moore",
+  "fullName": "Robert Frederick Chelsea Moore",
+  "photoUrl": null,
+  "nationality": "England",
+  "countryCode": "GB",
+  "confederation": "UEFA",
+  "position": "CB",
+  "secondaryPositions": [],
+  "dateOfBirth": "1941-04-12",
+  "heightCm": 178,
+  "preferredFoot": "Right",
+  "shirtNumber": 6,
+  "clubs": [
+   "West Ham United",
+   "Fulham"
+  ],
+  "careerGoals": 25,
+  "careerAssists": null,
+  "internationalCaps": 108,
+  "internationalGoals": 2,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 14,
+  "honours": [
+   "FIFA World Cup 1966",
+   "European Cup Winners' Cup 1965",
+   "FA Cup 1964"
+  ],
+  "attributes": {
+   "pace": 62,
+   "shooting": 55,
+   "passing": 78,
+   "dribbling": 66,
+   "defending": 90,
+   "physical": 84
+  },
+  "overall": 92,
+  "potential": 92,
+  "skillMoves": 2,
+  "weakFoot": 3,
+  "workRate": "Low/High",
+  "playStyles": [
+   "Anticipate",
+   "Intercept"
+  ],
+  "era": "1960s-70s",
+  "bio": "Moore captained England to the 1966 World Cup and is remembered for the tackle that stripped Pelé of the ball in Guadalajara four years later. He read the game a beat early, never relied on pace, and spent sixteen years at West Ham, where he won the FA Cup and the European Cup Winners' Cup. He ended with 2 international goals in 108 appearances for England, having played at 14 World Cup matches.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 16,
+   "header": 5,
+   "penalty": 3,
+   "freeKick": 1,
+   "leftFoot": 6,
+   "rightFoot": 19
+  }
+ },
+ {
+  "id": "gerd-muller",
+  "name": "Gerd Müller",
+  "fullName": "Gerhard Müller",
+  "photoUrl": null,
+  "nationality": "Germany",
+  "countryCode": "DE",
+  "confederation": "UEFA",
+  "position": "ST",
+  "secondaryPositions": [],
+  "dateOfBirth": "1945-11-03",
+  "heightCm": 176,
+  "preferredFoot": "Right",
+  "shirtNumber": 9,
+  "clubs": [
+   "Bayern Munich",
+   "Fort Lauderdale Strikers"
+  ],
+  "careerGoals": 735,
+  "careerAssists": null,
+  "internationalCaps": 62,
+  "internationalGoals": 68,
+  "worldCupGoals": 14,
+  "worldCupAppearances": 13,
+  "honours": [
+   "FIFA World Cup 1974",
+   "European Championship 1972",
+   "3× European Cup",
+   "Ballon d'Or 1970"
+  ],
+  "attributes": {
+   "pace": 72,
+   "shooting": 96,
+   "passing": 62,
+   "dribbling": 74,
+   "defending": 32,
+   "physical": 78
+  },
+  "overall": 93,
+  "potential": 93,
+  "skillMoves": 2,
+  "weakFoot": 3,
+  "workRate": "Medium/Low",
+  "playStyles": [
+   "Poacher",
+   "Power Header"
+  ],
+  "era": "1960s-70s",
+  "bio": "Müller scored 68 goals in 62 games for West Germany and 14 in World Cups, a record that stood for three decades. He was compact and quick in the six-yard box, scoring from angles and half-chances that looked impossible, and his 1974 final winner gave West Germany the trophy on home soil. He ended with 68 international goals in 62 appearances for Germany, having played at 13 World Cup matches.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 456,
+   "header": 145,
+   "penalty": 77,
+   "freeKick": 57,
+   "leftFoot": 191,
+   "rightFoot": 544
+  }
+ },
+ {
+  "id": "ronaldo-nazario",
+  "name": "Ronaldo Nazário",
+  "fullName": "Ronaldo Luís Nazário de Lima",
+  "photoUrl": null,
+  "nationality": "Brazil",
+  "countryCode": "BR",
+  "confederation": "CONMEBOL",
+  "position": "ST",
+  "secondaryPositions": [
+   "SS"
+  ],
+  "dateOfBirth": "1976-09-18",
+  "heightCm": 183,
+  "preferredFoot": "Right",
+  "shirtNumber": 9,
+  "clubs": [
+   "Cruzeiro",
+   "PSV",
+   "Barcelona",
+   "Inter",
+   "Real Madrid",
+   "AC Milan",
+   "Corinthians"
+  ],
+  "careerGoals": 414,
+  "careerAssists": null,
+  "internationalCaps": 98,
+  "internationalGoals": 62,
+  "worldCupGoals": 15,
+  "worldCupAppearances": 19,
+  "honours": [
+   "2× FIFA World Cup",
+   "2× Ballon d'Or",
+   "UEFA Cup 1998",
+   "2× Copa América"
+  ],
+  "attributes": {
+   "pace": 96,
+   "shooting": 96,
+   "passing": 76,
+   "dribbling": 94,
+   "defending": 32,
+   "physical": 82
+  },
+  "overall": 96,
+  "potential": 96,
+  "skillMoves": 4,
+  "weakFoot": 4,
+  "workRate": "High/Medium",
+  "playStyles": [
+   "Rapid Fire",
+   "Technical Dribbler"
+  ],
+  "era": "1990s-2000s",
+  "bio": "Ronaldo scored 15 World Cup goals, a record until 2014, including both in the 2002 final. Two serious knee injuries cost him three seasons, and he still won two Ballons d'Or and the 1998 UEFA Cup with Inter, combining sprinter's pace with close control at a weight few defenders could handle. His record stands at 414 career goals, 98 caps for Brazil and 19 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 241,
+   "header": 96,
+   "penalty": 41,
+   "freeKick": 36,
+   "leftFoot": 108,
+   "rightFoot": 306
+  }
+ },
+ {
+  "id": "manuel-neuer",
+  "name": "Manuel Neuer",
+  "fullName": "Manuel Peter Neuer",
+  "photoUrl": null,
+  "nationality": "Germany",
+  "countryCode": "DE",
+  "confederation": "UEFA",
+  "position": "GK",
+  "secondaryPositions": [],
+  "dateOfBirth": "1986-03-27",
+  "heightCm": 193,
+  "preferredFoot": "Right",
+  "shirtNumber": 1,
+  "clubs": [
+   "Schalke 04",
+   "Bayern Munich"
+  ],
+  "careerGoals": 0,
+  "careerAssists": null,
+  "internationalCaps": 124,
+  "internationalGoals": 0,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 19,
+  "honours": [
+   "FIFA World Cup 2014",
+   "2× UEFA Champions League",
+   "11× Bundesliga"
+  ],
+  "attributes": {
+   "pace": 66,
+   "shooting": 24,
+   "passing": 74,
+   "dribbling": 52,
+   "defending": 32,
+   "physical": 84
+  },
+  "overall": 91,
+  "potential": 91,
+  "skillMoves": 1,
+  "weakFoot": 3,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Sweeper Keeper",
+   "Long Ball Passer"
+  ],
+  "era": "2010s-2020s",
+  "bio": "Neuer made the goalkeeper an eleventh outfield player, playing as a sweeper behind Bayern Munich's high line and starting attacks with both feet. He was named goalkeeper of the tournament at the 2014 World Cup, which Germany won, and has won two Champions Leagues and eleven Bundesliga titles. His record stands at 0 career goals, 124 caps for Germany and 19 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": null
+ },
+ {
+  "id": "neymar",
+  "name": "Neymar",
+  "fullName": "Neymar da Silva Santos Júnior",
+  "photoUrl": null,
+  "nationality": "Brazil",
+  "countryCode": "BR",
+  "confederation": "CONMEBOL",
+  "position": "LW",
+  "secondaryPositions": [
+   "CAM",
+   "ST"
+  ],
+  "dateOfBirth": "1992-02-05",
+  "heightCm": 175,
+  "preferredFoot": "Right",
+  "shirtNumber": 10,
+  "clubs": [
+   "Santos",
+   "Barcelona",
+   "Paris Saint-Germain",
+   "Al-Hilal",
+   "Santos"
+  ],
+  "careerGoals": 430,
+  "careerAssists": null,
+  "internationalCaps": 128,
+  "internationalGoals": 79,
+  "worldCupGoals": 8,
+  "worldCupAppearances": 13,
+  "honours": [
+   "Olympic gold 2016",
+   "Copa Libertadores 2011",
+   "UEFA Champions League 2015",
+   "2× La Liga"
+  ],
+  "attributes": {
+   "pace": 88,
+   "shooting": 84,
+   "passing": 88,
+   "dribbling": 96,
+   "defending": 38,
+   "physical": 68
+  },
+  "overall": 92,
+  "potential": 92,
+  "skillMoves": 5,
+  "weakFoot": 4,
+  "workRate": "High/Low",
+  "playStyles": [
+   "Technical Dribbler",
+   "Incisive Pass"
+  ],
+  "era": "2010s-2020s",
+  "bio": "Neymar is Brazil's all-time leading scorer and won the Champions League in 2015 as part of Barcelona's front three. He spent six seasons at Paris Saint-Germain, reached a World Cup semi-final in 2014 before injury, and won Olympic gold on home soil in 2016 — a career of extraordinary numbers and repeated interruptions. His record stands at 430 career goals, 128 caps for Brazil and 13 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 257,
+   "header": 90,
+   "penalty": 50,
+   "freeKick": 33,
+   "leftFoot": 112,
+   "rightFoot": 318
+  }
+ },
+ {
+  "id": "pele",
+  "name": "Pelé",
+  "fullName": "Edson Arantes do Nascimento",
+  "photoUrl": null,
+  "nationality": "Brazil",
+  "countryCode": "BR",
+  "confederation": "CONMEBOL",
+  "position": "ST",
+  "secondaryPositions": [
+   "SS",
+   "CAM"
+  ],
+  "dateOfBirth": "1940-10-23",
+  "heightCm": 173,
+  "preferredFoot": "Right",
+  "shirtNumber": 10,
+  "clubs": [
+   "Santos",
+   "New York Cosmos"
+  ],
+  "careerGoals": 757,
+  "careerAssists": null,
+  "internationalCaps": 92,
+  "internationalGoals": 77,
+  "worldCupGoals": 12,
+  "worldCupAppearances": 14,
+  "honours": [
+   "3× FIFA World Cup",
+   "2× Copa Libertadores",
+   "Intercontinental Cup 1962"
+  ],
+  "attributes": {
+   "pace": 88,
+   "shooting": 94,
+   "passing": 84,
+   "dribbling": 94,
+   "defending": 42,
+   "physical": 84
+  },
+  "overall": 98,
+  "potential": 98,
+  "skillMoves": 4,
+  "weakFoot": 3,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Acrobatic Finisher",
+   "Technical Dribbler"
+  ],
+  "era": "1950s-70s",
+  "bio": "The only player with three World Cup winners' medals, Pelé was seventeen when he scored twice in the 1958 final. He spent almost his whole club career at Santos, scored more than a thousand goals in official and friendly matches combined, and played the game with a balance and imagination that had no precedent. His record stands at 757 career goals, 92 caps for Brazil and 14 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 465,
+   "header": 158,
+   "penalty": 78,
+   "freeKick": 56,
+   "leftFoot": 197,
+   "rightFoot": 560
+  }
+ },
+ {
+  "id": "andrea-pirlo",
+  "name": "Andrea Pirlo",
+  "fullName": "Andrea Pirlo",
+  "photoUrl": null,
+  "nationality": "Italy",
+  "countryCode": "IT",
+  "confederation": "UEFA",
+  "position": "DM",
+  "secondaryPositions": [
+   "CM"
+  ],
+  "dateOfBirth": "1979-05-19",
+  "heightCm": 177,
+  "preferredFoot": "Right",
+  "shirtNumber": 21,
+  "clubs": [
+   "Brescia",
+   "Inter",
+   "AC Milan",
+   "Juventus",
+   "New York City FC"
+  ],
+  "careerGoals": 86,
+  "careerAssists": null,
+  "internationalCaps": 116,
+  "internationalGoals": 13,
+  "worldCupGoals": 1,
+  "worldCupAppearances": 12,
+  "honours": [
+   "FIFA World Cup 2006",
+   "2× UEFA Champions League",
+   "6× Serie A"
+  ],
+  "attributes": {
+   "pace": 58,
+   "shooting": 80,
+   "passing": 94,
+   "dribbling": 78,
+   "defending": 66,
+   "physical": 64
+  },
+  "overall": 91,
+  "potential": 91,
+  "skillMoves": 3,
+  "weakFoot": 3,
+  "workRate": "Low/Medium",
+  "playStyles": [
+   "Long Ball Passer",
+   "Long Shot"
+  ],
+  "era": "2000s-2010s",
+  "bio": "Pirlo played as a deep-lying playmaker, taking the ball from the centre-backs and finding passes nobody else saw. He won the 2006 World Cup, two Champions Leagues and six Serie A titles, and his free kicks — struck with almost no backlift — decided matches in Italy for two decades. In total he played for 5 clubs, won 3 senior honours and scored 86 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 57,
+   "header": 17,
+   "penalty": 6,
+   "freeKick": 6,
+   "leftFoot": 22,
+   "rightFoot": 64
+  }
+ },
+ {
+  "id": "michel-platini",
+  "name": "Michel Platini",
+  "fullName": "Michel François Platini",
+  "photoUrl": null,
+  "nationality": "France",
+  "countryCode": "FR",
+  "confederation": "UEFA",
+  "position": "CAM",
+  "secondaryPositions": [
+   "CM"
+  ],
+  "dateOfBirth": "1955-06-21",
+  "heightCm": 179,
+  "preferredFoot": "Right",
+  "shirtNumber": 10,
+  "clubs": [
+   "Nancy",
+   "Saint-Étienne",
+   "Juventus"
+  ],
+  "careerGoals": 300,
+  "careerAssists": null,
+  "internationalCaps": 72,
+  "internationalGoals": 41,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 10,
+  "honours": [
+   "European Championship 1984",
+   "European Cup 1985",
+   "2× Serie A",
+   "3× Ballon d'Or"
+  ],
+  "attributes": {
+   "pace": 68,
+   "shooting": 90,
+   "passing": 90,
+   "dribbling": 86,
+   "defending": 52,
+   "physical": 74
+  },
+  "overall": 93,
+  "potential": 93,
+  "skillMoves": 3,
+  "weakFoot": 3,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Long Shot",
+   "Power Free-Kick"
+  ],
+  "era": "1970s-80s",
+  "bio": "Platini scored nine goals in five matches to win the 1984 European Championship for France and won three consecutive Ballons d'Or. At Juventus he was the creative hub of a side that won the 1985 European Cup, and his free kicks and late runs into the box made him the most feared attacker in Serie A. In total he played for 3 clubs, won 4 senior honours and scored 300 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 195,
+   "header": 59,
+   "penalty": 26,
+   "freeKick": 20,
+   "leftFoot": 78,
+   "rightFoot": 222
+  }
+ },
+ {
+  "id": "ferenc-puskas",
+  "name": "Ferenc Puskás",
+  "fullName": "Ferenc Puskás",
+  "photoUrl": null,
+  "nationality": "Hungary",
+  "countryCode": "HU",
+  "confederation": "UEFA",
+  "position": "ST",
+  "secondaryPositions": [
+   "SS"
+  ],
+  "dateOfBirth": "1927-04-01",
+  "heightCm": 172,
+  "preferredFoot": "Left",
+  "shirtNumber": 10,
+  "clubs": [
+   "Budapest Honvéd",
+   "Real Madrid"
+  ],
+  "careerGoals": 704,
+  "careerAssists": null,
+  "internationalCaps": 85,
+  "internationalGoals": 84,
+  "worldCupGoals": 4,
+  "worldCupAppearances": 6,
+  "honours": [
+   "Olympic gold 1952",
+   "3× European Cup",
+   "5× La Liga"
+  ],
+  "attributes": {
+   "pace": 76,
+   "shooting": 94,
+   "passing": 86,
+   "dribbling": 84,
+   "defending": 34,
+   "physical": 72
+  },
+  "overall": 94,
+  "potential": 94,
+  "skillMoves": 3,
+  "weakFoot": 2,
+  "workRate": "Medium/Low",
+  "playStyles": [
+   "Power Shot",
+   "Poacher"
+  ],
+  "era": "1950s-60s",
+  "bio": "Puskás captained the Hungary side that beat England 6–3 at Wembley in 1953 and reached the 1954 World Cup final. He scored 84 goals in 85 internationals, then won three European Cups with Real Madrid after leaving Hungary in 1956, and the award for the year's best goal still carries his name. He ended with 84 international goals in 85 appearances for Hungary, having played at 6 World Cup matches.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 430,
+   "header": 147,
+   "penalty": 69,
+   "freeKick": 58,
+   "leftFoot": 493,
+   "rightFoot": 211
+  }
+ },
+ {
+  "id": "carles-puyol",
+  "name": "Carles Puyol",
+  "fullName": "Carles Puyol i Saforcada",
+  "photoUrl": null,
+  "nationality": "Spain",
+  "countryCode": "ES",
+  "confederation": "UEFA",
+  "position": "CB",
+  "secondaryPositions": [
+   "RB"
+  ],
+  "dateOfBirth": "1978-04-13",
+  "heightCm": 178,
+  "preferredFoot": "Right",
+  "shirtNumber": 5,
+  "clubs": [
+   "Barcelona"
+  ],
+  "careerGoals": 18,
+  "careerAssists": null,
+  "internationalCaps": 100,
+  "internationalGoals": 3,
+  "worldCupGoals": 1,
+  "worldCupAppearances": 14,
+  "honours": [
+   "FIFA World Cup 2010",
+   "European Championship 2008",
+   "3× UEFA Champions League",
+   "6× La Liga"
+  ],
+  "attributes": {
+   "pace": 72,
+   "shooting": 42,
+   "passing": 66,
+   "dribbling": 58,
+   "defending": 89,
+   "physical": 88
+  },
+  "overall": 89,
+  "potential": 89,
+  "skillMoves": 2,
+  "weakFoot": 3,
+  "workRate": "Low/High",
+  "playStyles": [
+   "Block",
+   "Aerial Threat"
+  ],
+  "era": "2000s-2010s",
+  "bio": "Puyol was the counterweight to Barcelona's artistry: a defender who headed the ball away from corners, threw himself in front of shots and never let the team's shape slip. He lifted the 2010 World Cup, two Champions Leagues and six league titles, and scored the header that sent Spain to the 2010 final. His record stands at 18 career goals, 100 caps for Spain and 14 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 11,
+   "header": 4,
+   "penalty": 2,
+   "freeKick": 1,
+   "leftFoot": 5,
+   "rightFoot": 13
+  }
+ },
+ {
+  "id": "sergio-ramos",
+  "name": "Sergio Ramos",
+  "fullName": "Sergio Ramos García",
+  "photoUrl": null,
+  "nationality": "Spain",
+  "countryCode": "ES",
+  "confederation": "UEFA",
+  "position": "CB",
+  "secondaryPositions": [
+   "RB"
+  ],
+  "dateOfBirth": "1986-03-30",
+  "heightCm": 184,
+  "preferredFoot": "Right",
+  "shirtNumber": 4,
+  "clubs": [
+   "Sevilla",
+   "Real Madrid",
+   "Paris Saint-Germain",
+   "Monterrey"
+  ],
+  "careerGoals": 101,
+  "careerAssists": null,
+  "internationalCaps": 180,
+  "internationalGoals": 23,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 17,
+  "honours": [
+   "FIFA World Cup 2010",
+   "2× European Championship",
+   "4× UEFA Champions League",
+   "5× La Liga"
+  ],
+  "attributes": {
+   "pace": 76,
+   "shooting": 70,
+   "passing": 76,
+   "dribbling": 68,
+   "defending": 88,
+   "physical": 90
+  },
+  "overall": 90,
+  "potential": 90,
+  "skillMoves": 2,
+  "weakFoot": 3,
+  "workRate": "Medium/High",
+  "playStyles": [
+   "Aerial Threat",
+   "Power Header"
+  ],
+  "era": "2000s-2010s",
+  "bio": "Ramos won a World Cup, two European Championships and four Champions Leagues, scoring the 93rd-minute header in Lisbon in 2014 that kept Real Madrid's final alive. A right-back who became a centre-half, he collected cards and trophies in equal measure and is Spain's most capped player. In total he played for 4 clubs, won 4 senior honours and scored 101 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 63,
+   "header": 22,
+   "penalty": 10,
+   "freeKick": 6,
+   "leftFoot": 26,
+   "rightFoot": 75
+  }
+ },
+ {
+  "id": "raul-gonzalez",
+  "name": "Raúl",
+  "fullName": "Raúl González Blanco",
+  "photoUrl": null,
+  "nationality": "Spain",
+  "countryCode": "ES",
+  "confederation": "UEFA",
+  "position": "ST",
+  "secondaryPositions": [
+   "SS",
+   "CAM"
+  ],
+  "dateOfBirth": "1977-06-27",
+  "heightCm": 180,
+  "preferredFoot": "Left",
+  "shirtNumber": 7,
+  "clubs": [
+   "Real Madrid",
+   "Schalke 04",
+   "Al Sadd",
+   "New York Cosmos"
+  ],
+  "careerGoals": 428,
+  "careerAssists": null,
+  "internationalCaps": 102,
+  "internationalGoals": 44,
+  "worldCupGoals": 5,
+  "worldCupAppearances": 11,
+  "honours": [
+   "3× UEFA Champions League",
+   "6× La Liga",
+   "DFB-Pokal 2011"
+  ],
+  "attributes": {
+   "pace": 76,
+   "shooting": 88,
+   "passing": 78,
+   "dribbling": 84,
+   "defending": 40,
+   "physical": 68
+  },
+  "overall": 90,
+  "potential": 90,
+  "skillMoves": 3,
+  "weakFoot": 3,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Poacher",
+   "Incisive Pass"
+  ],
+  "era": "1990s-2000s",
+  "bio": "Raúl spent sixteen years in Real Madrid's first team and was the Champions League's leading scorer for years, with 71 goals. He played as a second striker who arrived late in the box, captained both club and country, and won three European Cups and six league titles before finishing his career in Germany and Qatar. In total he played for 4 clubs, won 3 senior honours and scored 428 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 270,
+   "header": 84,
+   "penalty": 44,
+   "freeKick": 30,
+   "leftFoot": 300,
+   "rightFoot": 128
+  }
+ },
+ {
+  "id": "juan-roman-riquelme",
+  "name": "Juan Román Riquelme",
+  "fullName": "Juan Román Riquelme",
+  "photoUrl": null,
+  "nationality": "Argentina",
+  "countryCode": "AR",
+  "confederation": "CONMEBOL",
+  "position": "CAM",
+  "secondaryPositions": [
+   "CM"
+  ],
+  "dateOfBirth": "1978-06-24",
+  "heightCm": 182,
+  "preferredFoot": "Right",
+  "shirtNumber": 10,
+  "clubs": [
+   "Boca Juniors",
+   "Barcelona",
+   "Villarreal",
+   "Argentinos Juniors"
+  ],
+  "careerGoals": 110,
+  "careerAssists": null,
+  "internationalCaps": 51,
+  "internationalGoals": 17,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 4,
+  "honours": [
+   "3× Copa Libertadores",
+   "Intercontinental Cup 2000",
+   "Olympic gold 2008"
+  ],
+  "attributes": {
+   "pace": 48,
+   "shooting": 80,
+   "passing": 92,
+   "dribbling": 90,
+   "defending": 42,
+   "physical": 58
+  },
+  "overall": 88,
+  "potential": 88,
+  "skillMoves": 4,
+  "weakFoot": 2,
+  "workRate": "Low/Low",
+  "playStyles": [
+   "Incisive Pass",
+   "Technical Dribbler"
+  ],
+  "era": "2000s",
+  "bio": "Riquelme played at walking pace and still ran games, holding the ball until a defender committed and then releasing the pass. He won three Copa Libertadores with Boca Juniors, an Olympic gold with Argentina in 2008, and remains the emblem of the Argentine enganche tradition. His record stands at 110 career goals, 51 caps for Argentina and 4 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 72,
+   "header": 21,
+   "penalty": 9,
+   "freeKick": 8,
+   "leftFoot": 29,
+   "rightFoot": 81
+  }
+ },
+ {
+  "id": "rivaldo",
+  "name": "Rivaldo",
+  "fullName": "Rivaldo Vítor Borba Ferreira",
+  "photoUrl": null,
+  "nationality": "Brazil",
+  "countryCode": "BR",
+  "confederation": "CONMEBOL",
+  "position": "LW",
+  "secondaryPositions": [
+   "CAM",
+   "ST"
+  ],
+  "dateOfBirth": "1972-04-19",
+  "heightCm": 186,
+  "preferredFoot": "Left",
+  "shirtNumber": 10,
+  "clubs": [
+   "Santa Cruz",
+   "Palmeiras",
+   "Deportivo La Coruña",
+   "Barcelona",
+   "AC Milan",
+   "Olympiacos"
+  ],
+  "careerGoals": 380,
+  "careerAssists": null,
+  "internationalCaps": 74,
+  "internationalGoals": 35,
+  "worldCupGoals": 8,
+  "worldCupAppearances": 14,
+  "honours": [
+   "FIFA World Cup 2002",
+   "Copa América 1999",
+   "UEFA Champions League 2003",
+   "Ballon d'Or 1999"
+  ],
+  "attributes": {
+   "pace": 78,
+   "shooting": 92,
+   "passing": 86,
+   "dribbling": 90,
+   "defending": 40,
+   "physical": 76
+  },
+  "overall": 91,
+  "potential": 91,
+  "skillMoves": 4,
+  "weakFoot": 2,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Long Shot",
+   "Technical Dribbler"
+  ],
+  "era": "1990s-2000s",
+  "bio": "Rivaldo's hat-trick against Valencia in 2001, finished with an overhead kick in the last minute, secured Barcelona's Champions League place and won him the 1999 Ballon d'Or. He starred in Brazil's 2002 World Cup win and later won the Champions League with Milan, playing always from the left with a ferocious left foot. Across his career he turned out for clubs including Santa Cruz and Olympiacos, finishing with 74 caps and 35 goals for Brazil.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 246,
+   "header": 76,
+   "penalty": 33,
+   "freeKick": 25,
+   "leftFoot": 266,
+   "rightFoot": 114
+  }
+ },
+ {
+  "id": "rodri-hernandez",
+  "name": "Rodri",
+  "fullName": "Rodrigo Hernández Cascante",
+  "photoUrl": null,
+  "nationality": "Spain",
+  "countryCode": "ES",
+  "confederation": "UEFA",
+  "position": "DM",
+  "secondaryPositions": [
+   "CM"
+  ],
+  "dateOfBirth": "1996-06-22",
+  "heightCm": 191,
+  "preferredFoot": "Right",
+  "shirtNumber": 16,
+  "clubs": [
+   "Villarreal",
+   "Atlético Madrid",
+   "Manchester City"
+  ],
+  "careerGoals": 25,
+  "careerAssists": null,
+  "internationalCaps": 60,
+  "internationalGoals": 7,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 7,
+  "honours": [
+   "European Championship 2024",
+   "UEFA Champions League 2023",
+   "4× Premier League",
+   "Ballon d'Or 2024"
+  ],
+  "attributes": {
+   "pace": 66,
+   "shooting": 72,
+   "passing": 88,
+   "dribbling": 74,
+   "defending": 88,
+   "physical": 86
+  },
+  "overall": 90,
+  "potential": 90,
+  "skillMoves": 2,
+  "weakFoot": 3,
+  "workRate": "Medium/High",
+  "playStyles": [
+   "Intercept",
+   "Long Ball Passer"
+  ],
+  "era": "2020s",
+  "bio": "Rodri anchored Manchester City's treble season and scored the winning goal in the 2023 Champions League final, then won Euro 2024 with Spain and the Ballon d'Or the same year. He controls tempo from the base of midfield and rarely gives the ball away, which is why his absence changes how the team plays. He ended with 7 international goals in 60 appearances for Spain, having played at 7 World Cup matches.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 16,
+   "header": 5,
+   "penalty": 2,
+   "freeKick": 2,
+   "leftFoot": 6,
+   "rightFoot": 19
+  }
+ },
+ {
+  "id": "romario",
+  "name": "Romário",
+  "fullName": "Romário de Souza Faria",
+  "photoUrl": null,
+  "nationality": "Brazil",
+  "countryCode": "BR",
+  "confederation": "CONMEBOL",
+  "position": "ST",
+  "secondaryPositions": [
+   "SS"
+  ],
+  "dateOfBirth": "1966-01-29",
+  "heightCm": 167,
+  "preferredFoot": "Right",
+  "shirtNumber": 11,
+  "clubs": [
+   "Vasco da Gama",
+   "PSV",
+   "Barcelona",
+   "Flamengo",
+   "Fluminense"
+  ],
+  "careerGoals": 772,
+  "careerAssists": null,
+  "internationalCaps": 70,
+  "internationalGoals": 55,
+  "worldCupGoals": 5,
+  "worldCupAppearances": 10,
+  "honours": [
+   "FIFA World Cup 1994",
+   "Copa América 1989",
+   "La Liga 1994"
+  ],
+  "attributes": {
+   "pace": 84,
+   "shooting": 94,
+   "passing": 70,
+   "dribbling": 92,
+   "defending": 28,
+   "physical": 62
+  },
+  "overall": 92,
+  "potential": 92,
+  "skillMoves": 4,
+  "weakFoot": 3,
+  "workRate": "Medium/Low",
+  "playStyles": [
+   "Poacher",
+   "Technical Dribbler"
+  ],
+  "era": "1990s",
+  "bio": "Romário scored five goals at the 1994 World Cup and was named the tournament's best player, playing as a striker who lived in the six-yard box and finished with a toe. He claimed more than a thousand career goals, won La Liga with Barcelona and spent his forties still scoring in Brazil. His record stands at 772 career goals, 70 caps for Brazil and 10 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 501,
+   "header": 141,
+   "penalty": 73,
+   "freeKick": 57,
+   "leftFoot": 201,
+   "rightFoot": 571
+  }
+ },
+ {
+  "id": "ronaldinho",
+  "name": "Ronaldinho",
+  "fullName": "Ronaldo de Assis Moreira",
+  "photoUrl": null,
+  "nationality": "Brazil",
+  "countryCode": "BR",
+  "confederation": "CONMEBOL",
+  "position": "LW",
+  "secondaryPositions": [
+   "CAM",
+   "SS"
+  ],
+  "dateOfBirth": "1980-03-21",
+  "heightCm": 182,
+  "preferredFoot": "Right",
+  "shirtNumber": 10,
+  "clubs": [
+   "Grêmio",
+   "Paris Saint-Germain",
+   "Barcelona",
+   "AC Milan",
+   "Flamengo",
+   "Atlético Mineiro"
+  ],
+  "careerGoals": 313,
+  "careerAssists": null,
+  "internationalCaps": 97,
+  "internationalGoals": 33,
+  "worldCupGoals": 2,
+  "worldCupAppearances": 10,
+  "honours": [
+   "FIFA World Cup 2002",
+   "UEFA Champions League 2006",
+   "2× La Liga",
+   "Ballon d'Or 2005"
+  ],
+  "attributes": {
+   "pace": 86,
+   "shooting": 86,
+   "passing": 88,
+   "dribbling": 97,
+   "defending": 34,
+   "physical": 74
+  },
+  "overall": 94,
+  "potential": 94,
+  "skillMoves": 5,
+  "weakFoot": 4,
+  "workRate": "Medium/Low",
+  "playStyles": [
+   "Technical Dribbler",
+   "Power Free-Kick"
+  ],
+  "era": "2000s",
+  "bio": "Ronaldinho made football look like a game again, playing with a smile and a repertoire of feints nobody had invented yet. He won the 2002 World Cup, the 2006 Champions League and the 2005 Ballon d'Or, and his solo goal against Getafe in 2007 is among the finest ever scored. His record stands at 313 career goals, 97 caps for Brazil and 10 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 202,
+   "header": 64,
+   "penalty": 23,
+   "freeKick": 24,
+   "leftFoot": 81,
+   "rightFoot": 232
+  }
+ },
+ {
+  "id": "cristiano-ronaldo",
+  "name": "Cristiano Ronaldo",
+  "fullName": "Cristiano Ronaldo dos Santos Aveiro",
+  "photoUrl": null,
+  "nationality": "Portugal",
+  "countryCode": "PT",
+  "confederation": "UEFA",
+  "position": "ST",
+  "secondaryPositions": [
+   "LW",
+   "RW"
+  ],
+  "dateOfBirth": "1985-02-05",
+  "heightCm": 187,
+  "preferredFoot": "Right",
+  "shirtNumber": 7,
+  "clubs": [
+   "Sporting CP",
+   "Manchester United",
+   "Real Madrid",
+   "Juventus",
+   "Al-Nassr"
+  ],
+  "careerGoals": 930,
+  "careerAssists": null,
+  "internationalCaps": 219,
+  "internationalGoals": 138,
+  "worldCupGoals": 8,
+  "worldCupAppearances": 22,
+  "honours": [
+   "European Championship 2016",
+   "5× UEFA Champions League",
+   "3× Premier League",
+   "5× Ballon d'Or"
+  ],
+  "attributes": {
+   "pace": 86,
+   "shooting": 94,
+   "passing": 82,
+   "dribbling": 88,
+   "defending": 36,
+   "physical": 88
+  },
+  "overall": 93,
+  "potential": 93,
+  "skillMoves": 4,
+  "weakFoot": 3,
+  "workRate": "High/Low",
+  "playStyles": [
+   "Aerial Threat",
+   "Power Shot"
+  ],
+  "era": "2000s-2020s",
+  "bio": "Ronaldo is the leading scorer in men's international football and the record appearance-maker in the World Cup, with five goals across five tournaments and a sixth in 2022. He won five Champions Leagues and five Ballons d'Or, reinventing himself from a flying winger into the most efficient finisher in Europe. His record stands at 930 career goals, 219 caps for Portugal and 22 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 538,
+   "header": 219,
+   "penalty": 103,
+   "freeKick": 70,
+   "leftFoot": 242,
+   "rightFoot": 688
+  }
+ },
+ {
+  "id": "mohamed-salah",
+  "name": "Mohamed Salah",
+  "fullName": "Mohamed Salah Hamed Mahrous Ghaly",
+  "photoUrl": null,
+  "nationality": "Egypt",
+  "countryCode": "EG",
+  "confederation": "CAF",
+  "position": "RW",
+  "secondaryPositions": [
+   "ST"
+  ],
+  "dateOfBirth": "1992-06-15",
+  "heightCm": 175,
+  "preferredFoot": "Left",
+  "shirtNumber": 11,
+  "clubs": [
+   "El Mokawloon",
+   "Basel",
+   "Chelsea",
+   "Fiorentina",
+   "Roma",
+   "Liverpool"
+  ],
+  "careerGoals": 330,
+  "careerAssists": null,
+  "internationalCaps": 100,
+  "internationalGoals": 60,
+  "worldCupGoals": 2,
+  "worldCupAppearances": 6,
+  "honours": [
+   "UEFA Champions League 2019",
+   "Premier League 2020",
+   "2× African Player of the Year",
+   "3× Premier League Golden Boot"
+  ],
+  "attributes": {
+   "pace": 92,
+   "shooting": 90,
+   "passing": 82,
+   "dribbling": 90,
+   "defending": 40,
+   "physical": 72
+  },
+  "overall": 91,
+  "potential": 91,
+  "skillMoves": 4,
+  "weakFoot": 3,
+  "workRate": "High/Medium",
+  "playStyles": [
+   "Speed Dribbler",
+   "Incisive Pass"
+  ],
+  "era": "2010s-2020s",
+  "bio": "Salah scored 32 league goals in his first season at Liverpool, a record for a 38-game campaign, and has since become the club's leading scorer in the Premier League era. He won the 2019 Champions League and the 2020 title, and is Egypt's most famous footballer since the 1990s. He ended with 60 international goals in 100 appearances for Egypt, having played at 6 World Cup matches.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 199,
+   "header": 72,
+   "penalty": 35,
+   "freeKick": 24,
+   "leftFoot": 231,
+   "rightFoot": 99
+  }
+ },
+ {
+  "id": "peter-schmeichel",
+  "name": "Peter Schmeichel",
+  "fullName": "Peter Bolesław Schmeichel",
+  "photoUrl": null,
+  "nationality": "Denmark",
+  "countryCode": "DK",
+  "confederation": "UEFA",
+  "position": "GK",
+  "secondaryPositions": [],
+  "dateOfBirth": "1963-11-18",
+  "heightCm": 193,
+  "preferredFoot": "Right",
+  "shirtNumber": 1,
+  "clubs": [
+   "Brøndby",
+   "Manchester United",
+   "Sporting CP",
+   "Aston Villa",
+   "Manchester City"
+  ],
+  "careerGoals": 1,
+  "careerAssists": null,
+  "internationalCaps": 129,
+  "internationalGoals": 1,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 5,
+  "honours": [
+   "European Championship 1992",
+   "5× Premier League",
+   "UEFA Champions League 1999"
+  ],
+  "attributes": {
+   "pace": 58,
+   "shooting": 22,
+   "passing": 58,
+   "dribbling": 42,
+   "defending": 28,
+   "physical": 88
+  },
+  "overall": 91,
+  "potential": 91,
+  "skillMoves": 1,
+  "weakFoot": 3,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Commanding Presence",
+   "Long Throw"
+  ],
+  "era": "1990s",
+  "bio": "The great organising goalkeeper of the Premier League's first decade, Schmeichel marshalled Manchester United's back four through the 1999 treble and led Denmark to an improbable European Championship in 1992. His distribution, size and voice made him a second captain on the pitch, and he scored a headed goal for United in 1995. Across his career he turned out for clubs including Brøndby and Manchester City, finishing with 129 caps and 1 goals for Denmark.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 1,
+   "header": 0,
+   "penalty": 0,
+   "freeKick": 0,
+   "leftFoot": 0,
+   "rightFoot": 1
+  }
+ },
+ {
+  "id": "paul-scholes",
+  "name": "Paul Scholes",
+  "fullName": "Paul Aaron Scholes",
+  "photoUrl": null,
+  "nationality": "England",
+  "countryCode": "GB",
+  "confederation": "UEFA",
+  "position": "CM",
+  "secondaryPositions": [
+   "CAM"
+  ],
+  "dateOfBirth": "1974-11-16",
+  "heightCm": 170,
+  "preferredFoot": "Right",
+  "shirtNumber": 18,
+  "clubs": [
+   "Manchester United"
+  ],
+  "careerGoals": 155,
+  "careerAssists": null,
+  "internationalCaps": 66,
+  "internationalGoals": 14,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 6,
+  "honours": [
+   "2× UEFA Champions League",
+   "11× Premier League",
+   "3× FA Cup"
+  ],
+  "attributes": {
+   "pace": 66,
+   "shooting": 84,
+   "passing": 88,
+   "dribbling": 80,
+   "defending": 68,
+   "physical": 66
+  },
+  "overall": 89,
+  "potential": 89,
+  "skillMoves": 3,
+  "weakFoot": 3,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Long Shot",
+   "Long Ball Passer"
+  ],
+  "era": "1990s-2000s",
+  "bio": "Scholes spent his entire career at Manchester United, winning eleven league titles and two Champions Leagues while playing a brand of one-touch passing that later midfielders cited as a model. He was a scorer of long-range strikes and volleys, and returned from retirement in 2012 to win one more title. In total he played for 1 clubs, won 3 senior honours and scored 155 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 94,
+   "header": 33,
+   "penalty": 15,
+   "freeKick": 13,
+   "leftFoot": 40,
+   "rightFoot": 115
+  }
+ },
+ {
+  "id": "andriy-shevchenko",
+  "name": "Andriy Shevchenko",
+  "fullName": "Andriy Mykolayovych Shevchenko",
+  "photoUrl": null,
+  "nationality": "Ukraine",
+  "countryCode": "UA",
+  "confederation": "UEFA",
+  "position": "ST",
+  "secondaryPositions": [],
+  "dateOfBirth": "1976-09-29",
+  "heightCm": 183,
+  "preferredFoot": "Right",
+  "shirtNumber": 7,
+  "clubs": [
+   "Dynamo Kyiv",
+   "AC Milan",
+   "Chelsea",
+   "Dynamo Kyiv"
+  ],
+  "careerGoals": 374,
+  "careerAssists": null,
+  "internationalCaps": 111,
+  "internationalGoals": 48,
+  "worldCupGoals": 2,
+  "worldCupAppearances": 6,
+  "honours": [
+   "UEFA Champions League 2003",
+   "Serie A 2004",
+   "5× Ukrainian league",
+   "Ballon d'Or 2004"
+  ],
+  "attributes": {
+   "pace": 86,
+   "shooting": 92,
+   "passing": 72,
+   "dribbling": 82,
+   "defending": 30,
+   "physical": 78
+  },
+  "overall": 91,
+  "potential": 91,
+  "skillMoves": 3,
+  "weakFoot": 4,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Poacher",
+   "Power Header"
+  ],
+  "era": "1990s-2000s",
+  "bio": "Shevchenko won the 2003 Champions League with Milan and the 2004 Ballon d'Or, then took Ukraine to their first World Cup as captain in 2006. He scored 175 goals for Milan across two spells and began and ended his career at Dynamo Kyiv, where he won five league titles. His record stands at 374 career goals, 111 caps for Ukraine and 6 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 229,
+   "header": 71,
+   "penalty": 42,
+   "freeKick": 32,
+   "leftFoot": 97,
+   "rightFoot": 277
+  }
+ },
+ {
+  "id": "hristo-stoichkov",
+  "name": "Hristo Stoichkov",
+  "fullName": "Hristo Stoichkov",
+  "photoUrl": null,
+  "nationality": "Bulgaria",
+  "countryCode": "BG",
+  "confederation": "UEFA",
+  "position": "LW",
+  "secondaryPositions": [
+   "ST"
+  ],
+  "dateOfBirth": "1966-02-08",
+  "heightCm": 178,
+  "preferredFoot": "Left",
+  "shirtNumber": 8,
+  "clubs": [
+   "CSKA Sofia",
+   "Barcelona",
+   "Parma",
+   "Al-Nassr",
+   "Kashiwa Reysol",
+   "Chicago Fire"
+  ],
+  "careerGoals": 280,
+  "careerAssists": null,
+  "internationalCaps": 83,
+  "internationalGoals": 37,
+  "worldCupGoals": 6,
+  "worldCupAppearances": 10,
+  "honours": [
+   "European Cup 1992",
+   "5× La Liga",
+   "Ballon d'Or 1994",
+   "World Cup Golden Boot 1994"
+  ],
+  "attributes": {
+   "pace": 86,
+   "shooting": 90,
+   "passing": 80,
+   "dribbling": 86,
+   "defending": 40,
+   "physical": 80
+  },
+  "overall": 90,
+  "potential": 90,
+  "skillMoves": 4,
+  "weakFoot": 2,
+  "workRate": "High/Medium",
+  "playStyles": [
+   "Power Shot",
+   "Technical Dribbler"
+  ],
+  "era": "1990s",
+  "bio": "Stoichkov shared the 1994 World Cup Golden Boot and won that year's Ballon d'Or after leading Bulgaria to the semi-finals. He won the 1992 European Cup with Barcelona and five league titles, playing on the left with a left foot that could break a game open from nothing. In total he played for 6 clubs, won 4 senior honours and scored 280 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 172,
+   "header": 57,
+   "penalty": 31,
+   "freeKick": 20,
+   "leftFoot": 196,
+   "rightFoot": 84
+  }
+ },
+ {
+  "id": "alfredo-di-stefano",
+  "name": "Alfredo Di Stéfano",
+  "fullName": "Alfredo Stéfano Di Stéfano Laulhé",
+  "photoUrl": null,
+  "nationality": "Argentina",
+  "countryCode": "AR",
+  "confederation": "CONMEBOL",
+  "position": "SS",
+  "secondaryPositions": [
+   "ST",
+   "CM"
+  ],
+  "dateOfBirth": "1926-07-04",
+  "heightCm": 178,
+  "preferredFoot": "Right",
+  "shirtNumber": 9,
+  "clubs": [
+   "River Plate",
+   "Millonarios",
+   "Real Madrid",
+   "Espanyol"
+  ],
+  "careerGoals": 514,
+  "careerAssists": null,
+  "internationalCaps": 31,
+  "internationalGoals": 23,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 0,
+  "honours": [
+   "5× European Cup",
+   "8× La Liga",
+   "2× Ballon d'Or"
+  ],
+  "attributes": {
+   "pace": 86,
+   "shooting": 90,
+   "passing": 86,
+   "dribbling": 88,
+   "defending": 60,
+   "physical": 82
+  },
+  "overall": 95,
+  "potential": 95,
+  "skillMoves": 3,
+  "weakFoot": 3,
+  "workRate": "High/High",
+  "playStyles": [
+   "Complete Forward",
+   "Incisive Pass"
+  ],
+  "era": "1950s-60s",
+  "bio": "Di Stéfano won the first five European Cups with Real Madrid, playing every forward position in the same match and dropping into midfield to start attacks. He scored in each of those five finals, won two Ballons d'Or, and never played a World Cup — a gap in the record rather than in the player. His record stands at 514 career goals, 31 caps for Argentina and 0 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 306,
+   "header": 108,
+   "penalty": 57,
+   "freeKick": 43,
+   "leftFoot": 134,
+   "rightFoot": 380
+  }
+ },
+ {
+  "id": "luis-suarez",
+  "name": "Luis Suárez",
+  "fullName": "Luis Alberto Suárez Díaz",
+  "photoUrl": null,
+  "nationality": "Uruguay",
+  "countryCode": "UY",
+  "confederation": "CONMEBOL",
+  "position": "ST",
+  "secondaryPositions": [
+   "SS"
+  ],
+  "dateOfBirth": "1987-01-24",
+  "heightCm": 182,
+  "preferredFoot": "Right",
+  "shirtNumber": 9,
+  "clubs": [
+   "Nacional",
+   "Groningen",
+   "Ajax",
+   "Liverpool",
+   "Barcelona",
+   "Atlético Madrid",
+   "Grêmio",
+   "Inter Miami"
+  ],
+  "careerGoals": 590,
+  "careerAssists": null,
+  "internationalCaps": 143,
+  "internationalGoals": 69,
+  "worldCupGoals": 7,
+  "worldCupAppearances": 16,
+  "honours": [
+   "Copa América 2011",
+   "UEFA Champions League 2015",
+   "5× La Liga",
+   "2× European Golden Shoe"
+  ],
+  "attributes": {
+   "pace": 80,
+   "shooting": 94,
+   "passing": 82,
+   "dribbling": 88,
+   "defending": 36,
+   "physical": 84
+  },
+  "overall": 91,
+  "potential": 91,
+  "skillMoves": 4,
+  "weakFoot": 4,
+  "workRate": "High/Medium",
+  "playStyles": [
+   "Poacher",
+   "Technical Dribbler"
+  ],
+  "era": "2010s",
+  "bio": "Suárez won the European Golden Shoe twice and formed with Messi and Neymar the front three that won the 2015 treble at Barcelona. He is Uruguay's record scorer, won the 2011 Copa América, and scored 82 goals in a single season for Barcelona in 2015-16 across all competitions. In total he played for 8 clubs, won 4 senior honours and scored 590 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 375,
+   "header": 121,
+   "penalty": 54,
+   "freeKick": 40,
+   "leftFoot": 153,
+   "rightFoot": 437
+  }
+ },
+ {
+  "id": "hugo-sanchez",
+  "name": "Hugo Sánchez",
+  "fullName": "Hugo Sánchez Márquez",
+  "photoUrl": null,
+  "nationality": "Mexico",
+  "countryCode": "MX",
+  "confederation": "CONCACAF",
+  "position": "ST",
+  "secondaryPositions": [],
+  "dateOfBirth": "1958-07-11",
+  "heightCm": 175,
+  "preferredFoot": "Left",
+  "shirtNumber": 9,
+  "clubs": [
+   "UNAM",
+   "Atlético Madrid",
+   "Real Madrid",
+   "Club América",
+   "Rayo Vallecano"
+  ],
+  "careerGoals": 440,
+  "careerAssists": null,
+  "internationalCaps": 58,
+  "internationalGoals": 29,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 9,
+  "honours": [
+   "5× La Liga",
+   "UEFA Cup 1986",
+   "2× Pichichi",
+   "CONCACAF Championship 1977"
+  ],
+  "attributes": {
+   "pace": 84,
+   "shooting": 93,
+   "passing": 70,
+   "dribbling": 82,
+   "defending": 30,
+   "physical": 76
+  },
+  "overall": 90,
+  "potential": 90,
+  "skillMoves": 4,
+  "weakFoot": 2,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Acrobatic Finisher",
+   "Poacher"
+  ],
+  "era": "1980s",
+  "bio": "Sánchez scored 164 goals in five seasons at Real Madrid and won five consecutive La Liga titles, a record for a Mexican abroad. Famous for his somersault celebration, he scored with overhead kicks as readily as tap-ins, and remains CONCACAF's most decorated export. Across his career he turned out for clubs including UNAM and Rayo Vallecano, finishing with 58 caps and 29 goals for Mexico.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 290,
+   "header": 83,
+   "penalty": 37,
+   "freeKick": 30,
+   "leftFoot": 308,
+   "rightFoot": 132
+  }
+ },
+ {
+  "id": "patrick-vieira",
+  "name": "Patrick Vieira",
+  "fullName": "Patrick Paul Vieira",
+  "photoUrl": null,
+  "nationality": "France",
+  "countryCode": "FR",
+  "confederation": "UEFA",
+  "position": "CM",
+  "secondaryPositions": [
+   "DM"
+  ],
+  "dateOfBirth": "1976-06-23",
+  "heightCm": 192,
+  "preferredFoot": "Right",
+  "shirtNumber": 4,
+  "clubs": [
+   "Cannes",
+   "AC Milan",
+   "Arsenal",
+   "Juventus",
+   "Inter",
+   "Manchester City"
+  ],
+  "careerGoals": 56,
+  "careerAssists": null,
+  "internationalCaps": 107,
+  "internationalGoals": 6,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 11,
+  "honours": [
+   "FIFA World Cup 1998",
+   "European Championship 2000",
+   "3× Premier League",
+   "4× Serie A"
+  ],
+  "attributes": {
+   "pace": 80,
+   "shooting": 70,
+   "passing": 80,
+   "dribbling": 74,
+   "defending": 84,
+   "physical": 92
+  },
+  "overall": 90,
+  "potential": 90,
+  "skillMoves": 2,
+  "weakFoot": 3,
+  "workRate": "Medium/High",
+  "playStyles": [
+   "Bruiser",
+   "Intercept"
+  ],
+  "era": "1990s-2000s",
+  "bio": "Vieira captained Arsenal through the unbeaten 2003-04 league season and won the World Cup and European Championship with France in the same four-year span. He covered ground with long strides, won the ball back high up the pitch, and later won four Serie A titles in Italy. His record stands at 56 career goals, 107 caps for France and 11 World Cup appearances.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 34,
+   "header": 13,
+   "penalty": 5,
+   "freeKick": 4,
+   "leftFoot": 15,
+   "rightFoot": 41
+  }
+ },
+ {
+  "id": "david-villa",
+  "name": "David Villa",
+  "fullName": "David Villa Sánchez",
+  "photoUrl": null,
+  "nationality": "Spain",
+  "countryCode": "ES",
+  "confederation": "UEFA",
+  "position": "ST",
+  "secondaryPositions": [
+   "LW"
+  ],
+  "dateOfBirth": "1981-12-03",
+  "heightCm": 175,
+  "preferredFoot": "Right",
+  "shirtNumber": 7,
+  "clubs": [
+   "Sporting Gijón",
+   "Real Zaragoza",
+   "Valencia",
+   "Barcelona",
+   "Atlético Madrid",
+   "New York City FC",
+   "Vissel Kobe"
+  ],
+  "careerGoals": 386,
+  "careerAssists": null,
+  "internationalCaps": 98,
+  "internationalGoals": 59,
+  "worldCupGoals": 9,
+  "worldCupAppearances": 12,
+  "honours": [
+   "FIFA World Cup 2010",
+   "European Championship 2008",
+   "UEFA Champions League 2011"
+  ],
+  "attributes": {
+   "pace": 86,
+   "shooting": 92,
+   "passing": 74,
+   "dribbling": 84,
+   "defending": 30,
+   "physical": 66
+  },
+  "overall": 89,
+  "potential": 89,
+  "skillMoves": 3,
+  "weakFoot": 4,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Poacher",
+   "Chip Shot"
+  ],
+  "era": "2000s-2010s",
+  "bio": "Villa is Spain's record scorer with 59 goals and won the Silver Boot at the 2010 World Cup, where his five goals carried the side to the final. He scored in every competition he entered, won the 2011 Champions League with Barcelona, and finished his career in New York. In total he played for 7 clubs, won 3 senior honours and scored 386 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 233,
+   "header": 77,
+   "penalty": 45,
+   "freeKick": 31,
+   "leftFoot": 100,
+   "rightFoot": 286
+  }
+ },
+ {
+  "id": "george-weah",
+  "name": "George Weah",
+  "fullName": "George Tawlon Manneh Oppong Ousman Weah",
+  "photoUrl": null,
+  "nationality": "Liberia",
+  "countryCode": "LR",
+  "confederation": "CAF",
+  "position": "ST",
+  "secondaryPositions": [
+   "SS"
+  ],
+  "dateOfBirth": "1966-10-01",
+  "heightCm": 184,
+  "preferredFoot": "Right",
+  "shirtNumber": 9,
+  "clubs": [
+   "Mighty Barrolle",
+   "Monaco",
+   "Paris Saint-Germain",
+   "AC Milan",
+   "Chelsea",
+   "Manchester City",
+   "Marseille"
+  ],
+  "careerGoals": 300,
+  "careerAssists": null,
+  "internationalCaps": 60,
+  "internationalGoals": 22,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 0,
+  "honours": [
+   "2× Serie A",
+   "3× African Player of the Year",
+   "Ballon d'Or 1995"
+  ],
+  "attributes": {
+   "pace": 92,
+   "shooting": 88,
+   "passing": 76,
+   "dribbling": 86,
+   "defending": 36,
+   "physical": 84
+  },
+  "overall": 90,
+  "potential": 90,
+  "skillMoves": 3,
+  "weakFoot": 4,
+  "workRate": "High/Medium",
+  "playStyles": [
+   "Speed Dribbler",
+   "Power Shot"
+  ],
+  "era": "1990s",
+  "bio": "Weah is the only African player to win the Ballon d'Or, in 1995, after scoring 15 goals in his first season at Milan and winning Serie A twice. He never played at a World Cup because Liberia never qualified, and was later elected president of his country. Across his career he turned out for clubs including Mighty Barrolle and Marseille, finishing with 60 caps and 22 goals for Liberia.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 188,
+   "header": 62,
+   "penalty": 27,
+   "freeKick": 23,
+   "leftFoot": 78,
+   "rightFoot": 222
+  }
+ },
+ {
+  "id": "xavi-hernandez",
+  "name": "Xavi",
+  "fullName": "Xavier Hernández Creus",
+  "photoUrl": null,
+  "nationality": "Spain",
+  "countryCode": "ES",
+  "confederation": "UEFA",
+  "position": "CM",
+  "secondaryPositions": [
+   "CAM"
+  ],
+  "dateOfBirth": "1980-01-25",
+  "heightCm": 170,
+  "preferredFoot": "Right",
+  "shirtNumber": 6,
+  "clubs": [
+   "Barcelona",
+   "Al Sadd"
+  ],
+  "careerGoals": 85,
+  "careerAssists": null,
+  "internationalCaps": 133,
+  "internationalGoals": 13,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 14,
+  "honours": [
+   "FIFA World Cup 2010",
+   "2× European Championship",
+   "4× UEFA Champions League",
+   "8× La Liga"
+  ],
+  "attributes": {
+   "pace": 66,
+   "shooting": 72,
+   "passing": 94,
+   "dribbling": 88,
+   "defending": 68,
+   "physical": 66
+  },
+  "overall": 92,
+  "potential": 92,
+  "skillMoves": 3,
+  "weakFoot": 3,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Tiki-Taka",
+   "Long Ball Passer"
+  ],
+  "era": "2000s-2010s",
+  "bio": "Xavi received the ball under pressure and released it into space, over and over, until opponents stopped chasing. He was the metronome of Barcelona and Spain through four major titles, including the 2010 World Cup, and led the tournament in passes at three consecutive World Cups. Across his career he turned out for clubs including Barcelona and Al Sadd, finishing with 133 caps and 13 goals for Spain.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 54,
+   "header": 17,
+   "penalty": 9,
+   "freeKick": 5,
+   "leftFoot": 22,
+   "rightFoot": 63
+  }
+ },
+ {
+  "id": "lev-yashin",
+  "name": "Lev Yashin",
+  "fullName": "Lev Ivanovich Yashin",
+  "photoUrl": null,
+  "nationality": "Soviet Union",
+  "countryCode": "RU",
+  "confederation": "UEFA",
+  "position": "GK",
+  "secondaryPositions": [],
+  "dateOfBirth": "1929-10-22",
+  "heightCm": 189,
+  "preferredFoot": "Right",
+  "shirtNumber": 1,
+  "clubs": [
+   "Dynamo Moscow"
+  ],
+  "careerGoals": 0,
+  "careerAssists": null,
+  "internationalCaps": 74,
+  "internationalGoals": 0,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 13,
+  "honours": [
+   "European Championship 1960",
+   "Olympic gold 1956",
+   "5× Soviet league title"
+  ],
+  "attributes": {
+   "pace": 62,
+   "shooting": 20,
+   "passing": 55,
+   "dribbling": 45,
+   "defending": 30,
+   "physical": 82
+  },
+  "overall": 91,
+  "potential": 91,
+  "skillMoves": 1,
+  "weakFoot": 3,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Commanding Presence",
+   "Cross Claimer"
+  ],
+  "era": "1950s-60s",
+  "bio": "The only goalkeeper to win the Ballon d'Or, Yashin redefined the position by sweeping far outside his area in an era when keepers stayed on their line. He kept goal for Dynamo Moscow for two decades and for the Soviet Union across four World Cups, playing in a black kit that earned him the nickname the Black Spider. In total he played for 1 clubs, won 3 senior honours and scored 0 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": null
+ },
+ {
+  "id": "javier-zanetti",
+  "name": "Javier Zanetti",
+  "fullName": "Javier Adelmar Zanetti",
+  "photoUrl": null,
+  "nationality": "Argentina",
+  "countryCode": "AR",
+  "confederation": "CONMEBOL",
+  "position": "RB",
+  "secondaryPositions": [
+   "CM"
+  ],
+  "dateOfBirth": "1973-08-10",
+  "heightCm": 178,
+  "preferredFoot": "Right",
+  "shirtNumber": 4,
+  "clubs": [
+   "Talleres",
+   "Banfield",
+   "Inter"
+  ],
+  "careerGoals": 29,
+  "careerAssists": null,
+  "internationalCaps": 145,
+  "internationalGoals": 5,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 8,
+  "honours": [
+   "UEFA Champions League 2010",
+   "5× Serie A",
+   "Copa América 1991"
+  ],
+  "attributes": {
+   "pace": 84,
+   "shooting": 58,
+   "passing": 78,
+   "dribbling": 76,
+   "defending": 82,
+   "physical": 86
+  },
+  "overall": 89,
+  "potential": 89,
+  "skillMoves": 2,
+  "weakFoot": 3,
+  "workRate": "High/High",
+  "playStyles": [
+   "Relentless",
+   "Intercept"
+  ],
+  "era": "1990s-2000s",
+  "bio": "Zanetti played nineteen seasons for Inter and 145 times for Argentina, the most caps by any player in either shirt at the time he retired. Nominally a right-back, he could fill any role in midfield, and his training discipline kept him at the top level past his fortieth birthday. He ended with 5 international goals in 145 appearances for Argentina, having played at 8 World Cup matches.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 19,
+   "header": 6,
+   "penalty": 2,
+   "freeKick": 2,
+   "leftFoot": 8,
+   "rightFoot": 21
+  }
+ },
+ {
+  "id": "zico",
+  "name": "Zico",
+  "fullName": "Arthur Antunes Coimbra",
+  "photoUrl": null,
+  "nationality": "Brazil",
+  "countryCode": "BR",
+  "confederation": "CONMEBOL",
+  "position": "CAM",
+  "secondaryPositions": [
+   "CM"
+  ],
+  "dateOfBirth": "1953-03-03",
+  "heightCm": 172,
+  "preferredFoot": "Right",
+  "shirtNumber": 10,
+  "clubs": [
+   "Flamengo",
+   "Udinese",
+   "Kashima Antlers"
+  ],
+  "careerGoals": 400,
+  "careerAssists": null,
+  "internationalCaps": 71,
+  "internationalGoals": 48,
+  "worldCupGoals": 5,
+  "worldCupAppearances": 14,
+  "honours": [
+   "Copa Libertadores 1981",
+   "Intercontinental Cup 1981",
+   "4× Brazilian league"
+  ],
+  "attributes": {
+   "pace": 72,
+   "shooting": 92,
+   "passing": 90,
+   "dribbling": 88,
+   "defending": 40,
+   "physical": 66
+  },
+  "overall": 92,
+  "potential": 92,
+  "skillMoves": 4,
+  "weakFoot": 3,
+  "workRate": "Medium/Medium",
+  "playStyles": [
+   "Power Free-Kick",
+   "Long Shot"
+  ],
+  "era": "1970s-80s",
+  "bio": "Zico scored more than four hundred goals from midfield, most of them for Flamengo, and was the outstanding player of the 1982 World Cup side that did not win it. His free kicks, bent over and around walls, set the standard of the era, and he won the Copa Libertadores and Intercontinental Cup in 1981. In total he played for 3 clubs, won 3 senior honours and scored 400 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 252,
+   "header": 85,
+   "penalty": 29,
+   "freeKick": 34,
+   "leftFoot": 104,
+   "rightFoot": 296
+  }
+ },
+ {
+  "id": "zinedine-zidane",
+  "name": "Zinedine Zidane",
+  "fullName": "Zinedine Yazid Zidane",
+  "photoUrl": null,
+  "nationality": "France",
+  "countryCode": "FR",
+  "confederation": "UEFA",
+  "position": "CAM",
+  "secondaryPositions": [
+   "CM"
+  ],
+  "dateOfBirth": "1972-06-23",
+  "heightCm": 185,
+  "preferredFoot": "Right",
+  "shirtNumber": 5,
+  "clubs": [
+   "Cannes",
+   "Bordeaux",
+   "Juventus",
+   "Real Madrid"
+  ],
+  "careerGoals": 125,
+  "careerAssists": null,
+  "internationalCaps": 108,
+  "internationalGoals": 31,
+  "worldCupGoals": 5,
+  "worldCupAppearances": 12,
+  "honours": [
+   "FIFA World Cup 1998",
+   "European Championship 2000",
+   "UEFA Champions League 2002",
+   "Ballon d'Or 1998"
+  ],
+  "attributes": {
+   "pace": 76,
+   "shooting": 84,
+   "passing": 90,
+   "dribbling": 94,
+   "defending": 62,
+   "physical": 86
+  },
+  "overall": 96,
+  "potential": 96,
+  "skillMoves": 5,
+  "weakFoot": 4,
+  "workRate": "Medium/High",
+  "playStyles": [
+   "Technical Dribbler",
+   "Long Shot"
+  ],
+  "era": "1990s-2000s",
+  "bio": "Zidane scored twice in the 1998 World Cup final and volleyed the winning goal in the 2002 Champions League final, and in between produced the most complete midfield performances of his generation. He carried France to the 2006 final before his dismissal, and won the Ballon d'Or in 1998. In total he played for 4 clubs, won 4 senior honours and scored 125 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": {
+   "openPlay": 77,
+   "header": 29,
+   "penalty": 10,
+   "freeKick": 9,
+   "leftFoot": 32,
+   "rightFoot": 93
+  }
+ },
+ {
+  "id": "dino-zoff",
+  "name": "Dino Zoff",
+  "fullName": "Dino Zoff",
+  "photoUrl": null,
+  "nationality": "Italy",
+  "countryCode": "IT",
+  "confederation": "UEFA",
+  "position": "GK",
+  "secondaryPositions": [],
+  "dateOfBirth": "1942-02-28",
+  "heightCm": 182,
+  "preferredFoot": "Right",
+  "shirtNumber": 1,
+  "clubs": [
+   "Napoli",
+   "Juventus"
+  ],
+  "careerGoals": 0,
+  "careerAssists": null,
+  "internationalCaps": 112,
+  "internationalGoals": 0,
+  "worldCupGoals": 0,
+  "worldCupAppearances": 17,
+  "honours": [
+   "FIFA World Cup 1982",
+   "European Championship 1968",
+   "6× Serie A"
+  ],
+  "attributes": {
+   "pace": 55,
+   "shooting": 18,
+   "passing": 55,
+   "dribbling": 40,
+   "defending": 25,
+   "physical": 78
+  },
+  "overall": 90,
+  "potential": 90,
+  "skillMoves": 1,
+  "weakFoot": 3,
+  "workRate": "Low/Medium",
+  "playStyles": [
+   "Commanding Presence",
+   "Sweeper Keeper"
+  ],
+  "era": "1970s-80s",
+  "bio": "Zoff captained Italy to the 1982 World Cup at the age of forty, becoming the oldest winner of the tournament. His run of 1,142 minutes without conceding an international goal stood as a record for decades, and his positioning and calm under pressure set the standard for Italian goalkeeping. In total he played for 2 clubs, won 3 senior honours and scored 0 goals.",
+  "isFictional": false,
+  "signatureSkill": null,
+  "ratingSource": "Atlas model v1",
+  "ratingEdition": "Atlas model v1",
+  "dataNote": "Career totals per public records; attributes are an Atlas model estimate.",
+  "goalsBreakdown": null
+ }
+]
