@@ -1,6 +1,9 @@
 # The Football Atlas
 
-A searchable encyclopedia of football: **87 players, 29 nations, 147 clubs and 25 World Cup
+**Live: https://payrghfgh.github.io/the-football-atlas/** · deployed to GitHub Pages from this repo on
+every push to `main` (see `.github/workflows/deploy.yml`).
+
+A searchable encyclopedia of football: **88 players, 29 nations, 147 clubs and 25 World Cup
 editions (1930 → 2026)** in one statically generated Next.js site.
 
 Every player page carries career numbers, a six-axis skill profile, an EA-FC-style rating card
@@ -246,8 +249,9 @@ red save, grey off target).
 
 ## Screenshots
 
-`screenshots/` holds the handoff captures, taken from the production build at 1440 px
-(`mobile-home.png` at 390 px):
+The captures below are produced locally by `scripts/capture-all.mjs` and `scripts/capture-game.mjs`.
+They are build artifacts, so they are not committed — regenerate them with the commands underneath.
+Taken from the production build at 1440 px (`mobile-home.png` at 390 px):
 
 - `home.png`
 - `player.png` — `/players/lionel-messi`
